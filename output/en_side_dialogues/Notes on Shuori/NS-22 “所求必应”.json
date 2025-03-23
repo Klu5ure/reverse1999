@@ -1,0 +1,524 @@
+[
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "上回说到——",
+    "english_speaker": "Storyteller",
+    "english_text": "Previously, we were at ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅵ：",
+    "chinese_text": "说到祥瑞鹿蜀人间历劫，幡然悔悟！",
+    "english_speaker": "Citizen VI",
+    "english_text": "Lùshŭ the Xiángruì came to the human world to go through the god's test, but she repented!"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "正是。且说那鹿蜀，衔草结环，除夜叩拜了先生开解之恩，自城中一别，独往断桥去也。",
+    "english_speaker": "Storyteller",
+    "english_text": "Exactly. She had been troubled by the repentance until the New Year's Eve. That night, her tutor straightened her out, and she was very grateful. After that, she bid him goodbye and went to the broken bridge alone."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "须知今岁朔日亦交春，端的是百年难遇，云中却狂雨乱坠，异象频生——！",
+    "english_speaker": "Storyteller",
+    "english_text": "However, ladies and gentlemen, the Shuòrì this year happened to be the beginning of spring. Such a coincidence happens only once every 100 years. On this peculiar day, the thunderstorm was raging, and all the strangest things happened!"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "即使那崖岸上是致人晕眩之雾气，崖下是去不可返之深渊，鹿蜀身负了众人期望，决意跃过这无人可征之断桥，为它所庇佑者，寻觅重启龟甲问卜之法——",
+    "english_speaker": "Storyteller",
+    "english_text": "The cliff was shrouded in confusing fog, and below was a bottomless abyss! No one had ever jumped over the bridge successfully, yet the Lùshŭ decided to make an attempt, for the sake of the people who believed in her! She was determined to retrieve the tortoise shell divination ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅵ：",
+    "chinese_text": "你说错啦！是木签，不是龟甲！",
+    "english_speaker": "Citizen VI",
+    "english_text": "That's not it! She used the wooden chip! Not the tortoise shell!"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "这……",
+    "english_speaker": "Storyteller",
+    "english_text": "Emm ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "这故事我们都听过好几遍了，这也讲错，您确实糊涂了。",
+    "english_speaker": "Citizen II",
+    "english_text": "You've told this story for many times, and still getting it wrong? You have to admit you're not young anymore."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "说故事，总有疏漏或再编，劳烦各位听过的，就当作是没听过一般，权且忘了罢……",
+    "english_speaker": "Storyteller",
+    "english_text": "Well, there is no such thing as a perfect story. Adaptations are always allowed, right? Please pretend you didn't hear me and forget about it ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅶ：",
+    "chinese_text": "这说书的，怎么又开始了？原先我还记着他说不会再讲了，抢过他最后一场的坐堂票呢——",
+    "english_speaker": "Citizen VII",
+    "english_text": "Give me a break. He's telling that story again? I thought he'd be done with it after last time. I even bought a ticket!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅴ：",
+    "chinese_text": "原先？你这一觉睡得……原先是哪个原先？翻过年以前？",
+    "english_speaker": "Citizen V",
+    "english_text": "\"Last time\"? When, last year? Did you sleep for a whole year?"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "堂后蓝衣公子之问，我可全数听说了。",
+    "english_speaker": "Storyteller",
+    "english_text": "I hear you, gentleman in blue."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅶ：",
+    "chinese_text": "耳朵这么好使……",
+    "english_speaker": "Citizen VII",
+    "english_text": "Now he's listening ..."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "我这回来，就像你，可是这鹿蜀传奇的一部分。",
+    "english_speaker": "Storyteller",
+    "english_text": "You know, you're part of the story, just like me."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅶ：",
+    "chinese_text": "我？什么意思？",
+    "english_speaker": "Citizen VII",
+    "english_text": "Me? What do you mean?"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "鹿蜀跃桥，唤醒渊庙，复生河流。沛霖川恢复往日充盈，人们年节走动频繁，于是我便重拾旧业了。",
+    "english_speaker": "Storyteller",
+    "english_text": "Listen and you'll know. So the Lùshŭ jumped over the bridge, awakened the Yuān Temple, and revived the Pèilín River. As a result, more and more people come to the Pèi City at festivals, so I start telling stories again."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "至于你——",
+    "english_speaker": "Storyteller",
+    "english_text": "As for you ..."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "那鹿蜀收了你的酒馆，将你变为它类，原是你自己卖酒时缺斤少两坏了名声，却怪时节收成不良，营生不易。",
+    "english_speaker": "Storyteller",
+    "english_text": "The Lùshŭ took over your tavern and turned you into her kind because you were an unscrupulous profiteer. You gave short weight to the people. That caused the decline of your business, yet you blamed it on the poor harvest."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "这鹿蜀，可算是解了你的困境！替你经营酒坊，还令你好好睡上一觉，醒来呀，坐享其成便是——",
+    "english_speaker": "Storyteller",
+    "english_text": "But I think the Lùshŭ saved you from the plight! She ran the tavern for you, and you had a good sleep during that time. In a word, you did nothing good, but things ended up well for you!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅵ：",
+    "chinese_text": "还有这样的美事！",
+    "english_speaker": "Citizen VI",
+    "english_text": "What? No way!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅵ：",
+    "chinese_text": "我也想睡一觉起来，就有人帮我写了策论！",
+    "english_speaker": "Citizen VI",
+    "english_text": "I want that, too. If only somebody could finish my essay when I fall asleep!"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "小小年纪便习写策论，年少有为，年少有为啊……",
+    "english_speaker": "Storyteller",
+    "english_text": "Already writing a political essay at this age? You have a promising future, young man ..."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "不过，还是早些回去，洗洗睡了，明日里起来温书要紧。",
+    "english_speaker": "Storyteller",
+    "english_text": "But I think you should go home now and get some sleep. You need to rest well, so you can continue with your studies tomorrow."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "听故事可写不来策论，是不是？",
+    "english_speaker": "Storyteller",
+    "english_text": "After all, the essay matters much more than the story, right?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "节日热闹的喧嚷之外，一场话别正在城门前酝酿。",
+    "english_speaker": "Narrator",
+    "english_text": "Amidst the festive hustle and bustle, a farewell brews in front of the city gates."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "人们从这里进入，也从这里离开。",
+    "english_speaker": "Narrator",
+    "english_text": "This is the place from which people come, and people go."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这次的素材相当充足，足够我写上一本恰到好处的游记了。",
+    "english_speaker": "Bessmert",
+    "english_text": "I have so many things to write about this time, enough for me to write a travel note."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这本游记，应该叫什么好……《东方游记》？《沛城游记》？",
+    "english_speaker": "Bessmert",
+    "english_text": "What should I call it? Travel in the East? Journey to Pèi City?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……听上去都不太对。",
+    "english_speaker": "Yenisei",
+    "english_text": "Neither of them sounds good."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "写“游记”的人已经太多了，女士。我认为，您是与他们不同的，所以……",
+    "english_speaker": "Yenisei",
+    "english_text": "They are already too many Travels and Journeys. I think you are different from those authors, Madam, so ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天将一行人送到城门外不远处，道路便分开两边。一边是上山的路，一边是下山的路。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān escorts the group to a spot near the city gate, where the road splits into two. On one side lies the road up the mountain, and on the other lies the road down."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他停下来，缓缓落到地上，略有不适地站稳。",
+    "english_speaker": "Narrator",
+    "english_text": "He slowly descends to the ground, standing still, stiff and slightly uncomfortable."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两位神秘学家的人类同伴都警惕而畏惧地向后退去。",
+    "english_speaker": "Narrator",
+    "english_text": "The human companions of the two arcanists retreat in caution and fear from the strange bird creature."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "是不同。两位皆得了始终。",
+    "english_speaker": "Getian",
+    "english_text": "Indeed. Unlike others, the two of you have experienced it in its entirety."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "这是什么意思？",
+    "english_speaker": "Yenisei",
+    "english_text": "What do you mean?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "有始有终，不忘来时心念，便是得出始终。",
+    "english_speaker": "Getian",
+    "english_text": "There was a beginning, and now here is an end. Forget not where you came from at the end—this is entirety."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "有福之人亦如此。",
+    "english_speaker": "Getian",
+    "english_text": "Thus, happiness is found."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "很遗憾，我还是没有听懂。",
+    "english_speaker": "Bessmert",
+    "english_text": "I'm sorry that I still don't understand your riddles."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "无妨。",
+    "english_speaker": "Getian",
+    "english_text": "That's no matter."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我们……我们能走了吗？很抱歉打扰你们，但我真的很想回家……",
+    "english_speaker": "Krolik",
+    "english_text": "Emm ... Sorry to interrupt you. Can we go? I really want to go home right away ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "啊，那我们——",
+    "english_speaker": "Bessmert",
+    "english_text": "Ah, then we shall ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "烦请稍待。我还有一事相问。",
+    "english_speaker": "Getian",
+    "english_text": "Please wait. There's one more thing."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "那么，您请说。",
+    "english_speaker": "Bessmert",
+    "english_text": "Certainly, please."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "两位所问，是否都已得到解答？",
+    "english_speaker": "Getian",
+    "english_text": "The questions you asked—have you had the answers?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我不清楚。",
+    "english_speaker": "Bessmert",
+    "english_text": "I'm not sure."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "不清楚？",
+    "english_speaker": "Getian",
+    "english_text": "What do you mean?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "那天曲娘跃过断桥之后，小叶尼塞告诉我，在我先前写下了问题的地方，出现了一个图像。",
+    "english_speaker": "Bessmert",
+    "english_text": "When Jiŭ Niángzĭ jumped over the bridge, Yenisei saw a pattern being formed where I wrote my question."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们看不明白，也没太在意，因为我的问题或许本身就没有解答——",
+    "english_speaker": "Bessmert",
+    "english_text": "We didn't understand it. It didn't bother us either, perhaps because there was no answer to my question ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "问卜之问，问卜之卜。前者提出问题，后者卜筮解答。你们得到的，应是卦象，而非卦辞。",
+    "english_speaker": "Getian",
+    "english_text": "A question is asked, and a divination is made. What you saw might be a Hexagram, not the interpretation of it."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "还记得那个图形，长什么模样吗？",
+    "english_speaker": "Getian",
+    "english_text": "Do you still remember what it looks like?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞思索着，用地质锤的把手在沙地上划下歪歪扭扭，中间偶有断开的几条线。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei thinks for a moment and uses a rock hammer handle to draw crooked and twisted lines in the sand, with occasional breaks in the middle of them."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "它变化了一下……最后是这样。",
+    "english_speaker": "Yenisei",
+    "english_text": "It changed a little ... and ended up like this."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "水火既济。",
+    "english_speaker": "Getian",
+    "english_text": "The Hexagram of Water and Fire."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我猜，这卦应属年长之人。你又如何？",
+    "english_speaker": "Getian",
+    "english_text": "I'd assume this belongs to an elderly person. What about yours?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞愣住片刻，又划下几横，到最后已经有些潦草，以至于支出去一节。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei is stunned for a moment, then draws a few more lines. By the end of it, her offering is already rather messy, so much so that she stretches out a section of it."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "所幸葛天尚能辨认。",
+    "english_speaker": "Narrator",
+    "english_text": "Fortunately, Gĕtiān can still read it."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "此为……需卦。虽不知变卦几何……",
+    "english_speaker": "Getian",
+    "english_text": "This is ... Xū, the Hexagram of waiting. Though I don't know what could be derived from it ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "不过需卦本真简明。上为水险，是龙困浅滩，未到时机。下为刚健，遇凶亦可化险为夷。",
+    "english_speaker": "Getian",
+    "english_text": "The interpretation is simple. Above is Water, the stranding dragon, advising patience. Below is uprightness, which means you will smooth away the obstacles."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么意思？",
+    "english_speaker": "Yenisei",
+    "english_text": "Which means ...?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你会找到那片水域，只是需得等待时机。",
+    "english_speaker": "Getian",
+    "english_text": "You will find your water. All you need to do is wait."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……说了跟没说一样。",
+    "english_speaker": "Yenisei",
+    "english_text": "Yes, thank you. I didn't know that."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "至于“既济”……",
+    "english_speaker": "Getian",
+    "english_text": "As for your Hexagram ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "既已渡河，那便已做出选择。",
+    "english_speaker": "Getian",
+    "english_text": "You have gone across the river. A decision has been made."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "原来是这样。",
+    "english_speaker": "Bessmert",
+    "english_text": "I see."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "所以这问卜其实一点用也没有。",
+    "english_speaker": "Yenisei",
+    "english_text": "Turns out The Divination doesn't help at all."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "信则有。",
+    "english_speaker": "Getian",
+    "english_text": "It does, if you believe in it."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，我知道了。",
+    "english_speaker": "Bessmert",
+    "english_text": "No. I know what you mean."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这与我现在所想的一样。谢谢您，葛天先生。",
+    "english_speaker": "Bessmert",
+    "english_text": "It is exactly how I expected it to be. Thank you, Mr. Gĕtiān."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "不必言谢。",
+    "english_speaker": "Getian",
+    "english_text": "No need."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "您呢？您问了吗？有解答了吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "And what about you? Have you learned your answer?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "它令我顺其自然。",
+    "english_speaker": "Getian",
+    "english_text": "It told me to let things be."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "所以我决定……既然已经下山，那便从心而为了。",
+    "english_speaker": "Getian",
+    "english_text": "Since I have left the mountain ... I should follow what's inside my mind."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天转过头去，以翅膀指向上山的道路。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān turns his head and points his wings toward the path up the mountain."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我仍记得，河灯曾经漂向的沛霖川尽头，远远立着一栋宏伟的楼宇。",
+    "english_speaker": "Getian",
+    "english_text": "I remember that at the end of the Pèilín River, where the lanterns float, stands a great building."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "或真实，或虚幻。即使是数次亲眼所见，我却从未心念往去，一探究竟。",
+    "english_speaker": "Getian",
+    "english_text": "It might be real or illusional. I have seen it many times, yet I have never thought of going there."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两人也随着葛天所指方向看过去，只看到曲娘消失的那片丛林，再看不到更远更多。",
+    "english_speaker": "Narrator",
+    "english_text": "The two of them look in the direction pointed out by Gĕtiān, only seeing the jungle into which Jiŭ Niángzĭ disappeared, and nothing more."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那里什么也没有。",
+    "english_speaker": "Yenisei",
+    "english_text": "There's nothing there."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我仍会前去。",
+    "english_speaker": "Getian",
+    "english_text": "I will go anyway."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那……",
+    "english_speaker": "Yenisei",
+    "english_text": "Then ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……曲娘呢？她也过去了。但她是不是，不会再回来了？",
+    "english_speaker": "Yenisei",
+    "english_text": "What about Jiŭ Niángzĭ? She jumped over the bridge. Is she never coming back?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天没有回答，摇了摇头。小叶尼塞只能征询地望向别斯米尔。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān doesn't answer, he only shakes his head. All Yenisei can do is glance over to Gĕtiān filled with unspoken inquiries."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔也看着远处的山崖与丛林，许久没有说话。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert turns toward the distant cliffs and jungle, standing without speaking for a long while."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "片刻后，她才开口。",
+    "english_speaker": "Narrator",
+    "english_text": "Until at last she breaks her silence."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "也许……",
+    "english_speaker": "Bessmert",
+    "english_text": "Perhaps ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "也许在别的地方，会再见到的。",
+    "english_speaker": "Bessmert",
+    "english_text": "Perhaps we will meet again one day."
+  }
+]

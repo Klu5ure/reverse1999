@@ -1,0 +1,644 @@
+[
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "据小叶尼塞描述，样貌奇特的守城者都穿着银色的盔甲，手中握有锐利的冷兵器。",
+    "english_speaker": "Narrator",
+    "english_text": "According to Yenisei's description, the peculiar-looking city defenders are all clad in silver armor and bear sharp weapons in their hands."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "乍一听像中世纪的光景。由于已经从鄂木斯克一路过来，别斯米尔以为这样的守备力量比起她们顺利通过的那些严苛关隘，应该是不足看的。",
+    "english_speaker": "Narrator",
+    "english_text": "It sounds like a scene from the medieval era. Having passed every barrier smoothly all the way from Omsk, they think the garrison here is also a piece of cake."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "但很显然，她们错了。",
+    "english_speaker": "Narrator",
+    "english_text": "But as it becomes clear, they are wrong to underestimate them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "即使双方都奇迹般地仍然能够听懂彼此语义，这里的关卡仍然死守严防。",
+    "english_speaker": "Narrator",
+    "english_text": "Even though both sides miraculously understand each other's words, the passes here are still well-guarded."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "请出示过所。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Please show me your Pass."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我们所有的通行文书都已经给你了。",
+    "english_speaker": "Yenisei",
+    "english_text": "You have all our documents."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "这不是过所。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "This is not a Pass."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "先生，文书就在您的手上，请再看看吧。",
+    "english_speaker": "Bessmert",
+    "english_text": "Sir, you have the documents. Please, take a closer look at them."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "我不是先生。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "I'm not a Sir."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "烦请出示准确过所，上面会写清楚你从哪里来，要到哪里去。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Please show me the right Pass, which shows where you come from and where you are going."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……如果我知道这个问题的答案，我就不会在这里了。",
+    "english_speaker": "Yenisei",
+    "english_text": "I wouldn't have been here if I knew the answers."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "没有过所不能进城。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "No Pass, no entry."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "问题似乎出在双方旗鼓相当的鸡同鸭讲身上。",
+    "english_speaker": "Narrator",
+    "english_text": "The problem seems to lie in both parties failing in the art of effective communication."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "在毫无用处的嘴仗上“打得有来有回”，无疑浪费着所有人的时间。",
+    "english_speaker": "Narrator",
+    "english_text": "This bickering back and forth over useless technical pitfalls undoubtedly wastes everyone's time."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "唉。我认为这张通行证上都写得很清楚了。",
+    "english_speaker": "Bessmert",
+    "english_text": "*sighs* I think it has been clearly stated on our documents."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "您瞧，协会印发的过关文书，在北边的周边关隘都适用，没有理由在您这里不行。",
+    "english_speaker": "Bessmert",
+    "english_text": "The documents were issued by the association. They worked in all the borders in the North. What makes the difference here?"
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "它不行。我不知道你用这个经过了哪里的关卡，况且这上面的记录，无论文字还是印章都不合规制。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "It's not verified. I don't know which pass let you pass with this Pass, let alone the writing and the seal on it cannot be recognized."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "我不能放你们进去，这是玩忽职守。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "If I let you in, it would be my negligence."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "能不能换个人来跟我们说？你听不懂我们的话。",
+    "english_speaker": "Yenisei",
+    "english_text": "Can we talk to someone else? You don't understand what we are talking about."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "我明白你们在说什么。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "I understand every word you say."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "好吧，如果你的确能听懂，事情实际上是这样的，朋友。",
+    "english_speaker": "Bessmert",
+    "english_text": "Very well, if you do, friend, this is what happened:"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们的同伴被变成了马一样的动物，又被一个长着翅膀的人带走了。我们怀疑他们进了城，所以才需要进去找到他们。",
+    "english_speaker": "Bessmert",
+    "english_text": "Our teammates were transformed into \"horses\" and taken away by a winged man. We think they might have been brought here, so we need to get into the city to find them."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这很紧急，希望你能理解——",
+    "english_speaker": "Bessmert",
+    "english_text": "This is urgent. I hope you can understand ..."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "我今日值守此门已逾三个时辰，从没见过什么长着翅膀的人。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "I've been on duty for over six hours. There was no such thing as a \"winged man.\""
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "编故事是无用的。像你们这样想要浑水摸鱼的家伙，我见过太多了。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "You can't fool me with your stupid story. I've seen too many of these little tricks."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "规矩就是，没有过所不能进城。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "The rule is, no Pass, no entry."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "身着银盔的守城者无论从哪个角度打量都像是一堵铁墙。",
+    "english_speaker": "Narrator",
+    "english_text": "The defender in silver armor looks like a wall of iron from whichever angle he's seen."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞抬头，看到砖石之上木制的屋檐，往天空直直翘起，给地面投下一片阴影。她想起那只“巨鸟”，突然希望自己也生有翅膀。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei looks up and sees the wooden eaves above the masonry, rising straight into the sky to cast a shadow over the ground. She remembers the \"giant bird\" and suddenly wishes she too had wings."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……好吧，看来这家伙是听得懂，但听不进去。",
+    "english_speaker": "Yenisei",
+    "english_text": "Fine. This man understands our language, but he won't buy it."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "小叶尼塞？",
+    "english_speaker": "Bessmert",
+    "english_text": "Yeni?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "可惜她没有翅膀，只能尝试一些别的办法。",
+    "english_speaker": "Narrator",
+    "english_text": "Unfortunately, she doesn't have wings, and so she must find some other way to deal with their predicament."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我要试试，没有你说的这东西，究竟能不能进去。",
+    "english_speaker": "Yenisei",
+    "english_text": "Then I'll see if we can make it in without this Pass."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "……你们要强行闯关？这是不自量力。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Trying to break in? You're overestimating yourself."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我只是要试一试，因为我们也没有别的办法了，先生。",
+    "english_speaker": "Yenisei",
+    "english_text": "Just trying, because we are not given any choices, Sir."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "等等，小叶尼塞——！",
+    "english_speaker": "Bessmert",
+    "english_text": "Wait, Yenisei ...!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "玻璃瓶逐个空掉，小叶尼塞身上能用的“武器”已经很快见底。",
+    "english_speaker": "Narrator",
+    "english_text": "Emptying the glass bottles one by one, Yenisei's \"weapons\" are quickly depleted."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两人对面，一堵干燥的铁墙变成了一堵湿淋淋的铁墙。",
+    "english_speaker": "Narrator",
+    "english_text": "Across from them, the dry iron wall—the poor guard—has become a wet iron wall."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "——",
+    "english_speaker": "Gate Keeper",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "——报——有人正试图强行闯入——",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Warning! Intruders!"
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "关城门——！",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Close the gate!!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "城门墙楼上的卫兵立即响应，极富节奏地奔跑起来。",
+    "english_speaker": "Narrator",
+    "english_text": "The guards on the wall above the city gates respond in a quick and rhythmic step."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "下方，城门内的脚步声蹭动沙地，门上沉重的缆索被规整而迅速地收绞，在手中挽紧，只等一声令下。",
+    "english_speaker": "Narrator",
+    "english_text": "Below, those within the city gates scuff the sand, as the gates' heavy cables are twisted in reply, held tightly in expectant hands awaiting their next command."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "他们要关门了！",
+    "english_speaker": "Bessmert",
+    "english_text": "They are closing the gate!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "糟了，我们、我们得进去，否则再也找不到尤利恩先生他们了！我们不能把他们丢在里面——",
+    "english_speaker": "Bessmert",
+    "english_text": "This is bad! We, we have to get in, or how are we going to get them back? We can't just leave them here ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "还有、还有那些“度朔节”与东方神秘术的线索……",
+    "english_speaker": "Bessmert",
+    "english_text": "Neither can I just turn away from the clues to the Dùshuò Festival and the mysterious Eastern arcane power ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "先生，我请求您！",
+    "english_speaker": "Bessmert",
+    "english_text": "Sir, I beg of you!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔冲上前去，试图以一己之力拉住正在后退的守卫与缓缓关闭的城门。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert rushes forward, attempting to pull back the guards and city gates with all her might."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "可她什么也看不见，当然也发现不了不平的沙土道路上隐藏的危险。",
+    "english_speaker": "Narrator",
+    "english_text": "But her lack of sight impedes her, unable to detect the hidden dangers on the uneven, packed-sand road."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "——一颗石头也足以绊倒她，令她摔下去，甚至一时之间难以再次爬起。",
+    "english_speaker": "Narrator",
+    "english_text": "—A loose stone is enough to trip her, and despite the demands of the moment, it takes her time to get back up again."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "……不要上前了。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Don't get any closer."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "别斯米尔女士！您怎么样了！",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam! Are you alright?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她着急地搀扶起别斯米尔，另一只手，紧紧攥着那枚空掉的玻璃瓶。",
+    "english_speaker": "Narrator",
+    "english_text": "She anxiously helps Bessmert to her feet, with her other hand tightly gripping an empty glass bottle."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "这一路上经历的不可测的事故已数不胜数，足以撰写出一部荒诞的冒险小说，更足以击倒任何一位经验丰富探险家的意志。",
+    "english_speaker": "Narrator",
+    "english_text": "They've had countless unpredictable mishaps along the way, enough to write an adventure story few would believe, and experienced more than enough to exhaust the will of any explorer."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "也许，就这样任由城门关闭，的确是更为妥当与安全的做法。",
+    "english_speaker": "Narrator",
+    "english_text": "Perhaps simply allowing the city gates to close is a safer and more appropriate approach."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，我们或许真的该放弃了……我甚至怀疑，这一切是否只是一场可耻的幻觉。",
+    "english_speaker": "Yenisei",
+    "english_text": "Maybe we should just give up, Madam ... I'm even thinking if all these things we've been through are just illusions."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那些怪异的地貌，那些变成斑纹马的队友，还有眼前这、这些……",
+    "english_speaker": "Yenisei",
+    "english_text": "The unusual terrains, the teammates turned into striped horses, and now this nonsense ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我不能眼睁睁地看着您用自己的安危去冒险……！",
+    "english_speaker": "Yenisei",
+    "english_text": "I won't let you go in there and risk your life!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔看不见对方的表情，却能从声音中读出那种犹豫。于是她挣扎着起身。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert cannot see her companion's expression, but can hear the hesitation in her voice. It proves enough to add to her struggle to get up again."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，恰恰相反，我的孩子。",
+    "english_speaker": "Bessmert",
+    "english_text": "No, on the contrary, child."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这些闻所未闻的风土人情，距离我们所追寻的东西已经非常接近了——那些我们生来便要追寻的新奇而伟大的事物。",
+    "english_speaker": "Bessmert",
+    "english_text": "The unknown people, the uncharted city ... We are very close to what we've been chasing. We were born to run after these exciting and amazing things."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "而且，你不也有问题，期望着“所求必应”能够给出答案吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "You're also looking for an answer from Ask and Acquire, right?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "更不必说还有尤利恩先生他们不明的去向……与这些相比，我们的安全简直不值一提。",
+    "english_speaker": "Bessmert",
+    "english_text": "Besides, we have no idea how Mr. Jurien and the others are doing ... There is more to consider other than our own safety."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "说得好。若论安全……",
+    "english_speaker": "???",
+    "english_text": "Well said. Speaking of which ..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "城内应比城外安全许多。我可以向两位保证。",
+    "english_speaker": "???",
+    "english_text": "The city is much safer than the wild. You have my word."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "至于我……我在这城中最大的金市任里正一职，两位称呼我为里正即可。",
+    "english_speaker": "Lizheng",
+    "english_text": "As for me, I am the Lǐzhèng of the biggest merchants hub in this city. You can address me by my title. *Lǐzhèng: A low-ranking government official responsible for taxation and household registrations."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "里正……？",
+    "english_speaker": "Yenisei",
+    "english_text": "Lǐzhèng...?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "听起来是一位体面的先生。",
+    "english_speaker": "Bessmert",
+    "english_text": "He sounds like a decent gentleman."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "里正，这两人要强行冲关入城。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "LĬzhèng, they are the intruders!"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我已知悉，情况可控，不必关城门了。这两位似是胡商，正在我职责范围之内。",
+    "english_speaker": "Lizheng",
+    "english_text": "Noted. The situation is under control. No need to close the gate. The ladies look like foreign merchants. Their business is within my purview."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "况且正值节日，亦或许只是前来参加庆典的人。不必如此严苛。",
+    "english_speaker": "Lizheng",
+    "english_text": "Besides, it's holiday time. They could be here for the celebration. Don't be so harsh on them."
+  },
+  {
+    "chinese_speaker": "城门郎：",
+    "chinese_text": "……喏。",
+    "english_speaker": "Gate Keeper",
+    "english_text": "Understood."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "守城者把两只手往身前一抱，做了个小叶尼塞看不懂的手势，就退回一边了。",
+    "english_speaker": "Narrator",
+    "english_text": "The guard holds his hands in front of him and make a gesture that Yenisei cannot understand before retreating to one side."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "似是厄运散去，小叶尼塞与别斯米尔心中重新燃起了微微的期望。",
+    "english_speaker": "Narrator",
+    "english_text": "A glimmer of expectation is reignited in the hearts of Yenisei and Bessmert, as if their misfortune might have at last dissipated."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我瞧两位，似乎丢了过所文书？",
+    "english_speaker": "Lizheng",
+    "english_text": "If I'm correct, you have lost your Pass, right?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们有文书，只是好像不能在这里使用。",
+    "english_speaker": "Bessmert",
+    "english_text": "We do have a Pass, but it seems it doesn't work here."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "远道而来，难免错漏。",
+    "english_speaker": "Lizheng",
+    "english_text": "Well, just an understandable mistake for people from afar."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "不过，即使两位来此或为经商，或为度朔节，这缺了过所，却仍是麻烦。",
+    "english_speaker": "Lizheng",
+    "english_text": "However, either for business or the Dùshuò Festival, it is troublesome without a proper Pass."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "度朔节？您是说，现在就是度朔节期间吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Dùshuò Festival? Is it taking place now?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "正是？我还以为你们是清楚这一点，才来到沛城。",
+    "english_speaker": "Lizheng",
+    "english_text": "That's what I said. I thought that is why you're here in Pèi City."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "啊，是的！我们知道，但我们从来没有真正参与过，所以不了解，也不确定。",
+    "english_speaker": "Bessmert",
+    "english_text": "Uh, yes! We were told of it, but we've never been to one. We are not sure."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们只是听过这个传说。",
+    "english_speaker": "Bessmert",
+    "english_text": "We all heard of the legend about it."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "哦？度朔节，难道在你们的部族当中被当作童谣传唱了？",
+    "english_speaker": "Lizheng",
+    "english_text": "Hmm. So, is the festival sung as a nursery rhyme in your tribe?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "啊，“部族”。不是那样的，我们来自……北方。",
+    "english_speaker": "Bessmert",
+    "english_text": "Uh, \"tribe\"? We are not tribal people. We come from the North."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "北人？我还以为，两位都是西边乌孙族的后人。",
+    "english_speaker": "Lizheng",
+    "english_text": "Northerners? Oh, I mistook you for the descendants of the Wūsūn from the westward."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我听闻他们早已失落于折罗漫关外，此前都无人得见……加之你们的服饰也相当奇特，这才贸然猜测了，实在抱歉。",
+    "english_speaker": "Lizheng",
+    "english_text": "It is said that they have migrated outside of the Zhéluómàn Mountain. No one has ever met them until now. Your clothes also have a unique style. I should apologize for my mistake."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "况且，您的同伴红发碧眼，貌色白皙，恰好符合史书上的记载……",
+    "english_speaker": "Lizheng",
+    "english_text": "What's more, this lady by your side has red hair, green eyes, and a fair complexion. The features match the records in history books ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "史书？里正先生，你们的史书上——",
+    "english_speaker": "Bessmert",
+    "english_text": "History books? Mr. LĬzhèng, in your history books, do you have ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我说过了，称我为“里正”即可。",
+    "english_speaker": "Lizheng",
+    "english_text": "Like I said, you may just call me Lǐzhèng."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "书中有言：“乌孙于西域诸戎其形最异。今之胡人青眼、赤须，状类猕猴者，本其种也。”",
+    "english_speaker": "Lizheng",
+    "english_text": "The book says, \"Wūsūn, one of the tribes in the Western Regions, has the most unusual appearance. The present foreigners are their descendants with features of green eyes, red hair, and the looks of macaque monkeys.\""
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "猴、猴子吗……",
+    "english_speaker": "Yenisei",
+    "english_text": "M-Monkeys ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "哈哈……或许书中所言也不可尽信，两位听过便罢。",
+    "english_speaker": "Lizheng",
+    "english_text": "Heh heh ... Maybe we can't believe every word in the book. No matter."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "至于先前，我们说到何处了？是否……",
+    "english_speaker": "Lizheng",
+    "english_text": "Where were we just now? Was it ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "度朔节。我们是为度朔节来的。",
+    "english_speaker": "Bessmert",
+    "english_text": "Dùshuò Festival. We are here for the festival."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "哦，正是！",
+    "english_speaker": "Lizheng",
+    "english_text": "Oh, right. Exactly!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "眼前老者貌似兴致盎然，双手一合就拾起了刚才的话题。",
+    "english_speaker": "Narrator",
+    "english_text": "The old man in front of her seems to be full of interest, and with his hands clasped, he resumes his topic."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "沛城度朔节的氛围与仪典，曾经最鼎盛时，每年都能吸引许多不远万里赶来的人。",
+    "english_speaker": "Lizheng",
+    "english_text": "The Pèi City is famous for its grand celebration and joyful spirit during the festival. It attracts countless travelers from far away every year."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "想必两位自北而来，路途遥远，亦是如此。辛苦了。",
+    "english_speaker": "Lizheng",
+    "english_text": "I could only imagine how hard it was for you to arrive here. Well done."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "不过，我尚有最后一问。你这眼，是双目皆盲？",
+    "english_speaker": "Lizheng",
+    "english_text": "However, forgive me for being offensive. It seems you have lost sight in both eyes ...?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "嗯，您说的没错……请问，这会有什么影响吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Yes. Would that be a problem?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "对缺少过所文书的旅人来说，身有疾残或许并非坏事。",
+    "english_speaker": "Lizheng",
+    "english_text": "Under this city's caring policy, you have the privilege of traveling without a Pass."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "今日当值的城门郎新才到任，或有冒犯之处，还请两位海涵。",
+    "english_speaker": "Lizheng",
+    "english_text": "The gate guard is new here. I sincerely apologize for his offense."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他微微鞠躬，略表歉意，将二人向城内引去。",
+    "english_speaker": "Narrator",
+    "english_text": "He bows slightly, implying a subtle apology, and leads the two toward the city proper."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "这便随我来吧，逗留城外并不安全。",
+    "english_speaker": "Lizheng",
+    "english_text": "Come, follow me. It's not safe to stay outside of the city."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "最近人口失踪案频发，须得四方走动巡查，才能确保不会有人因被拦在门外而失踪。",
+    "english_speaker": "Lizheng",
+    "english_text": "There have been many missing persons cases recently. We intensified the patrol, in case someone is blocked out of the city and goes missing."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "失踪案……",
+    "english_speaker": "Yenisei",
+    "english_text": "Missing persons cases ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "更多交谈的话题间，两人跟随里正的指引，身影没入城门之中。",
+    "english_speaker": "Narrator",
+    "english_text": "Between further topics of conversation, the two follow Lǐzhèng's guidance and, at last, pass through the city gates."
+  }
+]

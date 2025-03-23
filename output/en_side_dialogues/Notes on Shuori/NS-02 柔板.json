@@ -1,0 +1,722 @@
+[
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "近处的其他同行者中，没有人表达支持，也没有人出声反对。",
+    "english_speaker": "Narrator",
+    "english_text": "There is neither a single voice of opposition nor one of support from their fellow travelers."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "假如别斯米尔能瞧见他们的表情，就会意识到那种沉默的“不约而同”实则意味着早有预谋。",
+    "english_speaker": "Narrator",
+    "english_text": "If Bessmert could see their expressions, she might realize that this silent assent had actually been the sound of plotting minds."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "那么，我们达成共识了？",
+    "english_speaker": "Krolik",
+    "english_text": "So, are we on the same page?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我是说，我知道您的想法，也认同您提出诉求的合理性。",
+    "english_speaker": "Bessmert",
+    "english_text": "I fully understand where you're coming from, and I acknowledge your reasoning."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "有什么不同——",
+    "english_speaker": "Krolik",
+    "english_text": "What are you trying to ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "但我们依然需要投票表决。",
+    "english_speaker": "Bessmert",
+    "english_text": "But we still need a vote to decide."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "克罗利克睁大了眼睛，喜悦在其中闪烁。他正等待着眼前人说出这句话。",
+    "english_speaker": "Narrator",
+    "english_text": "Krolik opens his eyes wide, pure joy flickering within them, and waits for the person in front of him to utter the words he longs to hear."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——等等——",
+    "english_speaker": "Yenisei",
+    "english_text": "Wait!!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞阻拦不及。擅长游说的探险家对自己劝服他人的能力深信不疑。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei couldn't stop the inevitable. The explorer, with a knack for speeches, always seems to have a strong belief in her own persuasiveness."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "没问题，当然。这是文明的做法。",
+    "english_speaker": "Krolik",
+    "english_text": "No problem, of course. It's the civilized way to solve it."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "但我要求——跳过发言环节。因为时间紧迫，我们没有空闲听您长篇大论。",
+    "english_speaker": "Krolik",
+    "english_text": "But I require we skip the speech. We have no time to waste on your monologue."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……可以。",
+    "english_speaker": "Bessmert",
+    "english_text": "Alright."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士！",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam!"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "好，先生们。选择原路返回的，请举手表决。",
+    "english_speaker": "Krolik",
+    "english_text": "Alright, gentlemen. If you agree to go back, please raise your hand."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "话音落下，他身后不远处，几人缓缓抬手，中食两指交叉放至耳旁。",
+    "english_speaker": "Narrator",
+    "english_text": "As these words land on the listeners not far behind him, the people slowly begin to raise their hands to their ears, fingers crossed."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "到最后，才是克罗利克。他面对着两人，同样只举起手，却仿佛是在示威一样扩大了脸上笑容的胜利意味。",
+    "english_speaker": "Narrator",
+    "english_text": "In the end, Krolik has it. He faces both of them, simply raising his hands, as though grandstanding somewhat, and a victorious smile stretches across his face."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "四对二。您看，这样不就很快有结果了？",
+    "english_speaker": "Krolik",
+    "english_text": "Four to two. See, we can make decisions in no time, right?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……",
+    "english_speaker": "Bessmert",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，他们早就商量好了！我们不能就这么——难道您真的要这样回去吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "This is their trap, Madam! We can't just ... Are you really fine with going back empty-handed like this?"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "这是别斯米尔女士自己要求的投票，可不是我。",
+    "english_speaker": "Krolik",
+    "english_text": "The vote was required by Ms. Bessmert, not me."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "至于你……如果再不停止对我的污蔑，那我将认为这是你要求决斗的信号。",
+    "english_speaker": "Krolik",
+    "english_text": "And you, I'll take it that you're challenging me to a duel if you continue with the slander."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，先生，那不是她的意思。我们没有动武的必要。",
+    "english_speaker": "Bessmert",
+    "english_text": "No, good sir, please don't take her the wrong way. We don't have to go physical."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——尤利恩先生呢？他还没有投票，结果还是无效的！",
+    "english_speaker": "Yenisei",
+    "english_text": "What about Mr. Jurien? He has not voted yet, so the vote is not over!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "少女认为自己找到了事情的关键，哪怕她的理智知道再多一票也于事无补。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl believes she has reached the heart of the matter, even if her rational mind knows that a single vote would be of no use."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她仍然坚持。",
+    "english_speaker": "Narrator",
+    "english_text": "Still, she insists."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "哦，他很累，所以没有过来。不过他的想法肯定与我们一致，毕竟……",
+    "english_speaker": "Krolik",
+    "english_text": "Oh, he's too tired to show up, but I'm sure he shares the same idea with us, because ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我们都是人类。他当然会站在我们这边。",
+    "english_speaker": "Krolik",
+    "english_text": "We are all humans. Of course, he's on our side."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞并不打算与青年男子多说，决定越过眼前这群人，去寻找剩下的那个投票者。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei doesn't intended to say much to the young man, and decides to cross over to the group of people ahead to search for their final voter."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "直到另一个高大的男子站了出来，似有若无地挡住了她的去路。",
+    "english_speaker": "Narrator",
+    "english_text": "That is until another tall man stands up, seemingly to block her path."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "不用多说了，克罗利克。收拾物资，我们往回走。",
+    "english_speaker": "Team Member I",
+    "english_text": "Say no more, Krolik. Pack your things. Let's head back."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……！",
+    "english_speaker": "Yenisei",
+    "english_text": "...!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那我们就在这里分头行动——",
+    "english_speaker": "Yenisei",
+    "english_text": "Fine. We'll split up from here, then."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "我们会带走剩下的所有物资，才能保障顺利返回。这没得商量。",
+    "english_speaker": "Team Member I",
+    "english_text": "We'll take all the supplies with us, or we can't make our way back. No discussion."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他比他们派出的沟通者更为强硬，说完就与小叶尼塞在狭窄的岩石缝隙中擦身而过，率先走向两人身后的物资箱。",
+    "english_speaker": "Narrator",
+    "english_text": "He looks even tougher than the communicators they sent, and after saying his piece, he brushes past Yenisei down through the narrow rock crevice and leads the way toward the supply box behind them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "片刻前，她们都还在那里总结着先前的旅途。",
+    "english_speaker": "Narrator",
+    "english_text": "A moment ago, they were all there, recounting their previous journey together."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "先生们，大家都是自愿加入这趟旅途的，也许我们应该好好谈谈，而不是——",
+    "english_speaker": "Bessmert",
+    "english_text": "Gentlemen, the team was put together in good faith. Perhaps we should negotiate, not ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞的回答是快步追过去，用身体拦在了男人与别斯米尔之间。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei's solution is to chase after him an plant herself between the man and Bessmert."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "指南针失效，你们需要我来指出回去的方向。",
+    "english_speaker": "Yenisei",
+    "english_text": "The compass doesn't work here. You need me to find the way back."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "留下我们那份物资，我可以给你方向。",
+    "english_speaker": "Yenisei",
+    "english_text": "Leave our supplies, and I'll show you the way."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "……看来你还是选择了决斗。",
+    "english_speaker": "Team Member I",
+    "english_text": "You have to do this the hard way."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "男人摇头，显然并不接受这个交易。",
+    "english_speaker": "Narrator",
+    "english_text": "The man shakes his head, clearly unwilling to accept the proposal."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞惊愕地护住身后人，意识到武力的对峙似乎不可避免。",
+    "english_speaker": "Narrator",
+    "english_text": "In her shock, Yenisei instinctively protects the person behind her, realizing that confrontation seems inevitable."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "——咳咳……这样太野蛮了，朋友们。",
+    "english_speaker": "???",
+    "english_text": "*coughs* That, my friends, is not how civilized people solve their problem."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "这声音沉稳，平静，其中的分量却恰好能够介入这场儿戏一样的“决斗”。",
+    "english_speaker": "Narrator",
+    "english_text": "The voice is calm and composed, but its gravity brings a swift end to the playful duel."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "啊，尤利恩先生！",
+    "english_speaker": "Bessmert",
+    "english_text": "Mr. Jurien!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "在这样一支临时组成的队伍里，最年长的人通常有着阅历赋予的天然威信。",
+    "english_speaker": "Narrator",
+    "english_text": "In a makeshift team of this sort, the eldest member is often bestowed a special prestige based on their experience."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "尤利恩先生……",
+    "english_speaker": "Krolik",
+    "english_text": "Mr. Jurien ..."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "克罗利克先生。我还以为您要与别斯米尔女士谈重新分配每日物资的问题。但我没想到……",
+    "english_speaker": "Jurien",
+    "english_text": "Mr. Krolik. I thought you were here to discuss the reallocation of supplies with Madam Bessmert. I didn't expect this ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "呃……",
+    "english_speaker": "Krolik",
+    "english_text": "Well ..."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "您的确不是自愿来的，但您也肩负着总督授予的重要使命。",
+    "english_speaker": "Jurien",
+    "english_text": "It's true that you didn't choose to be here. You are here because you have an important mission given by the governor to complete."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "既然已经出发了，为什么又在半途中放弃完成任务的信念？",
+    "english_speaker": "Jurien",
+    "english_text": "We have come this far. Do you really want to give up now?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "被点到名的人缩了缩身子。“沟通”的假意暴露无遗，年长者的每一句话都令他无法反驳。",
+    "english_speaker": "Narrator",
+    "english_text": "The man's frame visibly shrinks. Their pretense of \"communication\" has been exposed, and every word spoken by his elder makes it more and more impossible for him to offer a rebuttal."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "至于这几位先生……竟然连你也不愿继续前进了，彼得洛夫。",
+    "english_speaker": "Jurien",
+    "english_text": "As for you gentlemen ... Petrov, I'm surprised you're here too."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "只是一点谁也无法预料的风险，就把你吓得不敢动弹了？我记得演讲时，你对南方那些古老地层表现出了相当的兴趣。",
+    "english_speaker": "Jurien",
+    "english_text": "It's a risk that none of us expected, but it shouldn't have broken your will. I remember you showed a great interest in those ancient strata in the South when we were at the speech."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "我们也只是需要一些保障。",
+    "english_speaker": "Team Member I",
+    "english_text": "All we need is safety."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "极端天气过后通常有缓冲期，能在此期间回去是更好的选择。",
+    "english_speaker": "Team Member I",
+    "english_text": "There will always be a buffer period after extreme weather. We should seize the chance and head back."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "不过……如果您能让别斯米尔定下一个足够往返的期限，且在期限内找到活水，我们也能按原计划不变。",
+    "english_speaker": "Team Member I",
+    "english_text": "If you persuade Ms. Bessmert to give us a confirmed date, before which we can find he running water and come back, we can stick to the original plan."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "别斯米尔女士？",
+    "english_speaker": "Jurien",
+    "english_text": "Madam Bessmert?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "没问题，您瞧，这都是可以商议的……",
+    "english_speaker": "Bessmert",
+    "english_text": "Certainly. You see, these are all negotiable."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "等等。还有一点，这个期限要等我们清点完剩余物资才能决定。",
+    "english_speaker": "Yenisei",
+    "english_text": "Wait. About the date, we can only decide after making an inventory."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "听见这话，男人掏出怀里的袖珍钟，晃了两下，展示给小叶尼塞现在的时间。",
+    "english_speaker": "Narrator",
+    "english_text": "Upon hearing these words, the man takes out his pocket watch, shakes it twice, and shows Yenisei the current time."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "……给你三十分钟。",
+    "english_speaker": "Team Member I",
+    "english_text": "You have 30 minutes."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "足够了。",
+    "english_speaker": "Yenisei",
+    "english_text": "That's enough."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "短暂的共识达成，其他人回到原先分散的地方，将物资箱收拢到一起，等待两人给出答复。",
+    "english_speaker": "Narrator",
+    "english_text": "A brief consensus is reached, and the others scatter back to their former places, gathering supply boxes together and waiting for a response from the two in charge."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔小心翼翼触碰那些木箱，年轻的女孩也带着纸笔来到她的身边，安静地记录起来。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert cautiously touches the wooden boxes. The young girl comes to her side with a pen and paper, making a quiet record of things."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "一时间，周围只剩下纸笔动作的声响。",
+    "english_speaker": "Narrator",
+    "english_text": "For a moment, the only sound between them is of pen on paper."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "其实……",
+    "english_speaker": "Bessmert",
+    "english_text": "You know ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "嗯？",
+    "english_speaker": "Yenisei",
+    "english_text": "Hmm?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "尤利恩先生对神秘学家和神秘术很感兴趣。他本来就是除总督之外最支持这趟旅途的人类。",
+    "english_speaker": "Bessmert",
+    "english_text": "Mr. Jurien is very interested in arcanum and arcanists. He is the keenest supporter of our journey, besides the governor."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "即使他对“所求必应”的认知和理解，与我有很大的不同……",
+    "english_speaker": "Bessmert",
+    "english_text": "Even if his understanding of Ask and Acquire is significantly different from mine ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "少女没有停下手中翻找和记录的动作，同时也轻声回应着别斯米尔像往常一样突然展开的话题。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl continues her rummaging and recording, while responding gently and deftly to Bessmert's habitual broaching of this parallel topic."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "那些商人提到过，“所求必应”的实现需要付出代价。但这个代价并不是固定的。只是在民间传说中，多数都需要以身犯险。",
+    "english_speaker": "Bessmert",
+    "english_text": "The legend of Ask and Acquire, as told by many merchants, always involves a certain price. The price takes different forms in the stories, but mostly it is a great danger."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我以为那些无法越过的悬崖，和难以攀登的高山，就是这个意思。",
+    "english_speaker": "Yenisei",
+    "english_text": "I believe that refers to \"the highest mountain and deepest canyon\" in those stories."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "它理应是。而尤利恩先生作为一名研究神秘术的历史学家，则认为这是神秘学家与自然进行的某种交换仪式……",
+    "english_speaker": "Bessmert",
+    "english_text": "I reckon so. But Mr. Jurien, as a human historian studying the arcane skill, believes it's a form fo exchange that arcanists make with nature ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "嗯。但您认为，这是错的？",
+    "english_speaker": "Yenisei",
+    "english_text": "Mm-hmm. And you think he's wrong?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "在无法验证的阶段，所有的猜想都可以被认定为可疑。只是我们越靠近这片大陆，我对那神秘知识的渴求，便变得越强烈。",
+    "english_speaker": "Bessmert",
+    "english_text": "At this stage, we can't verify anything, so all these assumptions will have to remain assumptions. However, as we are getting closer to that mysterious land, my craving for its knowledge is also becoming stronger."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "话语间，别斯米尔绕到另一个箱子的面前，发觉越靠近放置仪器的部分，便越能闻见掺水的酒精。",
+    "english_speaker": "Narrator",
+    "english_text": "Between these words, Bessmert walks around to another box and notices that the closer the instrument is placed to it, the more distinctly she can smell the alcohol."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "显然，为测量沸点所准备的纯酒精，已经在气温骤降的夜里被当作“应急物资”使用了。",
+    "english_speaker": "Narrator",
+    "english_text": "It is obvious that the alcohol prepared for boiling point measurements had been used as an \"emergency resource\" during the night when the temperature dropped drastically."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "……对这样一支中途拼凑起来的队伍实在不应苛求太多。",
+    "english_speaker": "Narrator",
+    "english_text": "We shouldn't ask too much from such a ragtag team."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "物资的情况怎么样了？",
+    "english_speaker": "Bessmert",
+    "english_text": "What do we know about the supplies?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "刨去饮用水，所有人常量使用大概最少八天，紧凑再加四天。如果能猎到小型动物，或者遇上牧民，还能坚持更久。",
+    "english_speaker": "Yenisei",
+    "english_text": "Put aside the water problem, the supplies can feed everyone for eight days, maybe twelve if we economize. We can hold even longer if there are any preys or herders along the way."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "补给站呢？",
+    "english_speaker": "Bessmert",
+    "english_text": "Are there any supply stations?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "这片草原上没有我们的补给站。至少地图上没有。",
+    "english_speaker": "Yenisei",
+    "english_text": "Our supply stations are not on these plains, at least not on the map."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "饮用水和酒精还有多少？",
+    "english_speaker": "Bessmert",
+    "english_text": "How much drinking water and alcohol do we have left?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "应该有——",
+    "english_speaker": "Yenisei",
+    "english_text": "Approximately ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "哦，好极了。他们疯到把水倒进纯酒精里，现在我们两样都缺了。",
+    "english_speaker": "Yenisei",
+    "english_text": "Oh, great. These idiots put water in the alcohol. Now we are short of both."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "至少，喝酒可以取暖。",
+    "english_speaker": "Bessmert",
+    "english_text": "At least the alcohol has kept them warm."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "他们也能直接喝酒精。",
+    "english_speaker": "Yenisei",
+    "english_text": "They could have just drunk the alcohol."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不是这样的，孩子。比起追究这些东西，或许我们更应该先定下路线。",
+    "english_speaker": "Bessmert",
+    "english_text": "Alright, alright, child. Now we should focus on the direction for the next step, not these bits of trivia."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "事先声明，我目前的想法只比“毫无头绪”好上一点。",
+    "english_speaker": "Bessmert",
+    "english_text": "Regarding which, just to be clear, what I have in mind is only slightly better than nothing."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "哪一点？",
+    "english_speaker": "Yenisei",
+    "english_text": "Better how?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "湿润的气息，和土质。发现了吗？对于风暴过后，腐料还没深入土壤的阶段来说，这里的土质过于黏稠了。",
+    "english_speaker": "Bessmert",
+    "english_text": "The moist air and the soil. Have you noticed? The soil beneath our feet is way too sticky, even for a land after a thunderstorm."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "虽然不是准确判断……但我倾向于认为，这是有地下水的标志。",
+    "english_speaker": "Bessmert",
+    "english_text": "I'm not entirely sure about this ... But I tend to think that there is groundwater beneath us."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "有地下水，就会有活水。",
+    "english_speaker": "Bessmert",
+    "english_text": "Which means we are close to running water."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "好吧，让我想想。",
+    "english_speaker": "Yenisei",
+    "english_text": "Alright. Let me think about how to get us there."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "你的神秘术不能用吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Can't you use your arcane skill?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么？您不能像他们一样，因为一无所知就把希望都寄托在这上面。",
+    "english_speaker": "Yenisei",
+    "english_text": "What?! Just because you don't know what to do doesn't mean you should count on this thing. You are not like them!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我只是需要把可能性都考虑进去……",
+    "english_speaker": "Bessmert",
+    "english_text": "I just want to make use of everything we have ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "好吧。我向您解释过它的运作方式，现在没有新的活水可用，这些瓶子里的东西，在最好的情况下，能指出的也只有回去的方向。",
+    "english_speaker": "Yenisei",
+    "english_text": "Fine. I told you how it works. Without new running water, the old samples in the bottles can only show us the way back. That's the best they can do."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "为了证明，女孩从身上取下一枚玻璃瓶，放到对方的手中。",
+    "english_speaker": "Narrator",
+    "english_text": "To prove this, the girl takes a glass bottle from her person and places it in the waiting, doubtful hand."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "这是鄂木河下游的水。里面可用于占卜方向的活跃气息已经很淡了。",
+    "english_speaker": "Yenisei",
+    "english_text": "This one is from the lower course of the Om River. The arcane energy I can use for divination has almost faded away."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "跟着它走回去？能做到，但这不是我们想要的。只有克罗利克先生他们会高高兴兴上路。",
+    "english_speaker": "Yenisei",
+    "english_text": "Can it show us the way back? Sure, but that's not what we want. Only Mr. Krolik and his men would be happy to hear that."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "听到这儿，年长的女人直起身来。虽然看不见眼神，但她沉默时的姿态，总是看上去在进行快速的思考。",
+    "english_speaker": "Narrator",
+    "english_text": "Upon hearing this, Bessmert stands up straight. Although she cannot see her eyes, her silent posture alone seems to affect an aura of rapid thought."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞抬头望她，几乎能听到那些齿轮在头壳中转动咬合的声音。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei looks up at her and can almost hear the sound of gears spinning in her skull."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "往好处想，这确保了我们能够回去。",
+    "english_speaker": "Bessmert",
+    "english_text": "To think on the bright side, we still have a chance to go home."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可我离开不是为了回去，女士。",
+    "english_speaker": "Yenisei",
+    "english_text": "But I didn't leave my homeland to go back there, Madam."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "是的，我知道，我知道。因为我也一样。这并不意味着现在就往回走，它只是一份保障。",
+    "english_speaker": "Bessmert",
+    "english_text": "Yes, yes, I know. I feel the same. I'm not suggesting we turn back immediately. It's just an option."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "那种润湿量的土质，印象中最接近温带山地河滩，一般位于那种覆盖森林植物的黑土草原，和我们踏入这里所认识的地貌不同。",
+    "english_speaker": "Bessmert",
+    "english_text": "To the best of my recollection, such moist soil is often found in the mountains and floodplains of the temperate zone, especially in the forest steppes covered with chernozem. The landscape is very different from where we are now."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "在我们找到躲避的位置前，你曾向我描述过东南方有一座山切断了地平线，对吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Before we sheltered from the thunderstorm, you told me about a mountain in the southeast. It blocked the horizon from our sight, right?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "听到这句话，女孩睁大了眼睛。那是逐渐意识到关窍的惊喜表情。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl's eyes widen upon hearing these words—the expression of a hopeful epiphany."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "由此可以假设，我们遇上的风暴，正是强对流翻山而来的结果，在草原上，如果要形成这么大团的云雨，必须有足够的活水——",
+    "english_speaker": "Bessmert",
+    "english_text": "Based on this, I would assume, the thunderstorm was the result of a stronger convection coming from the other side of the mountain. Now, on the steppe, to form a cloud large enough to bring a thunderstorm would require a large amount of running water ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "而活水的来源可能就在那个方向！！",
+    "english_speaker": "Yenisei",
+    "english_text": "And the source of the running water is probably on the other side of the mountain!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "没错……有了这个大致方向，我们就能继续前进。",
+    "english_speaker": "Bessmert",
+    "english_text": "Exactly ... We can set off in that general direction."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "而且，即使得到最坏的结果，翻过山去，我们没有找到活水，你的神秘术也能带我们回来。",
+    "english_speaker": "Bessmert",
+    "english_text": "We might not find any water there. That's the worst result. In that case, we can still return here with the help of your arcane skill."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "只要玻璃瓶还在。",
+    "english_speaker": "Bessmert",
+    "english_text": "As long as we have that glass bottle with us."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "是的。",
+    "english_speaker": "Yenisei",
+    "english_text": "That's right."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "然后，我们定下五天的期限……",
+    "english_speaker": "Bessmert",
+    "english_text": "We tell them we need another five days ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔抓紧了手中的玻璃瓶，像是抓住了最后一点希望。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert grips the glass bottle in her hand as though clinging on to one final trace of hope."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这可能也是他们能接受的最大期限。就算不行，我也会像游说时那样，再次说服他们。",
+    "english_speaker": "Bessmert",
+    "english_text": "They won't accept more days than that. If they won't even settle for this, I will convince them, like I did when I first got them on the team."
+  }
+]

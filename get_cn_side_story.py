@@ -18,8 +18,7 @@ BASE_URL = "https://res1999.huijiwiki.com"
 
 # 创建输出目录
 OUTPUT_DIR = "output"
-DIALOGUES_DIR = os.path.join(OUTPUT_DIR, "dialogues")
-TEST_DIR = os.path.join(OUTPUT_DIR, "test_dialogues")
+DIALOGUES_DIR = os.path.join(OUTPUT_DIR, "side_dialogues")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(DIALOGUES_DIR, exist_ok=True)
 
@@ -156,7 +155,7 @@ def extract_chinese_dialogue(url):
 
 def load_story_structure():
     """加载故事结构数据"""
-    structure_path = os.path.join(OUTPUT_DIR, "story_structure.json")
+    structure_path = os.path.join(OUTPUT_DIR, "side_story_structure.json")
     try:
         with open(structure_path, 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -175,7 +174,7 @@ def save_to_json(data, filename):
 
 
 def main():
-    print("开始抓取重返未来1999游戏剧情的文本...")
+    print("开始抓取重返未来1999游戏支线剧情的文本...")
     
     # 加载故事结构
     story_structure = load_story_structure()
@@ -190,7 +189,7 @@ def main():
     failed_episodes = 0
     
     # 遍历故事结构中的每个章节
-    for chapter in story_structure["main_story"]:
+    for chapter in story_structure["side_story"]:
         chapter_cn_title = chapter["chinese_title"]
         # 创建章节目录
         chapter_dir = os.path.join(DIALOGUES_DIR, chapter_cn_title)
@@ -254,38 +253,47 @@ def main():
     print("\n抓取完成！所有对话已保存")
 
 
-def test(): 
-    print("开始抓取重返未来1999游戏剧情的文本...")
-
+def test():
+    print("开始抓取重返未来1999游戏支线剧情的文本...")
+    
     # 加载故事结构
     story_structure = load_story_structure()
+    if not story_structure:
+        print("无法加载故事结构，程序退出")
+        return
+    
+    # 统计变量
+    total_episodes = 0
+    already_crawled = 0
+    newly_crawled = 0
+    failed_episodes = 0
 
     # 需要爬取的章节和小节
-    crwaler_chapter_title = "2ND 夜色温柔"
-    crawler_episode_title = "客套话"
+    crwaler_chapter_title = "NS朔日手记"
+    # crawler_episode_title = "客套话"
     
     # 遍历故事结构中的每个章节
-    for chapter in story_structure["main_story"]:
+    for chapter in story_structure["side_story"]:
         chapter_cn_title = chapter["chinese_title"]
+        # 创建章节目录
         if chapter_cn_title != crwaler_chapter_title:
             continue
-        # 创建章节目录
-        chapter_dir = os.path.join(TEST_DIR, chapter_cn_title)
+        chapter_dir = os.path.join(DIALOGUES_DIR, chapter_cn_title)
         os.makedirs(chapter_dir, exist_ok=True)
         chapter_en_title = chapter["english_title"]
         print(f"\n开始处理章节: {chapter_cn_title} ({chapter_en_title})")
         
         # 遍历章节中的每个小节
         for episode in chapter["episodes"]:
+            total_episodes += 1
             episode_cn_title = episode["chinese_title"]
-            if episode_cn_title != crawler_episode_title:
-                continue
             episode_en_title = episode["english_title"]
             episode_link = episode["link"]
             
             # 检查是否已经爬取过
             if is_episode_crawled(chapter_dir, episode_cn_title):
                 print(f"  跳过已爬取的小节: {episode_cn_title} ({episode_en_title})")
+                already_crawled += 1
                 continue
             
             # 构建完整URL
@@ -297,13 +305,15 @@ def test():
                 dialogues = extract_chinese_dialogue(full_url)
                 if not dialogues:
                     print(f"  警告: 未能从 {episode_cn_title} 提取到对话，将在下次运行时重试")
+                    failed_episodes += 1
                     continue
                     
                 print(f"  成功提取 {len(dialogues)} 条对话")
+                newly_crawled += 1
                 
                 # 保存小节对话
                 episode_filename = f"{episode_cn_title}.json"
-                episode_filepath = os.path.join(TEST_DIR, chapter_cn_title, episode_filename)
+                episode_filepath = os.path.join(DIALOGUES_DIR, chapter_cn_title, episode_filename)
                 with open(episode_filepath, 'w', encoding='utf-8') as f:
                     json.dump(dialogues, f, ensure_ascii=False, indent=2)
                 
@@ -315,11 +325,18 @@ def test():
             except Exception as e:
                 print(f"  处理小节 {episode_cn_title} 时出错: {e}")
                 print("  将在下次运行时重试该小节")
+                failed_episodes += 1
                 continue
     
+    # 打印统计信息
+    print("\n爬取统计:")
+    print(f"总小节数: {total_episodes}")
+    print(f"已爬取小节数: {already_crawled}")
+    print(f"新爬取小节数: {newly_crawled}")
+    print(f"失败小节数: {failed_episodes}")
+    print(f"完成率: {((already_crawled + newly_crawled) / total_episodes) * 100:.2f}%")
     
     print("\n抓取完成！所有对话已保存")
-
 
 
 if __name__ == "__main__":

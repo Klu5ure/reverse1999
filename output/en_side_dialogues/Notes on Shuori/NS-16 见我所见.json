@@ -1,0 +1,908 @@
+[
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——放开我！你带我去哪儿？！",
+    "english_speaker": "Yenisei",
+    "english_text": "Let me go! Where are you taking me?!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你——",
+    "english_speaker": "Yenisei",
+    "english_text": "You ..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "我现下放开，你摔落便是死路一条。",
+    "english_speaker": "???",
+    "english_text": "If I let go, you will fall, and death will be your end."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "惜命些吧。你们比自己能想象的还要脆弱许多。",
+    "english_speaker": "???",
+    "english_text": "Hold your life dear. You are a lot more vulnerable than you can imagine."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "下面就是一条河，你不用吓唬我。",
+    "english_speaker": "Yenisei",
+    "english_text": "Quit threatening me. It's a river down there."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "是。可你不知，这河上甚至无法漂浮河灯。",
+    "english_speaker": "???",
+    "english_text": "Yes. But you don't know how shallow it is. Even a lantern can't float on it!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "它在逐渐死去，与你们在来路上所见支流不同。",
+    "english_speaker": "???",
+    "english_text": "It's dying, unlike the other branches you saw outside the city."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "所以呢？你抓走我，就是为了告诉我这个？",
+    "english_speaker": "Yenisei",
+    "english_text": "So what? Does that explain why you captured me?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "好，这条河在死去。而我被一个鸟人抓住，摔下去也会死，什么都做不了。",
+    "english_speaker": "Yenisei",
+    "english_text": "Fine. The river is dying; I'm held by a bird man in mid-air; I'll fall and die if I struggle. There's nothing I can do."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "……",
+    "english_speaker": "???",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "是的。自知之明，在少年人身上是种难能可贵的品质。",
+    "english_speaker": "???",
+    "english_text": "Yes. It's a rare wisdom for a girl of your age to know her limits."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "不过，我并非鸟人，而是妖。",
+    "english_speaker": "???",
+    "english_text": "But I am not a bird man. I'm a Yāo."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "我名为葛天。",
+    "english_speaker": "???",
+    "english_text": "My name is Gĕtiān."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞放弃在半空中挣扎，思索着划下一个“等式”。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei gives up on her midair struggle,. pondering over his name and identity."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你会用神秘术。你是一个神秘学家。",
+    "english_speaker": "Yenisei",
+    "english_text": "You can use arcane skills. You're an arcanist."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "若你说是，那便是。",
+    "english_speaker": "Getian",
+    "english_text": "If you say so, then it is so."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "飞出许多里了，我会在不远处将你放下，此地浅滩之后即是草地。",
+    "english_speaker": "Getian",
+    "english_text": "We have gone for miles. I will leave you here. Beyond the ford, you will see the steppe."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天如他所言减缓速度，片刻后将小叶尼塞轻轻放到地上。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān slows down, just as he said he would, and after a moment, he gently places Yenisei on the ground."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞并未预料到这种优待。",
+    "english_speaker": "Narrator",
+    "english_text": "Given her situation, she had not anticipated such gentle treatment."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……我不明白。你到底想做什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "I don't understand. What on earth is your purpose?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "为什么要把人变成马？我觉得，你能做比这严重得多的事情。",
+    "english_speaker": "Yenisei",
+    "english_text": "Why did you turn humans into horses? I believe you can commit much worse crimes if you want to."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "难道你以此为乐吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "Are you doing it for fun?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天停在一旁，一棵弯曲生长，像桥一样架过了浅溪的树藤上，神情似乎思索。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān stops o the side of a curved tree growing like a bridge over the veins of a shallow stream, face heavy with a look of contemplation."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "多问多错。",
+    "english_speaker": "Getian",
+    "english_text": "The more you ask, the more mistakes you make."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "问题哪来的对错？",
+    "english_speaker": "Yenisei",
+    "english_text": "There's no such thing as a wrong question."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……但我会答你一问。关于……我为何要将人，变为马。",
+    "english_speaker": "Getian",
+    "english_text": "I will answer one of the questions, regarding ... why I turned people into horses."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "答：我未有此举，亦未有此意。",
+    "english_speaker": "Getian",
+    "english_text": "The answer is, I didn't do it. Neither did I have that intention."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "哈。真有意思，那谁能做到？",
+    "english_speaker": "Yenisei",
+    "english_text": "Hah, interesting. Who did it then?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "酒坊娘子。",
+    "english_speaker": "Getian",
+    "english_text": "The lady owner of the tavern."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "曲娘？",
+    "english_speaker": "Yenisei",
+    "english_text": "Jiŭ Niángzĭ?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "正是。",
+    "english_speaker": "Getian",
+    "english_text": "Precisely."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞摇了摇头，显然并不轻信。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei shakes her head, not believing his words."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "如果这是真的，你却还让别斯米尔女士留在那里——你指望我在亲眼看见你带走被变形的人之后，还能草率相信你口说无凭的指认吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "If that's the case, why did you leave Madam Bessmert there alone? Do you really think I would buy your nonsense after I saw you take my teammates away?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你方才见了院中那红尾红鬃的“马”，是也不是？",
+    "english_speaker": "Getian",
+    "english_text": "You saw the \"horse\" in the yard, with the red tail and the red mane. Did you not?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……是，我看见了。",
+    "english_speaker": "Yenisei",
+    "english_text": "Yes, I saw ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "那并非是“马”，而是鹿蜀。至少，它的形貌是。",
+    "english_speaker": "Getian",
+    "english_text": "It's not a \"horse.\" It's a Lùshŭ, or at least, it looks like one."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "鹿蜀……我从来没有听过这种东西。听起来像是东方特有的神秘生物。",
+    "english_speaker": "Yenisei",
+    "english_text": "Lùshŭ ... I have never heard of it before. It sounds like an arcane creature native to the East."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天并未对此作出回应，而是继续抛出惊人的话题。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān doesn't respond. He only continues to contribute yet more astonishing information."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "它是鹿蜀，也是曲娘。",
+    "english_speaker": "Getian",
+    "english_text": "It is a Lùshŭ, and also Jiŭ Niángzĭ herself."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么？那是曲娘？？",
+    "english_speaker": "Yenisei",
+    "english_text": "What? That thing is Jiŭ Niángzĭ?!"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你今夜所见，的确并非真正意义上的鹿蜀。它们不过徒有鹿蜀的半分形貌。",
+    "english_speaker": "Getian",
+    "english_text": "What you saw tonight was not real Lùshŭ. Those \"horses\" merely resembled half of them."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我言下之意，是说曲娘或为鹿蜀，一种妖。也即你方才所说的神秘生物。",
+    "english_speaker": "Getian",
+    "english_text": "I speak of the fact that Jiŭ Niángzĭ might be a Lùshŭ, a kind of Yāo, or, as you would put it, an arcane creature."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "唉，你说的话比这城里其他人还要更难懂。",
+    "english_speaker": "Yenisei",
+    "english_text": "*sighs* Your words sound even more complicated than those in the city."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "难道这是因为你同鹿蜀一样是神秘生物，还是这是某种我不能理解的纯血神秘学家怪癖？",
+    "english_speaker": "Yenisei",
+    "english_text": "It is because you are also an arcane creature like the Lùshŭ? Or, you have a thing only the pure-blooded can understand?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……我与她并不相似。鹿蜀天然地是一种瑞兽，红鬃白首，身披虎纹。",
+    "english_speaker": "Getian",
+    "english_text": "We are nothing alike. Lùshŭs are Xiángruìs, born with red manes and white faces, covered with tiger's markings."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "总之，据载，古时鹿蜀会役使名为“存想”的神秘术。曲娘也正是经由此术，才可将其他人变为鹿蜀。",
+    "english_speaker": "Getian",
+    "english_text": "In the books, Lùshŭs are capable of casting an arcane skill named The Shape of Will. It could be the same skill that Jiŭ Niángzĭ uses to turn others into Lùshŭs."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "如此解释，能使你明白吗？",
+    "english_speaker": "Getian",
+    "english_text": "Do you understand?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "哈。我试着理解吧。",
+    "english_speaker": "Yenisei",
+    "english_text": "Yes ... I'll try."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "记载中，“存想”之术隐秘而危险。鹿蜀炼血为火，点石成金，皆依靠此术。",
+    "english_speaker": "Getian",
+    "english_text": "The Shape of Will is a dangerous and secret skill, as written in the books. The Lùshŭs use it to transform blood into fire and stone into gold."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "也许……就像是炼金术？",
+    "english_speaker": "Yenisei",
+    "english_text": "So ... it's like alchemy?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我并不了解你所说的“炼金术”，不过……",
+    "english_speaker": "Getian",
+    "english_text": "I'm unfamiliar with what you said, but ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "曲娘似乎受到了其他术法的限制，她无法像真正的鹿蜀般俯身为妖，身负伟力。与其说她是鹿蜀，更不如说她是天生的半妖。",
+    "english_speaker": "Getian",
+    "english_text": "Jiŭ Niángzĭ's power seems to be restricted. She cannot fully transform into a Lùshŭ like a Yāo could, nor does she possess great power. She's closer to a Half Yāo."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "她的“存想”，需要通过一定媒介才可施展，并不如记载中的鹿蜀那般直截、高效。由此，她相较于真正的鹿蜀，更为难辨。",
+    "english_speaker": "Getian",
+    "english_text": "Unlike other Lùshŭs, she requires a certain medium to cast her skill. The Shape of Will. This is also why people did not recognize her. She's harder to identify."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "曲娘……半妖……“半妖”难道是指拥有不纯神秘血统的神秘学家？",
+    "english_speaker": "Yenisei",
+    "english_text": "Jiŭ Niángzĭ ... \"Half Yāo\" ... Is that another name for the mixed-blood?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不过，假设你说的都是真的，但这些信息，你又是怎么知道的？",
+    "english_speaker": "Yenisei",
+    "english_text": "Anyway, even if you're telling the truth, how did you know that?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "天赋而已。就像你以水为媒卜出前路，我亦读骨识人。",
+    "english_speaker": "Getian",
+    "english_text": "It is within my bloodline. Like you find your direction through the water, I read people through their bones."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……！你怎么知道我——",
+    "english_speaker": "Yenisei",
+    "english_text": "...! How did you know my ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "等等，你说你能看骨头辨识人？这太离奇了，从生理结构上又能看出什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "Wait, you mean you can red people through their bones? That makes no sense. What can one's physical condition tell you?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "许多。许多见识，许多音声。即使我并不曾亲身历经。",
+    "english_speaker": "Getian",
+    "english_text": "Many. Many stories, many sounds. Even if I was never there with them."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "例如你。你骨纹织缠，形似漏网，一方兜首，三面延伸，是自曾经栖居的无水之地离开，迄今为止仍在游荡。",
+    "english_speaker": "Getian",
+    "english_text": "Such as you. The markings on your bones resemble an open net, yet it captures nothing. You are away from the waterless land where you once lived, and to this day you're still wandering."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么……",
+    "english_speaker": "Yenisei",
+    "english_text": "What ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "少女瞪大了眼睛，显然是不可置信。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl's eyes widen with astonished disbelief."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你此后一生，也将有无数出走与无数归回，譬如……鹘鸠。",
+    "english_speaker": "Getian",
+    "english_text": "You will travel far many times in life and turn homeward, like the migratory birds."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "直至寻到属于你的水域。",
+    "english_speaker": "Getian",
+    "english_text": "Until you find your lake."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你究竟在说什么——",
+    "english_speaker": "Yenisei",
+    "english_text": "What on earth are you talking about ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我所言有误？应当不会……",
+    "english_speaker": "Getian",
+    "english_text": "Have I mistaken anything? I should hope not."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "抱歉，我已久未读过他人骨相，且诉诸言语了。",
+    "english_speaker": "Getian",
+    "english_text": "Forgive me. I have long since stopped reading others' bones and put them into words."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "或许白口讲来，与所见有些微偏差，但大体上应是没错。",
+    "english_speaker": "Getian",
+    "english_text": "Perhaps I did not tell it in the most precise way, but it should be generally accurate."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "好，停。",
+    "english_speaker": "Yenisei",
+    "english_text": "Alright, stop."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "嗯？",
+    "english_speaker": "Getian",
+    "english_text": "Hmm?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我需要……",
+    "english_speaker": "Yenisei",
+    "english_text": "I need ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我需要一些时间，来理解你刚才说的……",
+    "english_speaker": "Yenisei",
+    "english_text": "I need some time to digest your words ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "一阵影绰的响动很快就夺走了小叶尼塞的话头。",
+    "english_speaker": "Narrator",
+    "english_text": "A bizarre spectral sound cuts off Yenisei's reply."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "——当心！",
+    "english_speaker": "Getian",
+    "english_text": "Careful!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "圆球一样拖着长尾的生物，自两人身后的林中猛然蹿出。",
+    "english_speaker": "Narrator",
+    "english_text": "Strange creatures resemble balls dragging long tails suddenly leap out from the trees behind the two of them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它们尖叫着，目标明确地冲向小叶尼塞。",
+    "english_speaker": "Narrator",
+    "english_text": "They shriek and charge towards Yenisei, who is most evidently their target."
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "咕吱——吱——",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Squeak!"
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "吱吱吱！",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Squeak! Squeak! Squeak!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "呃！",
+    "english_speaker": "Yenisei",
+    "english_text": "Ugh!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——又是这些东西——我曾经在闹市上见过它们！",
+    "english_speaker": "Yenisei",
+    "english_text": "These things again ... They already attacked me once in the street!"
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "吱——吱吱！！",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Squeak!!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "唉，这群奇形怪状的鸟！",
+    "english_speaker": "Yenisei",
+    "english_text": "*sighs* These stupid birds!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "紧随其后的，还有一只与其他圆球有着显著不同的神秘生物。",
+    "english_speaker": "Narrator",
+    "english_text": "Following closely behind is a mysterious creature markedly different from other feathered balls."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……怎么还有一只这么亮！别围着我转了，走开！",
+    "english_speaker": "Yenisei",
+    "english_text": "This one is shining bright! Get out of my way, out!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它通体明亮异常，形态颀长，几乎照亮了眼前整片浅溪的水面。",
+    "english_speaker": "Narrator",
+    "english_text": "It is indeed exceptionally bright and long, illuminating the shallow stream in front of them on both sides."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天注视着被打散的烛夜们奔命逃窜的方向，心下有了一些考量。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān stares in the direction the scattered Zhúyè ran off, his mind burdened with thought."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你是否……喝过曲娘给你的酒？",
+    "english_speaker": "Getian",
+    "english_text": "Have you drunk the liquor ... offered by Jiŭ Niángzĭ?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "没有，我只喝过她给我的水。为什么这么问？",
+    "english_speaker": "Yenisei",
+    "english_text": "No, but I had the water from her. Why?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "这些烛夜，或许是闻酒香而来。它们以烛夜花为食，此花可酿酒，其蕊气如酒糟。",
+    "english_speaker": "Getian",
+    "english_text": "These Zhúyè might be attracted here by the scent of liquor. They feed on the flowers of Zhúyè, which can be used to make liquor and smell of lees."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "因此，酒香也会吸引它们。可若你未曾饮酒……它们又是如何会缠上你？",
+    "english_speaker": "Getian",
+    "english_text": "They could be here because they smelt the liquor. But you only had the water. What else could attract them?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞冥思苦想。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei thinks back to the preceding events."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "如果是酒，那或许是因为那群木头小人。我看见它们泡在酒碗里，后来又攻击了我，也许是在我躲避时不小心沾上了它们的气味。",
+    "english_speaker": "Yenisei",
+    "english_text": "If they were attracted by the scent of liquor, I think it was the wooden dolls' fault. They soaked themselves in the liquor before they attacked me. I might have gotten their scent during the battle."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "若真如此，仅身上沾上一些，未曾流入脾胃，应当不会有事。",
+    "english_speaker": "Getian",
+    "english_text": "The scent of liquor stains is not strong enough to attract them here. It would have taken a proper consumption of liquor for them to notice."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "在我来看，那酒水恐怕正是使人变为鹿蜀的媒介。当然，这仅是我的预估，除非你所饮下那水，亦有此作用——",
+    "english_speaker": "Getian",
+    "english_text": "I worry that liquor is the medium for her transformation skill, but that is only my speculation. If the water you drank also exerts the same effect on you ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "似乎言出法随，变故就在他话语落下的时刻发生。",
+    "english_speaker": "Narrator",
+    "english_text": "As though his words hold the power of execution, the change happens the very moment he speaks."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "呃……",
+    "english_speaker": "Yenisei",
+    "english_text": "Emm ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "怎么，你——",
+    "english_speaker": "Getian",
+    "english_text": "What? You ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞跪了下去，身体逐渐发生变化，一如她的同胞们先前在草原上的境况。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei kneels down and her body transforms, just as her companions transformed on the steppes before her."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "怎会如此——！",
+    "english_speaker": "Getian",
+    "english_text": "How so ...!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "尽管葛天可以说是对此刻早已有所预料，却仍被这奇异的转变过程惊得振翅飞起。",
+    "english_speaker": "Narrator",
+    "english_text": "Although Gĕtiān had already anticipated this moment, he cannot help but be startled by this strange process and flaps his wings involuntarily."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "本能令他想要离开。",
+    "english_speaker": "Narrator",
+    "english_text": "His instincts tell him to flee."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "入夜，雨停，河滩湿润而柔软。",
+    "english_speaker": "Narrator",
+    "english_text": "Night falls. The rain has stopped, and the riverbank is moist and soft."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "法曹带队，搜寻着红鬃马驹与胡人娘子的踪迹，终于来到郊外靠近河边的地界。",
+    "english_speaker": "Narrator",
+    "english_text": "Făcáo leads his team in search of the red-haired horse's trail, finally arriving at the edge of the river."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "而此地正是前一夜葛天与小叶尼塞曾经停留的地方。",
+    "english_speaker": "Narrator",
+    "english_text": "The exact spot where Gĕtiān and Yenisei stayed the night before."
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "……",
+    "english_speaker": "Guard",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "结果如何？",
+    "english_speaker": "Facao",
+    "english_text": "Find anything?"
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "有人来过，足迹似一高挑女子，与一匹马。",
+    "english_speaker": "Guard",
+    "english_text": "Someone was here. Seems like a horse, with a female, tall and thin."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "不是马，是马驹。脚印还要更浅更小，且看仔细些。",
+    "english_speaker": "Facao",
+    "english_text": "Not a horse, but a foal. Look carefully. The footsteps are smaller and shallower than a horse's."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "这些脚印消失在何处？",
+    "english_speaker": "Facao",
+    "english_text": "Where are the ends of the tracks?"
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "前方浅滩，从这里数过去十尺之后就没有痕迹了，无从知晓他们离开的方向。",
+    "english_speaker": "Guard",
+    "english_text": "The river beach ahead. The tracks stopped three meters away. We couldn't tell where they went."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "……不应当。",
+    "english_speaker": "Facao",
+    "english_text": "That can't be."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "法曹大步过去，仔细观察着脚印最后出现地点的残余痕迹。",
+    "english_speaker": "Narrator",
+    "english_text": "Făcáo strides over to inspect the traces near where the trail of footprints ends."
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "如果是说脚印消失，急雨接连几场，是有可能冲刷了河滩的。",
+    "english_speaker": "Guard",
+    "english_text": "It rained a couple of times. The rain could have washed away the footprints."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "不。这里不应当还有其他痕迹。",
+    "english_speaker": "Facao",
+    "english_text": "If that's the case, there shouldn't be other tracks here."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "例如此处。树藤的边缘，禽类爪印。",
+    "english_speaker": "Facao",
+    "english_text": "Like this. A bird's claw marks at the edge of the rotten wood."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "猛禽，相当有力的趾爪大小，和甲尖的锋锐程度。更早的时候曾在此落脚。",
+    "english_speaker": "Facao",
+    "english_text": "It was a bird of prey. And judging from the size and the sharpness, it's quite strong."
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "真的……",
+    "english_speaker": "Guard",
+    "english_text": "It's true ..."
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "啊，这附近还有两组脚印！",
+    "english_speaker": "Guard",
+    "english_text": "Hey, I found another two sets of footprints!"
+  },
+  {
+    "chinese_speaker": "巡防兵：",
+    "chinese_text": "浅而窄，是年轻女子的脚印。",
+    "english_speaker": "Guard",
+    "english_text": "They are shallow and narrow, possibly from the same person, a young woman."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "此处，如此低矮，靠近河面的中空树藤，通常不是普通禽类的理想落脚点。",
+    "english_speaker": "Facao",
+    "english_text": "The wood lies on the ground near the river. It's not a good spot for birds of prey to roost on."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "来过的，是更大的东西。",
+    "english_speaker": "Facao",
+    "english_text": "What stopped here was something even bigger."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "……年轻女子，与如此庞大的猛禽狭路相逢，四周却没有血迹。",
+    "english_speaker": "Facao",
+    "english_text": "A young woman met a huge bird of prey here, yet there is no bloodstain at all."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "也许那失踪胡商的真相，与羽人所说仍有偏差。",
+    "english_speaker": "Facao",
+    "english_text": "Perhaps the truth behind the foreign merchant's disappearances is different from the feather man's statements."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "我们须得回去一趟职祠。",
+    "english_speaker": "Facao",
+    "english_text": "We need to go back to the Zhící."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "草地上，一只鹿蜀替代了原本站立于此的少女，甚至连葛天也因为受到惊吓而飞上了半空。",
+    "english_speaker": "Narrator",
+    "english_text": "On the steppes, a Lùshŭ stands in place of a girl. The fright of this transformation sends Gĕtiān up into the air."
+  },
+  {
+    "chinese_speaker": "鹿蜀：",
+    "chinese_text": "咴——！",
+    "english_speaker": "Lushu",
+    "english_text": "*neighs*"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……来不及了。",
+    "english_speaker": "Getian",
+    "english_text": "Too late."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "如此看来，即使仅饮下那娘子所予茶水也会发生异变，需得报给官府。",
+    "english_speaker": "Getian",
+    "english_text": "So it seems her tea can also transform people. I must report this to the authorities."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你就在此处，不要走动。",
+    "english_speaker": "Getian",
+    "english_text": "Stay here."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不。不，你不能走！",
+    "english_speaker": "Yenisei",
+    "english_text": "No, no. You must not leave!"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你——你能在水中说话？",
+    "english_speaker": "Getian",
+    "english_text": "You ... can speak through the water?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你知道我的神秘术！但我维持不了太久了，刚才驱散烛夜已经耗费了我太多的力气——",
+    "english_speaker": "Yenisei",
+    "english_text": "You know what my arcane skill can do! But I can't maintain it for long. I spent too much energy fighting the Zhúyès ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……我须得走了。",
+    "english_speaker": "Getian",
+    "english_text": "I must take leave."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你去哪儿？你要去救别斯米尔女士！",
+    "english_speaker": "Yenisei",
+    "english_text": "Where are you going? You need to save Madam Bessmert!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不，我请求您！我请求您去救她。她看不见，一个人在酒坊，非常危险……",
+    "english_speaker": "Yenisei",
+    "english_text": "Please, please, I'm begging you! Please save her. She can't see, and she's still alone in the tavern. She must be in great danger now ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我曾想过的，我的术杖也遗落在了酒坊。但若此时再去，必将打草惊蛇。",
+    "english_speaker": "Getian",
+    "english_text": "I have thought about it, given that my wand was also left in that tavern. But should I return, Jiŭ Niángzĭ might be alerted."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我观曲娘其人，本性非恶，除将他人变为鹿蜀以外，再无旁的行迹。你的友人应该暂时安全。",
+    "english_speaker": "Getian",
+    "english_text": "I sense kindness in that girl. She hasn't done anything evil except for turning people into Lùshŭs. Your friend should be safe with her for the moment."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "现下更要紧的是，在曲娘能够有所应对之前，揭穿她。",
+    "english_speaker": "Getian",
+    "english_text": "The more urgent matter is to spread the word before she further repeats her mistake."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我须得去找能够全权处理此事之人。",
+    "english_speaker": "Getian",
+    "english_text": "I must go find someone to handle this properly."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "您一定得带上我。",
+    "english_speaker": "Yenisei",
+    "english_text": "Please take me with you."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "他们现在认为你是失踪案的凶手，你这样过去简直就是自首。",
+    "english_speaker": "Yenisei",
+    "english_text": "They believe you are the one behind the missing persons cases now. You'll be turning yourself in if you go alone."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天一愣，似乎从未料想过这样的情状。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān is startled, having never thought such an outcome might occur."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……原是如此。我实在不应下山的。",
+    "english_speaker": "Getian",
+    "english_text": "I see. The world outside the mountains is indeed not meant for me to step into."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "但你已经在了。而且——而且我们因为先前不知道详情的缘故，已经向里正指认了你……",
+    "english_speaker": "Yenisei",
+    "english_text": "But you are already involved. Besides, we gave Lǐzhèng a drawing of you when I was not clear of the truth ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "无妨，我自会与他分辩清楚。",
+    "english_speaker": "Getian",
+    "english_text": "No matter. I will reason with him."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那你也要带我去。我的神秘术，你看，这不就是最好的证明吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "Even so, you will need me there. Look at my arcane skill. It will be the best proof, right?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "证明曲娘才是把人变成斑马，变成“鹿蜀”的元凶。",
+    "english_speaker": "Yenisei",
+    "english_text": "So they will know that Jiŭ Niángzĭ is the real culprut who turned the people into horses, I mean, \"Lùshŭs.\""
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "还需这般复杂吗？",
+    "english_speaker": "Getian",
+    "english_text": "Is that really needed?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你已经被怀疑了！如果你真的没做那些事，就还必须用有百倍说服力的证据，证明给他们看。",
+    "english_speaker": "Yenisei",
+    "english_text": "You need to know that you are a suspect! Even though I know you are innocent, you need something absolutely persuasive to prove it."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "所以，你需要带我去。我的神秘术可以为你证明。",
+    "english_speaker": "Yenisei",
+    "english_text": "All in all, you must take me with you. My arcane skill will vindicate you."
+  }
+]

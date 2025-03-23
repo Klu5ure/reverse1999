@@ -1,0 +1,980 @@
+[
+  {
+    "chinese_speaker": "斑纹马？：",
+    "chinese_text": "——咴——咴——",
+    "english_speaker": "Striped Horse?",
+    "english_text": "*neighs*"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……为什么……",
+    "english_speaker": "Yenisei",
+    "english_text": "No way ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "转过身去，却发现同行者从双脚站立的人类，突然变成四肢着地的奇蹄目动物。",
+    "english_speaker": "Narrator",
+    "english_text": "Turning around, she finds that her companion has transformed in an instant from a human on two feet to a strange hoofed animal on all fours."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "作为唯一清楚地目睹了全程的人，她却感到现状实在难以理解，只能把疑惑的目光投向年长者。",
+    "english_speaker": "Narrator",
+    "english_text": "As the only person to have witnessed the entire process in detail, with every aspect too difficult to comprehend, she can only turn her puzzled gaze toward her elder."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "但别斯米尔也浑然不觉。",
+    "english_speaker": "Narrator",
+    "english_text": "But Bessmert is also in the dark."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这是什么声音？……克罗利克先生？",
+    "english_speaker": "Bessmert",
+    "english_text": "What's this noise? Mr. Krolik?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "回答她的只有奇蹄目踩踏草皮的不耐烦动静。",
+    "english_speaker": "Narrator",
+    "english_text": "The only answer she receives is the impatient stirring of the odd-toed ungulate as it tramples the grass."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "尤利恩先生？",
+    "english_speaker": "Bessmert",
+    "english_text": "Mr. Jurien?"
+  },
+  {
+    "chinese_speaker": "斑纹马？：",
+    "chinese_text": "咴——",
+    "english_speaker": "Striped Horse?",
+    "english_text": "*neighs*"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不对。我听到了动物的声音。有什么东西出现了？",
+    "english_speaker": "Bessmert",
+    "english_text": "Strange. I heard animals. What happened?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……这……",
+    "english_speaker": "Yenisei",
+    "english_text": "Emm ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "小叶尼塞，我看不见。我需要你的帮助。",
+    "english_speaker": "Bessmert",
+    "english_text": "Yenisei, I can't see. I need your help."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "天啊，让、让我想想……呃，看起来，尤利恩先生他们变成了——斑纹马？",
+    "english_speaker": "Yenisei",
+    "english_text": "Oh dear, give me a minute ... Emm, looks like they turned into ... I don't know, striped horses?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "抱歉，我不知道。我只在画册上见过这些动物。",
+    "english_speaker": "Yenisei",
+    "english_text": "I ... Sorry, I'm not sure. I've only seen similar animals in books."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "它们看起来比马要小一些，又比驴的体型更大、更高，身上有一些黄色的斑纹。",
+    "english_speaker": "Yenisei",
+    "english_text": "They look a bit smaller than horses, but taller and bigger than donkeys. And they have yellow stripes on their skin."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "也许是某种温带草原上特有的动物……你确定是尤利恩先生他们自行变成了马，而不是附近出现了牧民？",
+    "english_speaker": "Bessmert",
+    "english_text": "Perhaps some local species on the temperate steppe? Are you certain they're transformed from Mr. Jurien and others? Not the livestock of nearby herders?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我刚才并没有采取过激的举措，你也没有。而且，我并没有感受到神秘术的波动——",
+    "english_speaker": "Bessmert",
+    "english_text": "I didn't cast any violent arcane skills on them, nor did you. Besides, I didn't sense any fluctuations of arcane energy ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "对不起，女士，我也毫无头绪。",
+    "english_speaker": "Yenisei",
+    "english_text": "I'm sorry, Madam. I have no idea."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我想，如果不是因为我们的行动，就说明这地方可能还有其他人。",
+    "english_speaker": "Bessmert",
+    "english_text": "I think ... if this wasn't because of us, there must be someone else around."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "你靠近我，不要走散。",
+    "english_speaker": "Bessmert",
+    "english_text": "Stay close to me."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "事实证明，迅速地聚拢且时刻保持警惕是必要的。",
+    "english_speaker": "Narrator",
+    "english_text": "The importance of rallying together and remaining vigilant has already been proven to them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "猛禽翅膀急速划破空气的声音，朝着两人与马群所在方向直直冲来。",
+    "english_speaker": "Narrator",
+    "english_text": "The sound of raptor wings rapidly slicing through the air rushes towards the two travelers and their horses."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "来了，当心！",
+    "english_speaker": "Bessmert",
+    "english_text": "It's here. Watch out!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "天哪，那是什么——",
+    "english_speaker": "Yenisei",
+    "english_text": "What is it?!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "是不是某种猛禽？它翅膀的振幅剧烈，说明速度很快。我们得站到尤利恩先生他们前面去，动物袭击的目标很可能是他们……",
+    "english_speaker": "Bessmert",
+    "english_text": "Some bird of prey? It's fast, judging from the flapping sound of its wings. We must go up front to protect Mr. Jurien and the others. They might be its target ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "对了，火石，把火石拿出来！然后找团沙蓬点燃来驱赶它！",
+    "english_speaker": "Bessmert",
+    "english_text": "Oh, yes, the flint! Take out the flint! Kindle the sand rice to drive it away!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不，等等……",
+    "english_speaker": "Yenisei",
+    "english_text": "No, wait ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我觉得那看起来像是一个长着翅膀的人，而不是普通的猛禽！",
+    "english_speaker": "Yenisei",
+    "english_text": "I don't think that's a bird of prey, but a human with wings!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……而且它也没有继续前进？",
+    "english_speaker": "Yenisei",
+    "english_text": "And it's not coming any closer?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "女孩犹豫是因为乐声。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl hesitates upon hearing the sound of music."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "起初也有乐声。只是巨大翅膀搅动空气震颤更响，更剧烈，乐声就理所当然地被遮盖了。",
+    "english_speaker": "Narrator",
+    "english_text": "The music has been playing for only a short while. When those huge wings stirred the air into a violent storm, it was totally drowned out."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "等到它并没有打算继续向前，逐渐缓慢的振翅声才被乐声所覆盖。",
+    "english_speaker": "Narrator",
+    "english_text": "It wasn't until it gave up on advancing that the slow flapping of wings was covered up by the music."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "——被某种乐声覆盖，可音色却并不被此地任何人所知。",
+    "english_speaker": "Narrator",
+    "english_text": "But the tune of the music is unknown to all present."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "音乐声从人耳能够捕捉到振翅声音的方位开始蔓延，像急雨一样，笼罩了地面不安的棕色动物。",
+    "english_speaker": "Narrator",
+    "english_text": "The music starts from the bird and spreads around, like a torrential rain, enveloping the restless brown animals on the ground below."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "马群随旋律抬头，和剩下的两人一样都在聆听着。",
+    "english_speaker": "Narrator",
+    "english_text": "The horses look up in search of the source of this melody, as do the two other listeners."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "分明是简单的重复旋律，却似乎攥住了别斯米尔全部的注意力。",
+    "english_speaker": "Narrator",
+    "english_text": "It is a simple and repetitive melody, but more than enough to consume Bessmert's full attention."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "——",
+    "english_speaker": "???",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士——！那是……！",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam! That thing is a creature with a human's head and a bird's body ...!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "草原上的风吹散了她的呼喊。",
+    "english_speaker": "Narrator",
+    "english_text": "The fierce steppe winds carry off her cries."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "——什么？你说什么？我听不清——",
+    "english_speaker": "Bessmert",
+    "english_text": "What? What did you say? I can't hear ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我说，那看起来像是一个长着翅膀的人!",
+    "english_speaker": "Yenisei",
+    "english_text": "I said, that thing looks like a human with wings!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "人？你是指人面？音乐声是从它那边传出来的？",
+    "english_speaker": "Bessmert",
+    "english_text": "A human? You mean it has the face of a human? Is the music also coming from it?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "是的！",
+    "english_speaker": "Yenisei",
+    "english_text": "Yes!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "会奏乐，人面的带翅生物。听起来相当耳熟，不是吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "The music-playing winged creature with a human's face. Sounds familiar, don't you think?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……天使？！您在开玩笑吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "... An angel?! You are not serious!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可天使吹奏的是号角！而且那个正在发出声音的，究竟是一根术杖还是某种乐器？",
+    "english_speaker": "Yenisei",
+    "english_text": "But angels blow trumpets! That stick it uses to play music—I'm not sure whether it's a wand or some instrument."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "女孩的声音藏不住疑惑。她拉住别斯米尔，想要向后退去，却又牢记不能离开马群太远。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl's voice cannot conceal her doubt. She grabs Bessmert, wishing to step back, but remembers not to stray too far from the horses."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "对本能与理智两种选择的犹豫，在她话语里显露得支离破碎。",
+    "english_speaker": "Narrator",
+    "english_text": "This conflict between her instinct and reason is revealed in her fragmented words."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她努力理解现状，可这实在有些困难。",
+    "english_speaker": "Narrator",
+    "english_text": "She tries to understand the current situation, but finds it strangely difficult."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，我……我们——",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam, we, I, we ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "——冷静，孩子。",
+    "english_speaker": "Bessmert",
+    "english_text": "Calm down, child."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "你再瞧仔细些，然后告诉我：它和那个术杖都长什么样子？",
+    "english_speaker": "Bessmert",
+    "english_text": "Look closer and tell me. What does it look like? What about its wand?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "它……它长着人的脑袋，披着衣服，看起来灰扑扑的，但双手却是黑色的猛禽翅膀，像是某种——某种巨大的鸟类……",
+    "english_speaker": "Yenisei",
+    "english_text": "It ... It has a human's head, dressed in gray, with black wings instead of arms. Looks ... looks like a huge bird of prey ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "至于那个术杖，我不知道。",
+    "english_speaker": "Yenisei",
+    "english_text": "While the wand, I don't know how to describe it ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "女孩又匆忙抬起头确认，好为自己表述不清的部分增加抗辩似的补充。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl hurriedly lifts her head again to confirm, and add a supplementary defense to that which she still cannot clearly express."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "它甚至没用手抓着它！那东西似乎是隔空在发出声音。",
+    "english_speaker": "Yenisei",
+    "english_text": "But that thing is not even holding it! It's making the sound in mid-air."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "抛开术杖的部分，听起来像鹰身女妖。",
+    "english_speaker": "Bessmert",
+    "english_text": "Sounds like a Harpy, if there wasn't a wand."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可它羽毛的颜色，和这里的环境……和书上说的不一样。",
+    "english_speaker": "Yenisei",
+    "english_text": "But it doesn't quite fit the descriptions in the book ... Neither the color of its feathers nor the environment does."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "地上的两人还在尝试解读变故，几匹棕色的斑纹马早已从草地上抬头，轻快地原地迈步，都列队望向声音的来源。",
+    "english_speaker": "Narrator",
+    "english_text": "As they're trying to figure out what's going on, the horses, effecting a brisk piaffe, look up to the source of the sound."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "片刻后，“鹰身女妖”转身，扇动翅膀缓缓飞离，马群就仿佛受到感召一般紧随其后。",
+    "english_speaker": "Narrator",
+    "english_text": "After a brief moment, the \"Harpy\" turns around, flapping its wings and slowly flying away, with the horses following closely behind as if compelled."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "他们——他们跟着它走了！",
+    "english_speaker": "Yenisei",
+    "english_text": "Mr. Jurien ... They are leaving after that thing!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……冷静，孩子。",
+    "english_speaker": "Bessmert",
+    "english_text": "Stay calm, Yenisei."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "他们一定被控制了，但我不确定——不确定鹰身女妖是不是有这种隔空操纵行为的能力。",
+    "english_speaker": "Bessmert",
+    "english_text": "They must be under its control, but I'm not sure if ... if a Harpy can manipulate its subjects from a distance."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔努力从脑海中挖掘着信息，希望能找到一点可用的东西，好解释眼前荒唐的变故。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert strains to extract something useful from her mind, hoping to find anything that might explain the absurdities before her."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "结果是，她毫无收获，疑问仍然像一把铁锤一样敲打着脑袋。",
+    "english_speaker": "Narrator",
+    "english_text": "In the end, she gains nothing, and the doubt strikes at her head again like a well-paced hammer."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "呃，好吧，让我们祈祷……",
+    "english_speaker": "Bessmert",
+    "english_text": "Err, alright, let's hope that ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "祈祷他们不会被吃掉？女士，我们不能坐以待毙——",
+    "english_speaker": "Yenisei",
+    "english_text": "Hope that \"Harpy\" doesn't eat horses? Madam, we can't just stand here and hope ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "当然不是！是祈祷这是某种可以控制思维的神秘术，他们都是被控制了……",
+    "english_speaker": "Bessmert",
+    "english_text": "Nonsense. Hope that this is just a mind-controlling arcane skill, and they're just affected by it."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "对，没错。我们需要追上去，打断施术者的行动。",
+    "english_speaker": "Bessmert",
+    "english_text": "That's right. We must follow that creature and break he spell on them."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "所以你先——",
+    "english_speaker": "Bessmert",
+    "english_text": "Now you need to ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔抓住小叶尼塞，另一手则坚定地指向马群奔向的上游。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert grabs Yenisei, while her other hand points firmly upstream toward the herd of horses."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞几乎立刻理解了她的意思，逐渐镇定下来。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei takes only a moment to understand her intentions and calms down."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……好，我明白了。",
+    "english_speaker": "Yenisei",
+    "english_text": "Alright. I see what you mean."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我先追上去。请您留意我的脚步声，尽快赶上来。",
+    "english_speaker": "Yenisei",
+    "english_text": "I'll go first. Please listen carefully to my footsteps and find us as soon as possible."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "然而，很遗憾。",
+    "english_speaker": "Narrator",
+    "english_text": "Unfortunately ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它似乎不用回头就知道身后发生的事，只需抬手就能接下小叶尼塞所有的攻击。",
+    "english_speaker": "Narrator",
+    "english_text": "They quickly realize the creature doesn't need to look back to know what's going on behind it. It merely raises its talons to deftly parry Yenisei's attacks."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "换句话说，它的力量超出了两人的想象。",
+    "english_speaker": "Narrator",
+    "english_text": "That is to say, they realize soon enough that its power is far beyond what the two of them had imagined."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——停下！你到底要做什么！",
+    "english_speaker": "Yenisei",
+    "english_text": "Hold there! what on earth do you want!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "回答我！",
+    "english_speaker": "Yenisei",
+    "english_text": "Answer me!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "……",
+    "english_speaker": "???",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "或许是力量实在悬殊，不必放在眼里，“鹰身女妖”在天上回过身来。",
+    "english_speaker": "Narrator",
+    "english_text": "Perhaps it is because of this disparity in strength that the \"Harpy\" seems not to feel any need to pay attention. It whirls around in midair."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "但小叶尼塞很难看清它那张酷似人形的脸上有任何的表情。",
+    "english_speaker": "Narrator",
+    "english_text": "However, Yenisei struggles to see any discernible expression on its human face."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "归去。",
+    "english_speaker": "???",
+    "english_text": "Turn thee back."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "此处并无尔等所寻之物。",
+    "english_speaker": "???",
+    "english_text": "Seek what thou desire elsewhere."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "What?"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "既如此，不如归去。",
+    "english_speaker": "???",
+    "english_text": "Turn thee back, there is naught to find here."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这声音是它在说话，还是在唱歌？为什么听起来更像青年男子的音色？",
+    "english_speaker": "Bessmert",
+    "english_text": "What is this sound? Speaking or singing? Sounds like a young man, how so?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不过，也许可以认为它不是鹰身女妖了。",
+    "english_speaker": "Bessmert",
+    "english_text": "Well, at least it's definitely not a Harpy."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "也许它是在说话。可声调很奇怪，我从没听过这种语言。",
+    "english_speaker": "Yenisei",
+    "english_text": "Perhaps it's talking, but the tone sounds strange. I've never heard any language like this."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞徒劳地想要继续上前，直到“巨鸟”警告似的在空中摇晃脑袋。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei tries in vain to continue forward, but the \"giant bird\" shakes its head in the air as though issuing a warning."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "若执着于此……便是光阴蹉跎，前程惘然。",
+    "english_speaker": "???",
+    "english_text": "Thine pursuit will cost thee greatly, and yet little will be thy reward."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "勿要上前了。",
+    "english_speaker": "???",
+    "english_text": "Tread not one step more."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "随“巨鸟”翅膀抬起而动作的，除了那古怪的乐器，还有蓦然回头的马群。",
+    "english_speaker": "Narrator",
+    "english_text": "As the wings of the \"giant bird\" rise and heave, in addition to the strange instrument, the horses also turn around."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "失去控制的同伴拦在路中，乐声也陡然由悠扬转向尖锐。",
+    "english_speaker": "Narrator",
+    "english_text": "Their unhinged companions stand in the way as the music suddenly shifts from a melodious tone to a piercing frenzy."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它谱了一出无奈的冲突。",
+    "english_speaker": "Narrator",
+    "english_text": "It paints the scene of a hopeless conflict."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "同伴变作的斑纹马被“巨鸟”驱遣着，掉转头来挡住她的去路。",
+    "english_speaker": "Narrator",
+    "english_text": "The striped horses are driven by the giant bird, turning their heads to block her path."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞只能在围堵中抬起手来，继续向上发动攻击。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei can only lift her hands against the encirclement and continue launching her attacks upward."
+  },
+  {
+    "chinese_speaker": "斑纹马？：",
+    "chinese_text": "*愤怒的叫声*",
+    "english_speaker": "Striped Horse?",
+    "english_text": "*neighs angrily*"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "呃！",
+    "english_speaker": "Yenisei",
+    "english_text": "Ugh!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "呃……你们……让开。让开！",
+    "english_speaker": "Yenisei",
+    "english_text": "Ugh ... Gentlemen ... Get out of the way. Out!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "还有你，天上的那个！你会说话，是吗？虽然我听不明白——",
+    "english_speaker": "Yenisei",
+    "english_text": "And you, hey, the flying one! You can talk, right? I don't know your language, but ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "但你如果坚持要选他们做食物的话，我建议你还是好好考虑一下。",
+    "english_speaker": "Yenisei",
+    "english_text": "If you are going to eat them, you'd better think twice."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "马肉的味道很腥。",
+    "english_speaker": "Yenisei",
+    "english_text": "Horse meat has a bad smell."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "……",
+    "english_speaker": "???",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "巨鸟没再出声。小叶尼塞留意到一枚细长白色的短杖自它身上飞出。",
+    "english_speaker": "Narrator",
+    "english_text": "The bird remains silent. Yenisei notices a slender, white stick poking out from his feathers."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "像骨头，也像术杖。",
+    "english_speaker": "Narrator",
+    "english_text": "Like a bone, but yet also like a wand."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不……女士，快躲开！",
+    "english_speaker": "Yenisei",
+    "english_text": "No ... Madam, watch out!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "什么？我没有感觉到攻击性——",
+    "english_speaker": "Bessmert",
+    "english_text": "What? I don't sense any hostility ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "这“攻击”显示，它是术杖。",
+    "english_speaker": "Narrator",
+    "english_text": "This \"attack\" indicates that it is, in fact, a wand."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "然而理应受到“攻击”的两人，看上去毫无变化。无论身体或精神，都与先前如出一辙。",
+    "english_speaker": "Narrator",
+    "english_text": "However, the two individuals supposedly subjected to this attack seem unchanged. Both physically and mentally, they are exactly as they were before."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……嗯？",
+    "english_speaker": "Yenisei",
+    "english_text": "Hmm?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "没事。我没事，这不是一次攻击。",
+    "english_speaker": "Bessmert",
+    "english_text": "Don't worry. I'm fine. It wasn't an attack."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "就在两人惊疑不定时，空中挥舞着翅膀的人却再次开口了。",
+    "english_speaker": "Narrator",
+    "english_text": "As the two of them begin to explore their uncertainty, the figure flapping its wings in the air speaks once again."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "这一次，有什么东西不一样了。",
+    "english_speaker": "Narrator",
+    "english_text": "This time, though, something is different."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "你们所寻之人……自走入此地，饮下流水起，就已与你们无关。",
+    "english_speaker": "???",
+    "english_text": "Those whom you chase are no longer related to you once they walked in here and moistened their throats with the flowing water."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "此事需交由职祠处理。",
+    "english_speaker": "???",
+    "english_text": "They are the Zhící's concern."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "休要再追。",
+    "english_speaker": "???",
+    "english_text": "No more chasing."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "职祠是什么？我实在难以理解你说的……",
+    "english_speaker": "Yenisei",
+    "english_text": "What is a Zhící? I don't understand ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "啊，不对，我、我能听懂了？",
+    "english_speaker": "Yenisei",
+    "english_text": "No, wait, I-I understand his words now. What?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可是——这——发生了什么？难道是我产生了幻觉？",
+    "english_speaker": "Yenisei",
+    "english_text": "But ... What is happening? Am I seeing illusions again?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，你——",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam, what about ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，不是幻觉，我也能听懂。",
+    "english_speaker": "Bessmert",
+    "english_text": "No, it's not an illusion. I can understand it, too."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "太奇怪了。是他能使用多种语言，还是说，他能快速学习我们说的话——",
+    "english_speaker": "Yenisei",
+    "english_text": "Unbelievable. Is he able to speak different languages, or can he learn from our conversation in no time?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "刚才我们以为的“攻击”，应该是他的神秘术。",
+    "english_speaker": "Bessmert",
+    "english_text": "The \"attack\" he just made could be his arcane skill."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我能感觉到神秘术波动的气息。如果是真的，那这个术相当奇特。它似乎能使人语言相通……",
+    "english_speaker": "Bessmert",
+    "english_text": "I can sense the fluctuation of his arcane energy. It's a wondrous power that allows people to communicate."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "揣测是无用的。回去吧。",
+    "english_speaker": "???",
+    "english_text": "Speculation is unhelpful to your situation. Go back ..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "回来处去。",
+    "english_speaker": "???",
+    "english_text": "... To where you came from."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "此时语义清晰。但无论是劝告的话语，还是拒绝的语气，都无法动摇两人执着的念头。",
+    "english_speaker": "Narrator",
+    "english_text": "This time, its meaning is clear. But neither these words of advice nor its tone of refusal can shake their resolve."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "之前她们不考虑回头，此时当然也不会答应。",
+    "english_speaker": "Narrator",
+    "english_text": "Turning back had never been a consideration before, so of course, they wouldn't consider it now."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不。",
+    "english_speaker": "Yenisei",
+    "english_text": "No."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你需要把他们变回来。回不回去，是我们之间的事，与你无关。",
+    "english_speaker": "Yenisei",
+    "english_text": "First, you must turn them back. Second, to go back or not is our decision to make, not yours."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "……此事非我之祸。",
+    "english_speaker": "???",
+    "english_text": "That was not my doing."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞试图理解这只巨鸟话中潜藏的真实含义。她的头脑飞速转动起来，无数个问题要争先跳出舌苔。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei attempts to understand the true meaning hidden in the giant bird's words. Her mind spins rapidly, and countless questions clamber up, desperate to leap from her tongue."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你停了下来，而且对我们使用了能通人言的神秘术，这代表你默认了沟通选择的存在。",
+    "english_speaker": "Yenisei",
+    "english_text": "You stopped here and cast that arcane skill for us to talk, which means you think communication is an available choice between us."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你刚才说的“饮下流水”，是指我们先前路过的河流吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "You just mentioned \"the flowing water.\" Do you mean the river we passed by?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "而且，这些斑纹马是我们的同伴。你说要将他们带到“职祠”处去，我需要知道那儿究竟是哪里。",
+    "english_speaker": "Yenisei",
+    "english_text": "And you said these striped horses are \"Zhící's concern.\" I need to know where that place is because they are my teammates."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "还有……你究竟是谁？",
+    "english_speaker": "Yenisei",
+    "english_text": "Besides ... who on earth are you?"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "……",
+    "english_speaker": "???",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "你所问，皆非我所能答。",
+    "english_speaker": "???",
+    "english_text": "What you ask, I have no answer."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……那你能回答什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "Then what do you know?"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "四书五经，堪舆风水，谶纬天地。",
+    "english_speaker": "???",
+    "english_text": "The Four Books and Five Classics, Geomancy and Feng Shui, Chen-Wei Divination."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那都是什么东西？！",
+    "english_speaker": "Yenisei",
+    "english_text": "What are you talking about?!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "嗯？自然是解惑之道。",
+    "english_speaker": "???",
+    "english_text": "Mm? The answers to many questions, naturally."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他语气里的疑惑听起来竟然是发自内心的真诚。",
+    "english_speaker": "Narrator",
+    "english_text": "The doubt in his tone seems to come straight from the bottom of his heart."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "孩子，听我说。我们也许不应该这样向他提问。",
+    "english_speaker": "Bessmert",
+    "english_text": "Yenisei, listen to me. We might be asking the wrong questions."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可我们总得知道些什么，或者拖延时间，总之——总之不能就这样让他离开。",
+    "english_speaker": "Yenisei",
+    "english_text": "But we need to collect more information or buy more time. Whatever we are going to do, we can't just let him go."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "他会带走尤利恩先生他们！",
+    "english_speaker": "Yenisei",
+    "english_text": "He will take Mr. Jurien and the team away from us!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "可他听起来，显然也不愿正面回答这些问题。",
+    "english_speaker": "Bessmert",
+    "english_text": "But clearly, he is reluctant to answer these questions."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "也许我们应该考虑，能不能用物资和他交换我们的同伴？",
+    "english_speaker": "Bessmert",
+    "english_text": "Perhaps he'd be willing to exchange them for our supplies?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "他要带走马群，更有可能是因为现在的尤利恩先生他们身上，有他想要的东西。",
+    "english_speaker": "Bessmert",
+    "english_text": "He is trying to take them away, perhaps because they are carrying the supplies he needs."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "食物？还是什么？那我们——",
+    "english_speaker": "Yenisei",
+    "english_text": "You mean food, or what? Let's ..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "既无所问，两位这便留步罢。",
+    "english_speaker": "???",
+    "english_text": "Stop, there's nothing else for you here."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "毕竟……",
+    "english_speaker": "???",
+    "english_text": "And I need nothing ..."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "我所欲，渺然远矣，不知亦不可追。",
+    "english_speaker": "???",
+    "english_text": "What I yearn for is beyond even my own grasp."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "等等，先生——",
+    "english_speaker": "Bessmert",
+    "english_text": "Wait, good sir ...!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "巨鸟回身振翅，比先前更快地飞远了。",
+    "english_speaker": "Narrator",
+    "english_text": "The bird turns around and flap its wings, flying away much faster than before."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "而这次甚至没有了乐声。奇蹄目在翅膀挥舞所带动的风声中，仍然紧跟其后。",
+    "english_speaker": "Narrator",
+    "english_text": "This time, there is no music. Yet the odd creatures follow closely in the wake of the wind raised by the motion of its wings."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你——",
+    "english_speaker": "Yenisei",
+    "english_text": "You ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "该死，他又飞走了！",
+    "english_speaker": "Yenisei",
+    "english_text": "Darn. He flew away!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……是我说错了什么吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "... Did I say anything wrong?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不是您的错，女士。他看起来就是个反复无常的家伙。",
+    "english_speaker": "Yenisei",
+    "english_text": "Don't blame yourself, Madam. He appeared to be the unpredictable type."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "您还能走吗？我们得快点追上去——",
+    "english_speaker": "Yenisei",
+    "english_text": "Do you still have the strength to walk? We need to hurry up and go after him ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔挽住小叶尼塞的手臂，快步朝着凛冽的风声追去。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert grabs Yenisei's arm and quickly chases after the piercing sound of the wind."
+  }
+]

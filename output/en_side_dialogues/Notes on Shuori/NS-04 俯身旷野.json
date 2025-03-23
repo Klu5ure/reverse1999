@@ -1,0 +1,602 @@
+[
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "草原的春色一路延展。",
+    "english_speaker": "Narrator",
+    "english_text": "The spring scenery of the steppes stretches out to the edge of the horizon."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "考察小队沿着河流所指方向前行，继续跋涉。",
+    "english_speaker": "Narrator",
+    "english_text": "The expedition team continues to trek in the direction indicated by the river."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "地形逐渐变化，众人已经不知不觉在裸露的山石中穿行许久。",
+    "english_speaker": "Narrator",
+    "english_text": "As they do, they scarcely notice as the terrain beneath them changes. Until the party at first finds themselves walking across bare rock."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "高低不平的绿岩衔接着灰紫色斑岩，崎岖嶙峋。风滚草和沙蓬从中间洞穿，翻卷过去，再直直坠下峭壁。",
+    "english_speaker": "Narrator",
+    "english_text": "The uneven green rocks merge with grayish and purple granite, rough and jagged. In spots, tumbleweed and sand rice plants pierce through the jagged stone, billowing and cascading, and then plummeting down the cliff."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "人们也感觉自己在向下。随着周围异样的增加，呼吸却越来越被收紧。",
+    "english_speaker": "Narrator",
+    "english_text": "The travelers also feel as though they are moving downward. As the surrounding peculiarities increase, so too does their breathing, which becomes increasingly restricted."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "呼……",
+    "english_speaker": "Yenisei",
+    "english_text": "*pants*"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "你们先前……已经证明了自己，带我们找到了活水……",
+    "english_speaker": "Krolik",
+    "english_text": "You proved yourself right by ... finding running water for us ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "所以，我不愿总是成为提出质疑的那个。但是——",
+    "english_speaker": "Krolik",
+    "english_text": "So, I'm not ... judging you ... this time, but ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我们是不是走错路了？",
+    "english_speaker": "Krolik",
+    "english_text": "Are we going the wrong way?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "是这个方向没错。",
+    "english_speaker": "Yenisei",
+    "english_text": "No. This is the right direction."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "可我觉得呼吸越来越困难了，就算这分明——分明是在下山。",
+    "english_speaker": "Krolik",
+    "english_text": "But it's getting harder and harder to breathe, even if we are going down the mountain."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，您呢？您感觉还好吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "What about you, Madam? Are you feeling alright?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "或许是我常常登山的缘故，还没有什么感觉。",
+    "english_speaker": "Bessmert",
+    "english_text": "I feel fine. Perhaps because I'm used to climbing mountains."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "但这地方的海拔绝对超过3000米了，你们或许是不适应这种高度。如果我们还有酒精……",
+    "english_speaker": "Bessmert",
+    "english_text": "But we are definitely 3000 meters above the sea level now. It's normal if you're feeling unwell at this height. If only we still had alcohol ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "好吧，只是想想。如果没有那几口酒，我甚至可能爬不上刚才那道窄坡。",
+    "english_speaker": "Bessmert",
+    "english_text": "Well, it's just a thought. I wouldn't have gathered enough courage to climb up that slope if I hadn't taken the last few sips."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔摇头，驱散了多余的想法，改为追寻另一种可能。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert shakes her head, dispelling unnecessary thoughts, and instead pursues another possibility."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "只是……孩子，你确定我们的方向是对的吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "But, child, are you sure we are on the right path?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我认为不会有错。占卜的指向越清晰，准确性就越高。",
+    "english_speaker": "Yenisei",
+    "english_text": "I don't think it's wrong. The clearer the sign, the higher the accuracy."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "这次的指向，恰好明晰得十分少见。",
+    "english_speaker": "Yenisei",
+    "english_text": "And the sign I just saw happened to be exceptionally clear."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "其他人有没有出现身体不适？我们是否需要停下来暂时休整？",
+    "english_speaker": "Bessmert",
+    "english_text": "What about the others? Are you feeling alright? Shall we stop and take a short break?"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "感觉不太对劲。比起休整，我们更需要改变方向。比如往回走。",
+    "english_speaker": "Krolik",
+    "english_text": "I have a bad feeling. Instead of a break, we need a new direction. Back home, for example."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "或者，能不能至少先休整一下？我已经头痛有一阵子了，还以为这是在高原上的通常情况。",
+    "english_speaker": "Jurien",
+    "english_text": "Before we do anything, can we have some rest? My head has been pounding for a while. I thought it was common in the mountains and you all felt the same."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "是的，头痛在高原是常见情况，先生。",
+    "english_speaker": "Bessmert",
+    "english_text": "Yes, headache is a common altitude sickness, Sir."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "等等，那些是刺蓟吗？刺蓟好像不应该出现在这种地方。",
+    "english_speaker": "Yenisei",
+    "english_text": "Wait, is that tumbleweed?! I don't think it belongs here."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞终于留意到了不远处滚动的巨大物体。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei finally notices a large bundle trundling on not far away."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我听到的……就是它们在翻滚的声音？你确定吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "I hear ... Are they rolling nearby? Are you sure?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "可现在不是它们播种的季节。",
+    "english_speaker": "Bessmert",
+    "english_text": "This is not the right season for them to roll and spread seeds."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我应该没有看错，但是我不明白。还有那些花——",
+    "english_speaker": "Yenisei",
+    "english_text": "I'm not seeing things, I guess, but I don't know why they are here. And those flowers ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "缀在队伍末尾的队员停下了脚步。于是他身旁的其他人也一起停下了。",
+    "english_speaker": "Narrator",
+    "english_text": "The team members at the end of their procession stop in their tracks. The others beside him also stop as a result."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "队伍彻底陷入了停滞。",
+    "english_speaker": "Narrator",
+    "english_text": "Until the entire team comes to a standstill."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "这不对劲。",
+    "english_speaker": "Team Member I",
+    "english_text": "Something's wrong."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅱ：",
+    "chinese_text": "——嘿，你们……你们究竟想把我们带去哪儿？",
+    "english_speaker": "Team Member II",
+    "english_text": "Hey you ... where are you taking us?"
+  },
+  {
+    "chinese_speaker": "考察队员Ⅱ：",
+    "chinese_text": "你们难道一点也看不见周围这些岩石吗？这些奇怪的颜色，我从没见过，也不在任何的资料记录里……",
+    "english_speaker": "Team Member II",
+    "english_text": "Haven't you noticed the rocks around us? Their color is abnormal. I've never seen anything like this, not even in books ..."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅱ：",
+    "chinese_text": "那些石头上的水蚀洞也绝对不是这个气候应该出现的！",
+    "english_speaker": "Team Member II",
+    "english_text": "And look at the holes in the rocks! They were made by water erosion! And that's not supposed to happen in this climate!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "先生，请冷静。也许我们只是走到了不存在于其他旅行者记录上的地方——",
+    "english_speaker": "Yenisei",
+    "english_text": "Calm down, Sir. Perhaps we have reached somewhere beyond other adventurers' records, but that's all ..."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅱ：",
+    "chinese_text": "那这个呢！这个要怎么解释？",
+    "english_speaker": "Team Member II",
+    "english_text": "What about this?! How are you going to explain it?!"
+  },
+  {
+    "chinese_speaker": "考察队员Ⅱ：",
+    "chinese_text": "用你们那该死的神秘术吗？",
+    "english_speaker": "Team Member II",
+    "english_text": "Another one of your stupid arcane skill tricks?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞低头看去，只看到貌似普通的黄色花束。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei lowers her head to look at what seems to be ordinary yellow flowers."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "但这鲜花却自盛开后便立刻枯萎，要说不是神迹，就实在难以描述这样的情景。",
+    "english_speaker": "Narrator",
+    "english_text": "But these flowers wither almost immediately after blooming. It would be difficult to describe such a scene as anything less than a miracle or a curse."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "什么？这……这是……",
+    "english_speaker": "Yenisei",
+    "english_text": "What? This is ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "怎么了？解释什么？",
+    "english_speaker": "Bessmert",
+    "english_text": "What is it? Explain what?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……我不认识这种花，它看起来像迷你的葵花。但是它——",
+    "english_speaker": "Yenisei",
+    "english_text": "I don't know what species it is. It looks like a mini sunflower, but ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我说了，我们应该往回走。这鬼地方不对劲。",
+    "english_speaker": "Krolik",
+    "english_text": "Told you we should head back. Something's wrong with this dump."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "我支持。遇上异常状况，在退路没有被封死的情况下，我们应该往回走。",
+    "english_speaker": "Team Member I",
+    "english_text": "Agree. We have a solution now. We should go back while we still can."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "女士，我得说这确实……有些超出想象了。",
+    "english_speaker": "Jurien",
+    "english_text": "Ladies, I have to say this is beyond my imagination."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "只是花，怎么都像被吓到了一样？我看不见，但是——",
+    "english_speaker": "Bessmert",
+    "english_text": "It's just a flower, yes? Why are you all so scared? I can't see, but ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔茫然地伸手握住花朵，花瓣也在她指尖迅速干枯。即使试图继续往前触摸完整的花簇，却都只能捉到一撮枯尽的碎末。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert reaches out to grasp the flowers again, but the petals wither beneath her fingertips. Now more puzzled, she tries touching a complete cluster, but only ends up with a handful of withered husks."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "枯萎的气息在清香消失后都接近腐烂，人所能做的，仅是捕捉这“香味”的后调。",
+    "english_speaker": "Narrator",
+    "english_text": "The scent of these withered fragments turns rotten as their sweet fragrance disappears, leaving her having captured only the base note of their \"perfume.\""
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "嗯？这是……",
+    "english_speaker": "Bessmert",
+    "english_text": "Emm? The smell ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "这一切都违反常理……根本不应该出现在这个纬度的湿雾、怪异的地貌，还有这转瞬即逝的植物——！",
+    "english_speaker": "Krolik",
+    "english_text": "Everything is wrong here. The fog is not supposed to form at this latitude, the terrain is strange, and the plants ... they wither in an instant!"
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "我不想这么说，但是，这里就像是遭到了诅咒。",
+    "english_speaker": "Team Member I",
+    "english_text": "I don't want to say this, but this place seems to be cursed."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "这些东西……说不通。这次我们必须得往回走了。",
+    "english_speaker": "Team Member I",
+    "english_text": "These phenomena make no sense. We have to go back now."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "青年男人的声音比以往的所有时候都更加不可撼动。",
+    "english_speaker": "Narrator",
+    "english_text": "The voice of the young man is more resolute than eve rbefore."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "面对这样不合常理的情况，“逃走”的确是最为理性的选择。",
+    "english_speaker": "Narrator",
+    "english_text": "Faced with such a bizarre situation, escape is unarguably the most rational choice."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "别斯米尔女士，他们说往回走，您觉得应该怎么办？现在的情况确实很奇怪——",
+    "english_speaker": "Yenisei",
+    "english_text": "You heard them, Madam. What do you say? Things are indeed weird."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，不是的。我们连草原风暴都熬过了，这不会是什么比自然灾害更加危在旦夕的情况。",
+    "english_speaker": "Bessmert",
+    "english_text": "No, we are not returning. We have made it through the thunderstorm. What could be more dangerous than that?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "也许我们就快到了，这是那些商人说过的，实现“所求必应”的考验……对，尤利恩先生，您当时还向我提问了，您也不记得了吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Perhaps we are getting close, like those merchants said, there will be a \"price\" we must pay for the Ask and Acquire. Mr. Jurien, you also asked me about it, don't you remember?"
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "正好相反，女士。我记得，记得清清楚楚……后来我也告诉了你，我认为那是神秘学家与自然进行某种交易的仪式。",
+    "english_speaker": "Jurien",
+    "english_text": "On the contrary, Madam, I remember it clearly. I have also told you my suspicion—it could be an exchange made between the arcanists and nature."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "什么？那当然不是——",
+    "english_speaker": "Bessmert",
+    "english_text": "What? Of course not."
+  },
+  {
+    "chinese_speaker": "尤利恩：",
+    "chinese_text": "看看现在周围这些异象，我的猜想难道不是确有其事吗？你追逐着神秘术，却带我们来到了这种地方……",
+    "english_speaker": "Jurien",
+    "english_text": "Look around you—all these bizarre phenomena! You know I wasn't making things up. You set out to pursue that arcane skill, yet we ended up here ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我不知道你们还有什么谋划，总之我不会继续参与了。",
+    "english_speaker": "Krolik",
+    "english_text": "I don't know what your next plan is, but count me out."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "受到异常与“献祭仪式”猜想刺激的年轻人毫不犹豫地推开别斯米尔，去与队伍后面的其他人站到一起。",
+    "english_speaker": "Narrator",
+    "english_text": "Agitated by this abnormal phenomenon and talk of a possible sacrifice, the young man pushes Bessmert aside and stands with the others at the back of the group."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "一幕先前对立的重演。",
+    "english_speaker": "Narrator",
+    "english_text": "A previous scene of division and opposition repeats itself."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "不，我发誓，我绝对没有那样的想法！",
+    "english_speaker": "Bessmert",
+    "english_text": "No, I swear on my life, that is not my intention!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "别斯米尔女士不会那样做的。",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam Bessmert would never do that."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "而且，没有我，也没有指南针，你们不会辨别中途的方向。",
+    "english_speaker": "Yenisei",
+    "english_text": "The point is, the compass doesn't work here. You will get lost on the way back without me."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "这当然也是你们算计的一环。",
+    "english_speaker": "Krolik",
+    "english_text": "There's no doubt this is part of your scheme."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你说什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "Excuse me?"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "尤利恩先生早就告诉我们了，你那遮遮掩掩的神秘术——却是指南针失效之后，唯一能带我们往回赶路的方法。",
+    "english_speaker": "Krolik",
+    "english_text": "Mr. Jurien already told us about your secret arcane skill. It's our last hope of getting home in this plight."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……",
+    "english_speaker": "Bessmert",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我们相信他的判断，既然是这样，那你就必须跟我们走了。",
+    "english_speaker": "Krolik",
+    "english_text": "We trust him. That being the case, you must come with us."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "不。我是同别斯米尔女士一起来的，她不回去，我也不会走。",
+    "english_speaker": "Yenisei",
+    "english_text": "No. I came here with Madam Bessmert. I'm not leaving without her."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞也清晰地表达了自己的选择。她从来不是一个容易被外力改变的人，除非——",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei also expresses her intentions clearly. Never having been one to be swayed by external forces, unless ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们……",
+    "english_speaker": "Bessmert",
+    "english_text": "Let's ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，没关系，我们自己继续前进——",
+    "english_speaker": "Yenisei",
+    "english_text": "It's fine, Madam. We can keep going on our own ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们往回走吧。",
+    "english_speaker": "Bessmert",
+    "english_text": "Let's go back."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "——？！",
+    "english_speaker": "Yenisei",
+    "english_text": "...?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "——除非她所支持的人先一步低头。",
+    "english_speaker": "Narrator",
+    "english_text": "... Unless the person she is supporting lowers her head first."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "没关系，虽然我看不见，但我可以想象眼前的景象有多么令人惊讶。",
+    "english_speaker": "Bessmert",
+    "english_text": "It's alright. Though I can't see, I can imagine how shocking it must be to make you so uneasy."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "等我们回到牧区——",
+    "english_speaker": "Bessmert",
+    "english_text": "When we get back to the pastureland ..."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "不，女士，很遗憾，我们不能带上你。",
+    "english_speaker": "Krolik",
+    "english_text": "I'm sorry, Madam. We are not taking you."
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "我认为物资已经不足以支撑我们所有人顺利返回，当然有人需要被放弃。",
+    "english_speaker": "Krolik",
+    "english_text": "I don't think we have enough supplies for everyone to make it back, so certainly someone must be abandoned."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞往前更近一步，直到将失魂落魄的别斯米尔完全挡住。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei takes a step closer until she is completely blocking the depressed Bessmert's path."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "那么，请允许我拒绝。如果不带上别斯米尔女士，我是不会为你们指路的。",
+    "english_speaker": "Yenisei",
+    "english_text": "Then, allow me to say no. I will not show you the way without Madam Bessmert in the team."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……不，孩子。你要和他们走。",
+    "english_speaker": "Bessmert",
+    "english_text": "No, Yeni. You're going with them."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "可他们要抛下您！",
+    "english_speaker": "Yenisei",
+    "english_text": "But they are leaving you behind!"
+  },
+  {
+    "chinese_speaker": "克罗利克：",
+    "chinese_text": "看来您的助手有自己的决断。真可惜，原本我还希望我们不会走到这一步——",
+    "english_speaker": "Krolik",
+    "english_text": "Looks like your assistant has made her own decision. Sorry, but I never thought it would end up like this ..."
+  },
+  {
+    "chinese_speaker": "考察队员Ⅰ：",
+    "chinese_text": "不必多说。抱歉了，女士们。",
+    "english_speaker": "Team Member I",
+    "english_text": "Enough with the talking. My apologies, ladies."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "你们——你们要做什么？！",
+    "english_speaker": "Yenisei",
+    "english_text": "What ... What are you doing?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "人们对峙着，决定将争执以武力压制作结。",
+    "english_speaker": "Narrator",
+    "english_text": "They are now facing each other, seeming to have decided to end their dispute through force."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他们显然都清楚放弃一个能拯救更多。",
+    "english_speaker": "Narrator",
+    "english_text": "They are acutely aware that sacrificing one might save the many."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "简单的算术题。",
+    "english_speaker": "Narrator",
+    "english_text": "It is a simple matter of arithmetic."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "直立是人所专属的行为，它是人们摆脱大地，执着朝向天空而诞生的奇迹。",
+    "english_speaker": "Narrator",
+    "english_text": "Standing upright is a phenomenon exclusive to humans. It is a miracle born of a desire to break free from the earth and move upward towards the sky."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "变故发生于所有人的意料之外。",
+    "english_speaker": "Narrator",
+    "english_text": "The outcome unfolds quite apart from everyone's expectations."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……什么？",
+    "english_speaker": "Yenisei",
+    "english_text": "What?"
+  },
+  {
+    "chinese_speaker": "斑纹马？：",
+    "chinese_text": "咴咴——咴——",
+    "english_speaker": "Striped Horse?",
+    "english_text": "*neighs*"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我不理解，你们、你们这是——发生了什么？！",
+    "english_speaker": "Yenisei",
+    "english_text": "I-I don't understand. What is ... What is going on?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "而即使人们已经意识到内斗的不合时宜，却也只能目睹和解的可能在瞬间化为乌有。",
+    "english_speaker": "Narrator",
+    "english_text": "Even though they acknowledge the untimely nature of their dispute, they are left to witness all hope of reconciliation disintegrate before them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞得不到回答，是因为眼前的人们已经失去用言语回答的能力。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei receives no answer, as the people standing in front of her now have lost the ability to reply."
+  }
+]

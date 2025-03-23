@@ -1,0 +1,740 @@
+[
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "异乡人话音落下，时辰亦至。饮下酒的众人，在混乱的嘶鸣与尖叫中脱胎换骨，尽数变成了鹿蜀。",
+    "english_speaker": "Narrator",
+    "english_text": "When the voice of this outsider fades, the fated hour also arrives. Those among the crowd who drank the liquor undergo a transformation amidst chaotic screams, as each and every one of them becomes a Lùshŭ."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘眼看这无可挽回的一幕，毫无觉察间，泪水已经簌簌落下。",
+    "english_speaker": "Narrator",
+    "english_text": "As Jiŭ Niángzĭ watches this irreversible scene, she is unaware that tears are already flowing down her face."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "……自己竟然从来没有太大的长进，一切都与莽撞无教的数年前别无二致。",
+    "english_speaker": "Narrator",
+    "english_text": "She has made n progress at all. Everything is no different now that it was a few years ago, when she was even more reckless and naive."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "道士告诉我，我的母亲是从古至今第九只鹿蜀。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "The Daoist told me that my mother was the ninth Lùshŭ from the very beginning of time."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "似乎很伟大，却也很遥远。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Great, though, distant."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "毕竟，除了她离开时从人变回妖模样的那瞬间之外——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "After all, except for the moment she turned from a human into a Yāo when she was leaving ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我不太记得她。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I don't quite remember her."
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "你母亲，是庇护一方的祥瑞。",
+    "english_speaker": "Daoist",
+    "english_text": "Your mother was the Xiángruì, the people's guardian."
+  },
+  {
+    "chinese_speaker": "小曲娘：",
+    "chinese_text": "什么是祥瑞？",
+    "english_speaker": "Jiu Niangzi (Child)",
+    "english_text": "What is a Xiángruì?"
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "生而有灵，选择造福一方，保护一方之民的大妖。就像你的母亲。",
+    "english_speaker": "Daoist",
+    "english_text": "The spirit of auspiciousness, the great Yāo who protects and benefits people, like your mother once did."
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "但祥瑞不应有私情。因这私情，她为你而陨落。你须得记住。",
+    "english_speaker": "Daoist",
+    "english_text": "But a Xiángruì is not supposed to have any personal feelings. She fell because of you, because of the personal feeling. Remember that."
+  },
+  {
+    "chinese_speaker": "小曲娘：",
+    "chinese_text": "“私情”又是什么？",
+    "english_speaker": "Jiu Niangzi (Child)",
+    "english_text": "What is a \"personal feeling\"?"
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "她不应有的东西，你也不需要了解。",
+    "english_speaker": "Daoist",
+    "english_text": "It's something she shouldn't have had, for you, either."
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "但……她没能走下去的路，你却应当继续走。",
+    "english_speaker": "Daoist",
+    "english_text": "But you shall keep to the path she left."
+  },
+  {
+    "chinese_speaker": "小曲娘：",
+    "chinese_text": "什么路？",
+    "english_speaker": "Jiu Niangzi (Child)",
+    "english_text": "What path?"
+  },
+  {
+    "chinese_speaker": "小曲娘：",
+    "chinese_text": "是这样的泥土路，还是像那些房子外面的石板路？",
+    "english_speaker": "Jiu Niangzi (Child)",
+    "english_text": "Is it like the dirt path we're walking on, or, or the stone path around the house?"
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "都不是。",
+    "english_speaker": "Daoist",
+    "english_text": "Neither."
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "留在城里，成为他们的庇护者，成为祥瑞。",
+    "english_speaker": "Daoist",
+    "english_text": "Stay in this city. Be their guardian. Be a Xiángruì."
+  },
+  {
+    "chinese_speaker": "道士：",
+    "chinese_text": "终有一日，你会知晓。",
+    "english_speaker": "Daoist",
+    "english_text": "You shall understand when the day comes."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……道士带走我，却又离开我。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "The Daoist brought me here, and left me here."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "曾是祥瑞的母亲也同样如此，于是我以为，分离是步入人间必须付出的代价。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "That's exactly what my mother, the former Xiángruì, did to me as well. So I took departure as the price of living in the human world."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "将我关入沛城前，道士也曾经允诺我——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Before I cam into Pèi City, the Daoist guaranteed me that ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "“成为祥瑞，便能理解她，触及她。”",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "\"Be a Xiángruì, and then you will understand her.\""
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "这话很诱人，于是我就留了下来。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "How alluring was that! That's why I chose to stay here."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "起初，我日夜不停地咀嚼这句话，却实在不知道应该怎么做。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "At first, I couldn't stop thinking about what the Daoist said, but I had no idea how."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "因为道士也从未指点我应该怎么做。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Because I was never taught how by anyone."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "可我也没有其他的选择，于是……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I didn't have any other choice, so ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "于是我开始从那些散落的话语，从不同的画册里，从不可触及的传奇中，试着拼凑起一个母亲，一个祥瑞。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "So I started to recall my mother by piecing together the scattered words and descriptions from books and legends, to recall what a Xiángruì is."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "然后学着成为它，学着取代它。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I tried to be her, tried to replace her."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "——却也是为了再次见到她。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Jus to meet her once again."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我想问问她，你是怎样想的呢？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "If I got to meet her, I would ask her, \"What was on your mind?\""
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "若是知道我这祥瑞，做得这样好，会不会有哪怕一点的后悔呢？后悔离开我，后悔将我一人留下。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "If only you could see me doing such a great job as a Xiángruì, would you feel even the slightest twinge of guilt? For deserting me, for leaving me alone."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……好吧。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Well."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "现在看来，我其实从未真正理解过她，也没有真正理解过“祥瑞”。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Looks like I've neither truly understood her, nor a Xiángruì."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "院中廊下站立着两人。在沉默的雨幕中，一个抉择已经被定下。",
+    "english_speaker": "Narrator",
+    "english_text": "Between the two people standing in the courtyard walkway in the silent rain, a decision is made."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "曲娘，你难道真的要……",
+    "english_speaker": "Facao",
+    "english_text": "Jiŭ Niángzĭ, are you really going to ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "作为一个从来意志坚定的人，他难得犹疑了，不知应该摘撷何种词句才能向眼前人强调此事的危险，又或是一切言语在她的选择前都显得苍白。",
+    "english_speaker": "Narrator",
+    "english_text": "As someone who has always been steadfast in his will, he rarely hesitates. He doesn't know which words to use to emphasize the danger of this matter to the person in front of him, or whether all words are powerless before her final choice."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "所以他最终还是沉默了。",
+    "english_speaker": "Narrator",
+    "english_text": "And so, ultimately, he remains silent."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我知道，从来都没有人真的跳过去了。里正为了告诫我，还讲过许多故事。一些不适合用来告诫孩童的故事。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "It's fine. I know there's no one who could jump over it. In order to stop me, Lǐzhèng even told me some stories, and they were ... not very suitable for children."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "可我一定得去。因为只有这个方法了。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "But I have to, because there is no other way ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "只有问卜——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Only The Divination."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "而且，朔日本就应该有问卜。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Well, you can't talk about Shuòrì without The Divination, right?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "谢谢您愿意放我走，甚至还替我取来了衣服。虽然执礼不在，我都不知道怎么穿它才对……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Thank you for letting me go. You even brought me the clothes. But the Zhílǐ is not here. I'm not sure if I'm wearing it right ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "但没关系。新衣服始终是新衣服，不会因为我穿得不好，就变了味道。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "But it's ok. Even if it's wrong, it still looks new and colorful."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她毫无目的地拍了拍裙边，又翻折了一下袖口，最后将披帛重新拢起来。直至再也找不到可以做的事，道别的话也正好走到舌尖。",
+    "english_speaker": "Narrator",
+    "english_text": "She pats the hem of her skirt aimlessly, then folds the cuffs, and finally folds back the silk drapes once more. When she cannot find anything else to fix, her farewell rises to the tip of her tongue."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……谢谢，真的谢谢您。那我这就——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Thank you. Thank you so very much. I-er, I ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "嗯，我走了。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I'm leaving, then."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "说完，曲娘后退两步，将双手以掌心贴手背的方式交叠，置于额下。她向此刻站在廊下的法曹，和已经变为鹿蜀的里正鞠躬告别。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ steps back and places her hands beneath her forehead, palm to back. She bows farewell to Făcáo in the hallway and the Lùshŭ turned from Lǐzhèng."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "是感谢，也是歉意。她从来没有行过这样的礼，这是第一次也是最后一次。",
+    "english_speaker": "Narrator",
+    "english_text": "A gesture of gratitude and an apology. She has never performed such a ritual before—this will be the first and last time."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "……也许，我们会找到其他法子。你不必——",
+    "english_speaker": "Facao",
+    "english_text": "Perhaps we will find another way. You don't have to ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他没有说完。因为这显然并非实话，甚至是幸存者对元凶不必要的宽慰。",
+    "english_speaker": "Narrator",
+    "english_text": "He doesn't finish. Because anything he wants to say would be untrue, an example of unwarranted comfort from a survivor toward their aggressor."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "所以曲娘也没有说话。她摇了摇头，仿佛没有听到这个提议一般后退，退进雨中，然后转身向着职祠之外迈去。",
+    "english_speaker": "Narrator",
+    "english_text": "And so, Jiŭ Niángzĭ says nothing. She shakes her head as if she hadn't even heard his proposal, retreating into the rain, and then turns around and walks towards the outside of the Zhící."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她的脚步从未如此松快，步子越走越急，到最后几乎变为了奔跑。",
+    "english_speaker": "Narrator",
+    "english_text": "Her footsteps have never been so relaxed before, with each step becoming faster and faster, almost evolving into a sprint toward the end."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "——她向着城外奔去，却并不是为了逃离这里。",
+    "english_speaker": "Narrator",
+    "english_text": "She runs toward the outside of the city, but not to escape."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "这雨从昨夜起就再没停下过。",
+    "english_speaker": "Narrator",
+    "english_text": "The rain has not stopped since the previous night."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "城外，别斯米尔同小叶尼塞站在断桥这头，眺望雾气缭绕的对岸。",
+    "english_speaker": "Narrator",
+    "english_text": "Outside the city, Bessmert and Yenisei stand at the end of the broken bridge, gazing at the misty bank opposite to them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天停在她们头顶的树上。他一直在，来得比所有人都要早。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān is perched on the tree above their heads. He has been here all along, arriving earlier than the others."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "葛天先生，我们……",
+    "english_speaker": "Bessmert",
+    "english_text": "Mr. Gĕtiān, we ..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我们只能在这里，对着断桥祈祷了，对吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "We are left with only one option, which is to stand here and pray for her, correct?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "祈祷那个“所求必应”，或者说问卜，能够灵光一闪地实现。",
+    "english_speaker": "Bessmert",
+    "english_text": "Pray that the Ask and Acquire, or The Divination, will answer us and give us what we want in a flash."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "——说实在的，这有可能吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "But is it really possible?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "并无可能，还是放弃罢。",
+    "english_speaker": "Getian",
+    "english_text": "I think not. We should go."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔听着周围越来越多的脚步声，来自那些朝断桥走来，仍记挂着朔日走吉的人们。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert listens to the advancing footsteps around her, emanating from all those who are walking toward the broken bridge, still remembering the auspicious significance of this New Year's Day."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "一开始她还尝试去分辨法曹他们可能身处其中的声音，直到雨越来越大，才终于放弃。",
+    "english_speaker": "Narrator",
+    "english_text": "At first, she tries to distinguish the voices that might be Făcáo and the others, but as the rain grows heavier and louder, she finally gives up."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我听见他们说，今天是度朔节的第一天，也是岁朝春。",
+    "english_speaker": "Bessmert",
+    "english_text": "I heard today is a special day for the locals, known as \"Suìzhāochūn.\""
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "葛天先生，什么是“岁朝春”？",
+    "english_speaker": "Bessmert",
+    "english_text": "Mr. Gĕtiān, what is Suìzhāochūn?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔把淋湿的额发别向一边，油伞也朝小叶尼塞倾斜而去。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert holds her wet fringe to one side, and tilts the oiled umbrella towards Yenisei."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "鹿蜀沉默着靠近，使潮湿紧贴着潮湿。",
+    "english_speaker": "Narrator",
+    "english_text": "The Lùshŭ silently approaches and leans against her tightly."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "“百载难逢岁朝春。”",
+    "english_speaker": "Getian",
+    "english_text": "It comes from an ancient proverb, \"Băizăi Nánféng Suìzhāochūn.\""
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "既是朔日，也是立春。",
+    "english_speaker": "Getian",
+    "english_text": "It's the first day of a new year and the first day of spring."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "立春，艮位坎卦下，应乘春令。",
+    "english_speaker": "Getian",
+    "english_text": "Lìchūn, the beginning of spring, corresponds to the lower trigram of Kăn in the direction of Gèn. It is the season of life."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……气清而温阳。",
+    "english_speaker": "Getian",
+    "english_text": "A time when the weather is clear and Yáng fills the air."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "听起来很厉害。",
+    "english_speaker": "Bessmert",
+    "english_text": "They are pleasing to the ears."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "但这些句子合在一起，我什么也没听明白。",
+    "english_speaker": "Bessmert",
+    "english_text": "But I don't know what to make of it when all these are put together."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……立春是一个节气，表明春季将临。",
+    "english_speaker": "Getian",
+    "english_text": "Lìchūn is one of the 24 solar terms. It signifies the beginning of spring."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "岁朝春则是立春与度朔节第一日重叠，百年不遇，实为难得。",
+    "english_speaker": "Getian",
+    "english_text": "Suìzhāochūn is how people would call it when the first day of the Dùshuò Festival and the first day of spring happen to be the same day. It is a once-in-a-century good sign."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "听起来是很难得的日子，还是新年的第一天，这很好。",
+    "english_speaker": "Bessmert",
+    "english_text": "Indeed. It's also the first day of a new year. I like the coincidence."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "但你的同伴，或许都无法变回来了。即使如此，你也认为很好？",
+    "english_speaker": "Getian",
+    "english_text": "Do you still find it equally pleasing if your teammates are not coming back?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "那我就这样带他们回去，再做打算。",
+    "english_speaker": "Bessmert",
+    "english_text": "Then, I will take them home as they are now and see what I can do."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "没必要用沉默来回应我。这只是目前看来的最佳选择。",
+    "english_speaker": "Bessmert",
+    "english_text": "I know the words are hidden behind your silence, but this is the best option for now."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "毕竟，您也说了，光靠祈祷是不能让他们都变回去的。",
+    "english_speaker": "Bessmert",
+    "english_text": "After all, as you just said, prayers are not enough to bring them back."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "曾经是可以的。",
+    "english_speaker": "Getian",
+    "english_text": "They could, for a time."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "但您同时也说了，那是以前。从前总是有好时光的。",
+    "english_speaker": "Bessmert",
+    "english_text": "But that's only what happened in the past, as you just said. Good days only exist in our memories."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "是在那场洪水之前……我原以为那洪水造成的破坏，并不会遗留至今。",
+    "english_speaker": "Getian",
+    "english_text": "That was before the flood. The aftermath of that disaster lasted longer than I thought."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "显然，我错了。",
+    "english_speaker": "Getian",
+    "english_text": "I was so wrong to think it was over."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔仰起头。一滴雨正好坠在她用以遮盖眼睛的布料上。随后是更多更多，逐渐湿濡了整块纺面。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert looks up. A drop of rain falls right onto the fabric she uses to cover her eyes. Then more falls, and more, gradually wetting the entire weaved surface."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她听着，且不打算发表评价。",
+    "english_speaker": "Narrator",
+    "english_text": "She listens without intending any comment."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……起先是……不可回流到上游的汹涌洪水。少许水波的变化，声音细微，因此无人注意。",
+    "english_speaker": "Getian",
+    "english_text": "It all began with the unstoppable flood. At first, it was just a few unusual tides that no one noticed."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "然后是洪水肆虐后，无可修复的断桥。",
+    "english_speaker": "Getian",
+    "english_text": "Then the flood came, followed by the destruction of the bridge."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "紧接着，才是失去香火的山上渊庙，和无人应答的问卜习俗。",
+    "english_speaker": "Getian",
+    "english_text": "The temple on the mountain thus lost its connection to its pilgrims. The prayers were no longer answered."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "关于这些，我无从知晓原因。那些下了山，对这一切施以援手，了解真相的同族，也都没有再回来。",
+    "english_speaker": "Getian",
+    "english_text": "I do not understand what caused all these things. My people left the mountain to help with the situation, but hey never came back."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "而现在……",
+    "english_speaker": "Getian",
+    "english_text": "And now ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "连下方这条河，也将如隐入雾气之中的渊庙一般失落了。",
+    "english_speaker": "Getian",
+    "english_text": "Even this river beneath us is gone, just like the Yuān Temple, forever lost in the fog."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "几人身后，逐渐有普通的城中居民走上前来，像往年一样在手中的木签上，刻下问卜之辞。",
+    "english_speaker": "Narrator",
+    "english_text": "Behind them, the city residents gradually approach and carve words of divination onto the wooden sticks in their hands, just as they had in previous years."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他们对这问卜无人应答的事实早有准备，却对其中原因一无所知。",
+    "english_speaker": "Narrator",
+    "english_text": "They are prepared for the fact that there may not be an answer to their questions, but they know nothing of the reason why."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔望着越来越多的人。他们聚拢去，在雨中刻写，久久做着无用功。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert feels the weight of the growing crowd. They gather and write in the rain, working tirelessly for a long time."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "明知不可为而为之，这是人类与神秘学家亘古不变的常态吗？",
+    "english_speaker": "Narrator",
+    "english_text": "Is it the eternal fate of humans and arcanists to act upon desires they know cannot be realized?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "白费力气。祂听不见，也看不到。",
+    "english_speaker": "Getian",
+    "english_text": "It's useless. The god won't hear us, nor will It see us."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……我不知道这样问，是不是一种冒犯。",
+    "english_speaker": "Bessmert",
+    "english_text": "Please know that I don't mean to offend you with this question."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "请讲。",
+    "english_speaker": "Getian",
+    "english_text": "Please."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "难道您不能带着那些人到对岸去吗？",
+    "english_speaker": "Bessmert",
+    "english_text": "Can't you take those people to the other end of the bridge?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "如果现在问卜能得偿所愿的条件，是跃过断桥——",
+    "english_speaker": "Bessmert",
+    "english_text": "If the condition of The Divination is to go across the broken bridge ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "的确，你才是天真的外乡人。",
+    "english_speaker": "Getian",
+    "english_text": "Though we are both outsiders in this place, you're more naive than I am."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "嗯……？",
+    "english_speaker": "Bessmert",
+    "english_text": "Emm ...?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "自然只有自己走过去，或者跃过去，才可作数，即使那要以付出仅此一次的生命为代价。",
+    "english_speaker": "Getian",
+    "english_text": "One can only meet the condition by going over the bridge oneself, even if the price is their life."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "或许你会揣测，这是否太过残酷。可若真如你所说，祂所求必应，然却随手可得，毋需付出……",
+    "english_speaker": "Getian",
+    "english_text": "You might think it's cruel. But what good would it do if people were easily given what they asked for without paying a price?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "那此地一切生灵的困苦，不都如同笑话一般吗？",
+    "english_speaker": "Getian",
+    "english_text": "Wouldn't it make others' suffering a joke?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……",
+    "english_speaker": "Bessmert",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天低头去看别斯米尔，和一旁没有动静的小叶尼塞，认为对方并没有相信自己的话。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān lowers his head to look at Bessmert and the quiet Yenisei beside him, thinking that they perhaps do not believe his words."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他很少需要在几日之内与其他人说这么多。但既然已经起了头，不如将对子作完。",
+    "english_speaker": "Narrator",
+    "english_text": "He rarely needs to say so much to others in such a short pace of time. But since he has already started, he might as well finish."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你不信我的话。",
+    "english_speaker": "Getian",
+    "english_text": "You don't believe me."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我是……在尝试理解。",
+    "english_speaker": "Bessmert",
+    "english_text": "I'm ... trying to understand."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "并无不同。我能够带你飞往对岸，但你应当做好这毫无用处的准备。",
+    "english_speaker": "Getian",
+    "english_text": "It's all the same. I can take you to the other side of the bridge, but you must not be disappointed if it ends up fruitless."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "……什么？",
+    "english_speaker": "Bessmert",
+    "english_text": "Pardon?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我可以带你飞过去。",
+    "english_speaker": "Getian",
+    "english_text": "I can take you there."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "为什么？为什么您突然改变了主意？",
+    "english_speaker": "Bessmert",
+    "english_text": "Why? Why the change of mind?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "嗯？我从未提起过吗？",
+    "english_speaker": "Getian",
+    "english_text": "Mm? Haven't I mentioned it before?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "提起什么？",
+    "english_speaker": "Bessmert",
+    "english_text": "Mentioned what?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "你的骨相。你的骨相是我所见之人当中，唯一不可堪识的。",
+    "english_speaker": "Getian",
+    "english_text": "Your bones. Among all the others, you are the only one whom I do not recognize the markings on your bones."
+  }
+]

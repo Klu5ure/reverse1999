@@ -1,0 +1,794 @@
+[
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "什么……刚才跑出去的是什么？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "What, what just ran out of there?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "那东西还带走了和我一起来的那位娘子，这——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "That \"thing\" took away the lady. What's going on?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘话音落下，众人都齐齐望向院子中央的葛天。多数目光都饱含质疑、猜忌和恐惧。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ's words dissipate in the air without stirring a response. The eyes of all stare at Gĕtiān in the center of the courtyard. Most of these are filled with doubt, suspicion, and fear."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "伴随城外异客的身影远去，那骨杖所带来的神秘术似乎也逐渐消散。",
+    "english_speaker": "Narrator",
+    "english_text": "As the strange horse and its unwilling rider disappear in the distance, the communication arcane skill cast by the bone wand also seems to dissipate."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "现在我们又失去了一名证人。难道这也在你的计划之中？",
+    "english_speaker": "Lizheng",
+    "english_text": "Now we lost another witness. Did you plan this?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "我的术杖，昨日便已遗落在她的酒坊。你一问便知。",
+    "english_speaker": "Getian",
+    "english_text": "I left my wand in her tavern yesterday. Ask her. You will know."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘？是这样吗？",
+    "english_speaker": "Lizheng",
+    "english_text": "Jiŭ Niángzĭ, is that so?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "在院子里是发现了一根骨头，但那东西现在正在被掳走的胡人娘子身上。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "We did find a bone in the yard, but it's with that foreign lady now."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……",
+    "english_speaker": "Lizheng",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "先把他捆起来。你还有什么要说的？",
+    "english_speaker": "Lizheng",
+    "english_text": "Tie him up first. Do you have more to say?"
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "该说的，我都已说了。若再不制止，便是真的祥瑞来了也无力回天。",
+    "english_speaker": "Getian",
+    "english_text": "Everything I need to tell you, I have spoken it all. Catch her now, or even a real Xiángruì cannot save you from the disaster."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "你究竟为何执着于指认曲娘为凶手？",
+    "english_speaker": "Lizheng",
+    "english_text": "Why are you so obssesed with calling Jiŭ Niángzĭ the \"culprit\"?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "什么？你——我——我是凶手？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "What? You ...? I ...? I am the culprit?!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我是什么凶手？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "What kind of culprit am I?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘，无妨。我们都知道，你与失踪案无关……",
+    "english_speaker": "Lizheng",
+    "english_text": "It's fine, Jiŭ Niángzĭ. We all know you have nothing to do with the missing persons cases ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "而且他还说什么——什么真祥瑞也没办法……我看他才是假的！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "And he said ... said that ... \"Even a real Xiángruì cannot save you.\" He is more of a fake one to me!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘气愤地冲向葛天，三步并作两步来到他跟前，临了却又丢失了言语的能力。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ rushes angrily toward Gĕtiān, striding forward until she stands just before him, but in her rush of emotion, she loses her ability to speak."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You ..."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘，不必激动。现下只能暂且将他关押在职祠，我自去告知法曹。",
+    "english_speaker": "Lizheng",
+    "english_text": "Stay calm. We will hold him in detention in Zhící for now. I'll report this to the Făcáo."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "现在要紧的，是派人去追回马和那位胡人娘子……",
+    "english_speaker": "Lizheng",
+    "english_text": "The first thing to do is catch up with the horse and the foreign lady ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "需得找到他的术杖，才可溯源。",
+    "english_speaker": "Lizheng",
+    "english_text": "And find his wand to figure out his arcane skill."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "人群依着里正的指挥快速行动起来，逐渐离开了中庭。",
+    "english_speaker": "Narrator",
+    "english_text": "The crowd quickly moves according to Lǐzhèng's command and exits the courtyard in an orderly fashion."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "院中只剩下一些零星的护卫，与位于中央，静默的三人。",
+    "english_speaker": "Narrator",
+    "english_text": "Only a few scattered guards remain in the courtyard, along with the three figures located in the center."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "葛天原本也应被带走，却由于里正并未直接发话，没有人敢上前。即使已经束手就擒，他巨大的翅膀与趾爪看上去仍然有着相当的威慑力。",
+    "english_speaker": "Narrator",
+    "english_text": "At this point, it would seem obvious that Gĕtiān must be taken away, but as Lǐzhèng has not yet ordered anything to that effect, no one dares step forward. For though subdued, his huge wings and claws still serve as effective deterrents."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……把他也带下去吧。其它人都散了。",
+    "english_speaker": "Lizheng",
+    "english_text": "Take him away. Everyone else dismissed."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘，你随我来。我有事与你商议。",
+    "english_speaker": "Lizheng",
+    "english_text": "Jiŭ Niángzĭ, follow me. There is something we need to talk about."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "羽人，你到底想做什么？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "What do you want, feather man?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘？",
+    "english_speaker": "Lizheng",
+    "english_text": "Jiŭ Niángzĭ?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你明明看上去就像祥瑞，为什么要说这样的话？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You look like a decent Xiángruì. Why did you say something like that?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "而且，就算你不是祥瑞，你难道——难道不怕……不怕真的祥瑞降责于你吗？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Even-even if you're not, aren't you afraid that ... the real Xiángruì will blame you for doing the wrong thing?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "对于里正的话语，少女看上去恍若未闻。她问句中的疑惑透过近乎呢喃的语气传递出来。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl appears as though she has not heard Lǐzhèng's words. The doubt in her questions is conveyed in an almost whispered tone."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "而葛天连头也没抬。一动不动，仿佛一尊兀然的塑像。",
+    "english_speaker": "Narrator",
+    "english_text": "Gĕtiān doesn't even lift his head. He remains motionless, like a statue."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘。须知他早前未与我们有所接触，的确并非此地祥瑞，城中也已失庇护久矣。",
+    "english_speaker": "Lizheng",
+    "english_text": "Jiŭ Niángzĭ. It is true that he is not the Xiángruì of our city. The Xiángruì, who once protected our city, has been long lost."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘蓦地转过头来，似乎并不理解里正这一论断的逻辑。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ turns her head, failing to connect the logic behind Lǐzhèng's statement."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "可是——可是大家都以为，山上的羽人就是祥瑞！单单是他的样貌，就能让旁的人觉得他是祥瑞。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "BUT! But everyone thinks the feather man on the mountain is the Xiángruì! Just, just look at him! How could people not take him as a Xiángruì by his look?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "执礼离开前跟我说过，羽人长得像“句芒”，就像画册里走出来的一样，好像这能解释一切。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "The former Zhílǐ told em that the feather man looks like a Gōumáng, just like what was depicted in a picture book. *Gōumáng: the God of Spring in ancient Chinese mythology, in charge of agriculture, with wings and claws."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "句芒可是画在书上的祥瑞啊！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "A Gōumáng is a confirmed Xiángruì in a book!"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "曲娘……",
+    "english_speaker": "Lizheng",
+    "english_text": "Jiŭ Niángzĭ."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "但他当然不是祥瑞了，不像句芒，或者灭蒙鸟……他连，呃，“绝迹易，无行地难”的道理都不明白。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "But this man> Of course, he is not a Xiángruì! He isn't like the Gōumáng nor the Mièméng ... He doesn't even understand the saying of, um, \"One can remove the footsteps, but not the path one walketh on.\""
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……",
+    "english_speaker": "Lizheng",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "“绝迹易，无行地难。”唉，道理确是如此。只要做错了事，必然会留下痕迹。",
+    "english_speaker": "Lizheng",
+    "english_text": "\"One can remove the footsteps, but not the path one walketh on.\" That's fair. One cannot commit wrongdoing without leaving a trace."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "即使他试图嫁祸于你，我们在尚未找到术杖和证人之前，也不能轻易假定他为凶手。",
+    "english_speaker": "Lizheng",
+    "english_text": "However, we can't convict him without definitive evidence, such as witnesses and his wand."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我们还没有找到足够确证的“痕迹”，曲娘。",
+    "english_speaker": "Lizheng",
+    "english_text": "The trace he left is yet to be found."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘蓦然，在葛天的身前蹲下来。她执着于去看着对方的眼睛说话，似乎这样就能从中判断话语与感情的真伪。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ squats down in front of Gĕtiān in a sudden inexplicable movement. Then stares unwaveringly into his eyes as she speaks, as if she is to judge the authenticity of his words and expressions by doing so."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "羽人……什么叫作“真的祥瑞”？你知道它在哪里？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Feather man. Do you know what is a \"real Xiángruì?\" Do you know where it is?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你又为什么要带走别人的同伴，却来这里指认我？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Why did you take people's friends away and accuse me of being the culprit?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "但葛天似乎已经打定主意沉默。他低着头，好像突然对观察伤口上的血珠有了兴趣。——一种消极的抵抗。",
+    "english_speaker": "Narrator",
+    "english_text": "But Gĕtiān seems to have made up his mind to remain silent. He lowers his head, taking a feigned interest in observing the blood dripping from his wounds. An act of passive resistance."
+  },
+  {
+    "chinese_speaker": "葛天：",
+    "chinese_text": "……",
+    "english_speaker": "Getian",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "",
+    "chinese_text": "一滴血渗入羽毛的时间已足够女孩整理措辞，继续提问。",
+    "english_speaker": "Narrator",
+    "english_text": "A drop of blood seeps into his feathers, the moment passes long enough for the girl to organize her words and continue her barrage of questions."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你……这样的形貌……嗯，是天道赋予的，就不应该因为自身的好恶得失而偏离了这形貌应有的本性。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You, um, your appearance is given by heaven. So you should not act against the nature of your look just because of your personal preference."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你明明可以变得像说书先生说的、像画册上画的那样好，那样受人们喜爱……就像大家所期望的那样。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You could have become a much-loved spirit, like in the stories and picture books ... as everyone expects you to be."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "但你……你把胡人小娘子，和她的同伴带走的时候，都没有考虑过人们的心情。那不是他们想要分离的时刻。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "But you ... when you took away that foreign lady's teammates, you didn't care about their feelings. They didn't want to be separated."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "你令人伤心了，这不是祥瑞该做的事。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You disappointed people. That's not what a Xiángruì should do."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……好了，曲娘。就到这里吧。",
+    "english_speaker": "Lizheng",
+    "english_text": "Alright, Jiŭ Niángzĭ. That's enough."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "你们先把他带下去。",
+    "english_speaker": "Lizheng",
+    "english_text": "Take him away."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘眼瞧着葛天被带走的方向。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ watches coldly as Gĕtiān is taken away."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "他也什么都没有告诉我。大家都是一样的。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "He didn't tell me anything. Nor did he tell anyone."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "虽然，我知晓你一直以来都对“祥瑞”十分着迷，但羽人今日来到职祠，言语中已经透露了他实则并非祥瑞的事实。",
+    "english_speaker": "Lizheng",
+    "english_text": "I know you're chasing after anything that could be a Xiángruì, but the feather man has clearly claimed that he is not one."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "甚至，我以为他的态度，更像是说他自身并非祥瑞，也从未想过要成为祥瑞。",
+    "english_speaker": "Lizheng",
+    "english_text": "To be honest, judging from his attitude, he has never had the intention to be one."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我不明白……他怎么能不想呢？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I don't understand ... How could he not want to be one?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "并非人人都对祥瑞的传说如此趋之若鹜。",
+    "english_speaker": "Lizheng",
+    "english_text": "Not everyone is so interested in the legend of Xiángruì."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "沛城的确曾在祥瑞的庇护下有过不错的时光。但此去经年，那段旧日只能在神话典籍中查阅。甚至我也不敢论断，真正的祥瑞是否还存在。",
+    "english_speaker": "Lizheng",
+    "english_text": "The Pèi City did have a good era under the protection of the Xiángruìs. But after all these years, no one can recall that time without the help of mythologies and history books. Even I can't be sure if there is a real Xiángruì."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "但是曲娘，你应该知道。现在，我们也已不需要祥瑞了。",
+    "english_speaker": "Lizheng",
+    "english_text": "But, Jiŭ Niángzĭ, you should know that we don't need a Xiángruì anymore."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……我们不需要吗？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "We don't need it?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "现在没有祥瑞，甚至也没有了行之有效的问卜。但你看，我们失去了与渊庙的沟通，城中依然秩序井然……",
+    "english_speaker": "Lizheng",
+    "english_text": "With no Xiángruì, no Divination, we cannot arrive at the Yuān Temple, but this is still an orderly city."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "度朔节也依然热闹非凡，可见祥瑞并不是一城立足之必需。",
+    "english_speaker": "Lizheng",
+    "english_text": "The Dùshuò Festival is as vibrant as ever. You can tell that a Xiángruì is not necessary for a city to prosper."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "是这样吗……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Is that so ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘捏住了随身携带的小包。包上绣着搭配奇特的艳诗，她不懂那些字的意思，此刻却正如自己被搅乱的心情。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ grasps the small bag she carries with her. The bag is embroidered with a peculiar combination of love poems. Though, she has never really understood the meaning of the words, in some way, they now mirror her own confused mind."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "不过，今日看来，原来你是识字的？",
+    "english_speaker": "Lizheng",
+    "english_text": "By the way, turns out you can read, can't you?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "嗯？你知道我不会写字的，里正。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Hmm? You know that I can't, Lǐzhèng."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "“绝迹易，无行地难”——",
+    "english_speaker": "Lizheng",
+    "english_text": "\"One can remove the footsteps, but not the path one walketh on.\""
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "哦！不，不是的。我只是听道士说过太多次，所以记住了。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Oh, that's not what it seems to be. I heard it from the Daoist countless times, so I remembered it."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "哪位道士？是城中的道人吗？",
+    "english_speaker": "Lizheng",
+    "english_text": "Which Daoist? In the city?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘摇摇头，否认了里正的猜想。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ shakes her head to refute Lǐzhèng's assumptions."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "是我来到城里之前，曾经与一个道士同行过一段时日。他会重复一些话，我总是听不明白，但心里牢牢地记着。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "No. It was a Daoist I traveled with before I came to Pèi City. The Daoist said many different things over and over again. I couldn't understand, but I remembered them."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "听起来，你曾有一位贤师。毕竟你入城以后，一向与人为善，走上了一条与葛天不同的道路。",
+    "english_speaker": "Lizheng",
+    "english_text": "Sounds like you had a distinguished teacher. Since you came here, you've been treating people nice and kindly, exactly the opposite of what Gĕtiān has done."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "啊，原来他叫葛天。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Ah, so his name is Gĕtiān."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "是啊，葛天……但你刚才还是同他说得太多了。",
+    "english_speaker": "Lizheng",
+    "english_text": "Yes, Gĕtiān ... You said too many things to him."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "他并不是你一直在寻找，心中所向往的祥瑞。",
+    "english_speaker": "Lizheng",
+    "english_text": "He is not the Xiángruì you're looking for."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "真正的祥瑞不会毫无理由做出这样冒犯的事，他或许只是一个……久居山上的大妖。",
+    "english_speaker": "Lizheng",
+    "english_text": "A real Xiángruì would never be so rude. It is very possible that he is only a ... Yāo that has been living on the mountain for too long."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她低着头，似乎很难接受这样的变故。",
+    "english_speaker": "Narrator",
+    "english_text": "Her head lowers, seeming to find it difficult to accept such a change in thought."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "可他究竟为什么要指认我呢？我……我不明白。是我做错了什么吗？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "But why did he accuse me like that? I-I don't get it. Did I do something wrong?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "可以想见，因为你是执礼。",
+    "english_speaker": "Lizheng",
+    "english_text": "Because you're the Zhílǐ."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "曲娘茫然地望向里正，脸上写满了疑惑和探寻。",
+    "english_speaker": "Narrator",
+    "english_text": "Jiŭ Niángzĭ looks at Lǐzhèng, her face caught between doubt and curiosity."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "提出观点的老者则摸着胡子笑起来，仿佛对女孩的反应感到无奈。",
+    "english_speaker": "Narrator",
+    "english_text": "Having presented his point of view, the old man rubs his beard and laughs, knowingly helpless to influence the girl's reaction."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "前任执礼已因他之故，回乡去了。他见此法奏效，或是想要故伎重施。",
+    "english_speaker": "Lizheng",
+    "english_text": "The former Zhílǐ left because of what he said and did. Now he wants to play the same trick on you."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "况且，今日他闯入职祠时，见我似乎相当惊讶。由此不难推断一二。",
+    "english_speaker": "Lizheng",
+    "english_text": "What's more, when he got here and saw me but not you, he acted quite surprise. You can tell from the details."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……唔……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Hmm ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她的眼神越发困惑，这样的心机处事，于她而言似乎太过复杂。",
+    "english_speaker": "Narrator",
+    "english_text": "The thoughts behind her eyes grow more muddled, such deceitful scheming felt too complicated for her to comprehend."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "啊，对了！还有那被掳走的胡人娘子，她——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Oh, and that captured foreign lady, she ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "放下心吧，已派人出去搜寻了。我们现在也该去商定一下明早走吉与跃桥的事项。",
+    "english_speaker": "Lizheng",
+    "english_text": "Don't worry. There are people searching for them now. As for us, we should confirm the details for tomorrow's Fortune Walk and Bridge Leap."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "噢，跃桥。是的，还有这件事……要是断桥能够修复就好了，就不用年节动物，也不用跳桥了。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Right, Bridge Leap, I almost forgot ... If only the broken bridge could be fixed, and we wouldn't need those Festive Animals, nor to jump over the bridge."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "刚才我问葛天，可是他什么都不回答的时候，我就在想……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "During Gĕtiān's silence, I was thinking that ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "如果我能直接问执徐呢？去渊庙。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "What if I can go to the Yuān Temple and ask Zhíxú the Guardian?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "如果是真正的问卜，那我想了解的事情，也一定会有答案吧。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "If the legend of The Divination is real, then whatever the question is, Zhíxú will answer me, right?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……是啊。",
+    "english_speaker": "Lizheng",
+    "english_text": "I guess so."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两人向室内走去，交谈的话音伴随脚步声，逐渐消失在庭院中。",
+    "english_speaker": "Narrator",
+    "english_text": "The wo of them walk indoors, their conversation disappearing from the courtyard under the sound of footsteps on hard stone."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "齐整的官府室内，两道身影交换着连日来的信息，以商定下一步行动。",
+    "english_speaker": "Narrator",
+    "english_text": "Within the pristine government office, two figures exchange information from their past few days so they might agree on their next step course of action."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……事情就是这样，葛天现下暂时收押在职祠地牢，曲娘也还在那边。",
+    "english_speaker": "Lizheng",
+    "english_text": "That is the whole story. Gĕtiān is now detained in Zhící's dungeon. Jiŭ Niángzĭ is there as well."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "两个时辰前，我与执礼曲娘商议后，决定保留走吉与跃桥的仪式。",
+    "english_speaker": "Lizheng",
+    "english_text": "Four hours ago, after discussing with the new Zhílǐ, we decided to keep the ceremonies of Fortune Walk and Bridge Leap."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "只是那些生有异色的动物，确实不便再用，规模相较以往执徐值年，有所缩减。",
+    "english_speaker": "Lizheng",
+    "english_text": "But no colored animals are used this time. The number of animals will be less than those in previous years of Zhíxú."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "此为人员名录与各类筹措明细，我令人摹写了几份，已经送到各坊去了。",
+    "english_speaker": "Lizheng",
+    "english_text": "Here is the list of ceremony members and funds. I've asked people to deliver the copies to all the streets."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "里正从案上抄起一叠纸页递出去。",
+    "english_speaker": "Narrator",
+    "english_text": "Lǐzhèng picks up a stack of papers from the desk and hands them out dutifully."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "您辛苦。",
+    "english_speaker": "???",
+    "english_text": "Thank you, Sir."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "应当的。还有葛天一事，按照法规，需得度朔节后再升堂会审。",
+    "english_speaker": "Lizheng",
+    "english_text": "This is my duty. As for Gĕtiān, we shall put him on hold until the Dùshuò Festival according to the law."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "我还有一问。证据追回来了没有？",
+    "english_speaker": "???",
+    "english_text": "One more thing. Have we found the horse and the proof?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……尚未追回。掠走胡人娘子的红尾马驹，大抵还是受了葛天的控制，等我们的人追到郊外，已经在雨中消失得无影无踪。",
+    "english_speaker": "Lizheng",
+    "english_text": "Not yet. The horse taking that foreign lady away might still be under the control of Gĕtiān. There was no trace of them when our people chased them out of the city."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "辰时郊外急雨，行路困难，可以理解。只能等此次雨停后再行搜索了。",
+    "english_speaker": "???",
+    "english_text": "I understand, given he road conditions in the morning rain. Looks like we will have to continue with the search after it stops."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "不过，一马驹携一盲眼女子，应当走不出太远。待到雨停，我会亲自带队前去。",
+    "english_speaker": "???",
+    "english_text": "But I don't think a horse carrying a blind woman can go far enough to escape. I'll lead the search squad myself next time."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "劳烦法曹。",
+    "english_speaker": "Lizheng",
+    "english_text": "Thank you, Făcáo."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "背对门厅的威武身影，习惯性压下腰间的短剑，调整了别剑姿势，才又一挥手表示不必在意。",
+    "english_speaker": "Narrator",
+    "english_text": "The imposing figure, with his back to the entryway, habitually presses down the short sword at his waist, adjusting the position of the blade. Then waves his hand again to show that he doesn't need to concern himself with such maters."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "分内事罢了。执礼呢？",
+    "english_speaker": "Facao",
+    "english_text": "I'm only doing my job. Where is the Zhílǐ?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "嗯？法曹是问曲娘，还是先前的那位？",
+    "english_speaker": "Lizheng",
+    "english_text": "Are you referring to Jiŭ Niángzĭ, or the former one?"
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "回乡的那位。",
+    "english_speaker": "Facao",
+    "english_text": "The one who went back to her hometown."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "大概需得等到度朔节后，才有消息。我尚未收到她的回信。",
+    "english_speaker": "Lizheng",
+    "english_text": "We haven't heard anything from her yet. Perhaps it will come after the Dùshuò Festival."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "好。曲娘毕竟年轻，在回乡那位执礼传来消息之前，还需得您多多看着职祠些。",
+    "english_speaker": "Facao",
+    "english_text": "Noted. Jiŭ Niángzĭ is still green, so please help me take care of the Zhící before the former one comes back."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "她足够良善，也正因此我才会向职祠贸然举荐。若曲娘行事出了差池，自然也是我的责任。",
+    "english_speaker": "Lizheng",
+    "english_text": "I will. She is kind-hearted. That's why I recommended her for this position. It will be my responsibility if she makes any mistakes."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "话虽如此，年节事项繁多，难免有所疏漏，也不必太过苛责。",
+    "english_speaker": "Facao",
+    "english_text": "Well, there are so many things to do before the New Year. It's fine, even if she makes a mistake or two. Don't push her too hard."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "正是。若你寻回了证据和那两位胡商，也劳烦派人知会一声。",
+    "english_speaker": "Lizheng",
+    "english_text": "That's what I thought. If you find any evidence or the two foreigners, please let me know."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "法曹一边将文书折叠一边利落起身，预备告辞，却被里正抬手拦下。",
+    "english_speaker": "Narrator",
+    "english_text": "Făcáo rises nimbly while folding the documents, as he prepares to bid his farewell, he is stopped by Lǐzhèng's raised hand."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "稍待，还有一事，是今夜岁除宴。法曹若是愿意，可携亲眷来曲娘的酒坊度过。",
+    "english_speaker": "Lizheng",
+    "english_text": "Oh, another thing, the New Year's Feast tonight. You're welcome to Jiŭ Niángzĭ's tavern with your relatives."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "酒坊？那可是金市街坊都去？",
+    "english_speaker": "Facao",
+    "english_text": "The tavern? Are the people around the merchants hub going too?"
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "是啊。她宴请乡邻，理由也不难猜。",
+    "english_speaker": "Lizheng",
+    "english_text": "Yes. She is hosting a feast for the neighbors."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "岁除守夜。翻过年去，便是度朔节的第一天。",
+    "english_speaker": "Lizheng",
+    "english_text": "It is the New Year's Eve Vigil, followed by the first day of Dùshuò Festival."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "往年酒坊也是设宴的。",
+    "english_speaker": "Lizheng",
+    "english_text": "It is an annual tradition at the tavern."
+  },
+  {
+    "chinese_speaker": "法曹：",
+    "chinese_text": "朔日，新年……",
+    "english_speaker": "Facao",
+    "english_text": "Shuòrì, the New Year ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "是啊，新的一年，又是执徐生辰……",
+    "english_speaker": "Lizheng",
+    "english_text": "Right, another year of the Zhíxú..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "希望供奉着执徐的渊庙，亦能传来好消息。",
+    "english_speaker": "Lizheng",
+    "english_text": "Hopefully, the Yuān Temple, which worships the Zhíxú, will bring us good news."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "话音落下，仅余一阵沉默。两人望向窗外，断桥与渊庙的飞檐，在雨中蒙雾里忽隐忽现。",
+    "english_speaker": "Narrator",
+    "english_text": "Having said his piece, leaving only a moment of silence. The two of them look out the window, toward the eaves of the broken bridge and the temple flickering in the misty rain."
+  }
+]

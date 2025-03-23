@@ -1,48 +1,35 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import os
-import re
 import json
 import time
-import sys 
 import random
+import sys
 from selenium import webdriver
-from selenium.webdriver.edge.options import Options  
-from selenium.webdriver.edge.service import Service  
-from webdriver_manager.microsoft import EdgeChromiumDriverManager  
+from selenium.webdriver.edge.options import Options
+from selenium.webdriver.edge.service import Service
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
+# 英文版基础URL
+BASE_URL = "https://reverse1999.fandom.com"  
 
-# 定义网页URL基础部分
-BASE_URL = "https://res1999.huijiwiki.com"
-
-# 创建输出目录
+# 输出目录配置
 OUTPUT_DIR = "output"
-DIALOGUES_DIR = os.path.join(OUTPUT_DIR, "dialogues")
-TEST_DIR = os.path.join(OUTPUT_DIR, "test_dialogues")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-os.makedirs(DIALOGUES_DIR, exist_ok=True)
+EN_DIALOGUES_DIR = os.path.join(OUTPUT_DIR, "en_dialogues")
+os.makedirs(EN_DIALOGUES_DIR, exist_ok=True)
 
-# 添加一个新函数，用于检查小节是否已经爬取
-def is_episode_crawled(chapter_dir, episode_cn_title):
-    """检查小节是否已经爬取过"""
-    episode_filename = f"{episode_cn_title}.json"
+def is_episode_crawled(chapter_dir, episode_en_title):
+    """检查英文小节是否已爬取（复用中文版逻辑）"""
+    episode_filename = f"{episode_en_title}.json"
     episode_filepath = os.path.join(chapter_dir, episode_filename)
     
-    # 检查文件是否存在且不为空
     if os.path.exists(episode_filepath):
         try:
             with open(episode_filepath, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                # 如果文件存在且包含对话数据，则认为已爬取
-                return len(data) > 0
+                return len(json.load(f)) > 0
         except:
-            # 如果文件存在但无法解析JSON，则认为未爬取
             return False
-    
-    # 文件不存在，未爬取
     return False
-
 
 def get_page_content_from_selenium(url, max_retries=3, retry_delay=5):
     """使用Selenium从URL获取网页内容并返回BeautifulSoup对象，添加重试机制"""
@@ -116,54 +103,74 @@ def get_page_content_from_selenium(url, max_retries=3, retry_delay=5):
                 return None
 
 
-def extract_chinese_dialogue(url):
-    """从指定URL提取对话内容"""
-    print(f"正在提取页面 {url} 的对话内容...")
-    soup = get_page_content_from_selenium(url)
+def extract_english_dialogue(ENGLISH_URL):
+    """从英文Wiki提取对话内容"""
+    print("正在提取英文对话内容...")
+    soup = get_page_content_from_selenium(ENGLISH_URL)
     
-    if not soup:
-        print(f"无法获取页面 {url} 的内容")
+    # 找到包含对话的主要内容区域 - 英文使用表格结构
+    tables = soup.find_all("table", class_="wikitable")
+    if not tables:
+        print("未找到对话表格")
         return []
-
-    # 找到所有story-text元素，这些元素包含对话内容
-    story_texts = soup.find_all("div", class_="story-text")
     
     dialogues = []
+    current_speaker = ""
     
-    for story in story_texts:
-        content_divs = story.find_all("div")
-        
-        # 跳过空内容
-        if not content_divs:
-            continue
+    # 遍历所有表格行
+    for table in tables:
+        rows = table.find_all("tr")
+        for row in rows:
+            # 跳过标题行
+            if row.find("td", colspan="5"):
+                continue
+                
+            # 获取所有单元格
+            cells = row.find_all("td")
             
-        # 提取对话内容
-        if len(content_divs) == 1:
-            dialogue = content_divs[0].text.strip()
-            speaker = "旁白"
-        else:
-            speaker = content_divs[0].text.strip()
-            dialogue = content_divs[1].text.strip()
-        
-        if dialogue:
-            dialogues.append({
-                "speaker": speaker,
-                "dialogue": dialogue
-            })
+            # 如果只有一个单元格且有colspan属性，这可能是旁白
+            # 如果只有一个单元格且有colspan属性，这可能是旁白
+            if len(cells) == 1 and cells[0].has_attr("colspan"):
+                text = cells[0].text.strip()
+                if text and text not in ["Pre-Battle", "Post-Battle"]:
+                    dialogues.append({"english_speaker": "Narrator", "english_dialogue": text})
+                continue
+
+            # 正常的对话行应该有两个单元格：角色和对话内容
+            if len(cells) == 2:
+                # 第一个单元格包含角色信息
+                speaker_cell = cells[0]
+                # 尝试从单元格中提取角色名称
+                speaker_div = speaker_cell.find("div", style=lambda s: s and "align-self: flex-end" in s)
+                if speaker_div:
+                    speaker = speaker_div.text.strip()
+                else:
+                    speaker = "Unknown"
+                
+                # 第二个单元格包含对话内容
+                dialogue = cells[1].text.strip()
+                
+                if dialogue:
+                    if speaker:
+                        current_speaker = speaker
+                    dialogues.append({"english_speaker": current_speaker, "english_dialogue": dialogue})
+    
+    
     
     return dialogues
+    
+
 
 
 def load_story_structure():
-    """加载故事结构数据"""
-    structure_path = os.path.join(OUTPUT_DIR, "story_structure.json")
+    """复用相同的故事结构加载方法"""
+    structure_path = os.path.join(OUTPUT_DIR, "fandom_story_structure_en.json")
     try:
         with open(structure_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except Exception as e:
-        print(f"加载故事结构数据失败: {e}")
+        print(f"Failed to load story structure: {e}")
         return None
-
 
 def save_to_json(data, filename):
     """保存数据到JSON文件"""
@@ -173,113 +180,37 @@ def save_to_json(data, filename):
     print(f"数据已保存到 {filepath}")
     return filepath
 
-
 def main():
-    print("开始抓取重返未来1999游戏剧情的文本...")
-    
-    # 加载故事结构
-    story_structure = load_story_structure()
-    if not story_structure:
-        print("无法加载故事结构，程序退出")
-        return
-    
-    # 统计变量
-    total_episodes = 0
-    already_crawled = 0
-    newly_crawled = 0
-    failed_episodes = 0
-    
-    # 遍历故事结构中的每个章节
-    for chapter in story_structure["main_story"]:
-        chapter_cn_title = chapter["chinese_title"]
-        # 创建章节目录
-        chapter_dir = os.path.join(DIALOGUES_DIR, chapter_cn_title)
-        os.makedirs(chapter_dir, exist_ok=True)
-        chapter_en_title = chapter["english_title"]
-        print(f"\n开始处理章节: {chapter_cn_title} ({chapter_en_title})")
-        
-        # 遍历章节中的每个小节
-        for episode in chapter["episodes"]:
-            total_episodes += 1
-            episode_cn_title = episode["chinese_title"]
-            episode_en_title = episode["english_title"]
-            episode_link = episode["link"]
-            
-            # 检查是否已经爬取过
-            if is_episode_crawled(chapter_dir, episode_cn_title):
-                print(f"  跳过已爬取的小节: {episode_cn_title} ({episode_en_title})")
-                already_crawled += 1
-                continue
-            
-            # 构建完整URL
-            full_url = f"{BASE_URL}{episode_link}"
-            print(f"  处理小节: {episode_cn_title} ({episode_en_title})")
-            
-            try:
-                # 提取对话
-                dialogues = extract_chinese_dialogue(full_url)
-                if not dialogues:
-                    print(f"  警告: 未能从 {episode_cn_title} 提取到对话，将在下次运行时重试")
-                    failed_episodes += 1
-                    continue
-                    
-                print(f"  成功提取 {len(dialogues)} 条对话")
-                newly_crawled += 1
-                
-                # 保存小节对话
-                episode_filename = f"{episode_cn_title}.json"
-                episode_filepath = os.path.join(DIALOGUES_DIR, chapter_cn_title, episode_filename)
-                with open(episode_filepath, 'w', encoding='utf-8') as f:
-                    json.dump(dialogues, f, ensure_ascii=False, indent=2)
-                
-                # 添加随机延迟，避免请求过于频繁
-                delay = random.uniform(5, 10)  # 增加延迟时间
-                print(f"  等待 {delay:.2f} 秒后继续...")
-                time.sleep(delay)
-                
-            except Exception as e:
-                print(f"  处理小节 {episode_cn_title} 时出错: {e}")
-                print("  将在下次运行时重试该小节")
-                failed_episodes += 1
-                continue
-    
-    # 打印统计信息
-    print("\n爬取统计:")
-    print(f"总小节数: {total_episodes}")
-    print(f"已爬取小节数: {already_crawled}")
-    print(f"新爬取小节数: {newly_crawled}")
-    print(f"失败小节数: {failed_episodes}")
-    print(f"完成率: {((already_crawled + newly_crawled) / total_episodes) * 100:.2f}%")
-    
-    print("\n抓取完成！所有对话已保存")
+    res = extract_english_dialogue("https://reverse1999.fandom.com/wiki/NS-1")
+    save_to_json(res, "ns-1.json")
 
 
 def test(): 
-    print("开始抓取重返未来1999游戏剧情的文本...")
+    print("开始抓取重返未来1999游戏剧情的英文文本...")
 
     # 加载故事结构
     story_structure = load_story_structure()
 
     # 需要爬取的章节和小节
-    crwaler_chapter_title = "2ND 夜色温柔"
-    crawler_episode_title = "客套话"
+    crwaler_chapter_title = "Notes on Shuori"
+    # crawler_episode_title = "客套话"
     
     # 遍历故事结构中的每个章节
-    for chapter in story_structure["main_story"]:
-        chapter_cn_title = chapter["chinese_title"]
+    for chapter in story_structure["side_story"]:
+        chapter_cn_title = chapter["english_title"]
         if chapter_cn_title != crwaler_chapter_title:
             continue
         # 创建章节目录
-        chapter_dir = os.path.join(TEST_DIR, chapter_cn_title)
+        chapter_dir = os.path.join(OUTPUT_DIR, chapter_cn_title)
         os.makedirs(chapter_dir, exist_ok=True)
         chapter_en_title = chapter["english_title"]
         print(f"\n开始处理章节: {chapter_cn_title} ({chapter_en_title})")
         
         # 遍历章节中的每个小节
         for episode in chapter["episodes"]:
-            episode_cn_title = episode["chinese_title"]
-            if episode_cn_title != crawler_episode_title:
-                continue
+            episode_cn_title = episode["english_title"]
+            # if episode_cn_title != crawler_episode_title:
+            #     continue
             episode_en_title = episode["english_title"]
             episode_link = episode["link"]
             
@@ -294,7 +225,7 @@ def test():
             
             try:
                 # 提取对话
-                dialogues = extract_chinese_dialogue(full_url)
+                dialogues = extract_english_dialogue(full_url)
                 if not dialogues:
                     print(f"  警告: 未能从 {episode_cn_title} 提取到对话，将在下次运行时重试")
                     continue
@@ -303,7 +234,7 @@ def test():
                 
                 # 保存小节对话
                 episode_filename = f"{episode_cn_title}.json"
-                episode_filepath = os.path.join(TEST_DIR, chapter_cn_title, episode_filename)
+                episode_filepath = os.path.join(OUTPUT_DIR, chapter_cn_title, episode_filename)
                 with open(episode_filepath, 'w', encoding='utf-8') as f:
                     json.dump(dialogues, f, ensure_ascii=False, indent=2)
                 
@@ -319,6 +250,7 @@ def test():
     
     
     print("\n抓取完成！所有对话已保存")
+
 
 
 

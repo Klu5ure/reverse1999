@@ -1,0 +1,908 @@
+[
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "如此甚好。有这画像，我们尽可以通缉羽人了。",
+    "english_speaker": "Lizheng",
+    "english_text": "This is great. With your drawing, we can issue wanted posters to find the feather man."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "小娘子沉默不语，可是还有其他顾虑？",
+    "english_speaker": "Lizheng",
+    "english_text": "You stay silent. Any questions or concerns?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "您先前，提到职祠有一位已经离开的工作人员……或者说，“执礼”？",
+    "english_speaker": "Yenisei",
+    "english_text": "You mentioned a former employee of the Zhící ... Or should I call her the Zhílǐ?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "您说那位执礼曾经见到了羽人，和他带来的动物。那也许他今天也会来，如果他带着我们同伴变成的那些斑纹马——",
+    "english_speaker": "Yenisei",
+    "english_text": "You said she had seen the feather man and the animals he brought. Then maybe he will come again today. If he shows up with our horse teammates ..."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "……意味着前任执礼目击的羽人，与你们所见，确为同一人。",
+    "english_speaker": "Lizheng",
+    "english_text": "That is to say, the feather man she saw is the same person you met."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "老者很快跟上思路，皱眉思索间，从笔架上再次取下了毛笔。",
+    "english_speaker": "Narrator",
+    "english_text": "The old man follows his train of thought to its destination, frowns and ponders, before taking the brush from its holder yet again."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他利落地铺开一张白纸，研墨落笔，从容而迅速。",
+    "english_speaker": "Narrator",
+    "english_text": "He neatly spreads out a new piece of paper, rubs an ink stick on the slab, and begins to write with a calm and swift hand."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "那么，或许两位应去一趟职祠。",
+    "english_speaker": "Lizheng",
+    "english_text": "In this case, a visit to the Zhící might be a good choice for you."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "我修书一封，劳两位带去职祠，交予现在的执礼曲娘。若是真有羽人来过，你们也好接手那些被他带来的动物。",
+    "english_speaker": "Lizheng",
+    "english_text": "I will write a letter for you. Please take it to the Zhící and show it to Jiŭ Niángzĭ, the current Zhílǐ. If the feather man has been there, you can take over the animals he brought to her."
+  },
+  {
+    "chinese_speaker": "里正：",
+    "chinese_text": "假使没来，两位也能将信转交，请新任执礼多多留意。曲娘是个热心的孩子，此刻约莫正在职祠，两位自去寻她便是。",
+    "english_speaker": "Lizheng",
+    "english_text": "Even if he hasn't, you can still proceed with the letter, since Jiŭ Niángzĭ is very warm-hearted. She should be in the Zhící right now. You can find her there."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……好。",
+    "english_speaker": "Yenisei",
+    "english_text": "Thank you."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "少许希望的出现，终于暂时锚定了两人初入异域的动荡心情。",
+    "english_speaker": "Narrator",
+    "english_text": "With this glimmer of hope, the turbulent emotions of these two strangers in a strange land find themselves anchored, temporarily at least."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "领了书信，异域的来客才终于真正去到城中。只见彩色的绸缎高悬于指向天空的飞檐间，东方面孔的人们视若无睹地穿行其下。",
+    "english_speaker": "Narrator",
+    "english_text": "After receiving their pass, they are finally permitted into the city. Colorful silks hanging between pointed eaves. People bustle around, taking no notice of the extraordinary beauty around them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "而道路两旁……各户门前或银或铜的炭盆里有着更细微的爆裂声。一团团无光的火，在寒日里捧起热切的温度。",
+    "english_speaker": "Narrator",
+    "english_text": "On both sides of the street, there is a silver or copper charcoal pot in front of every house, crackling subtly and bringing spots of warmth to the cold day."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "走吧，孩子。",
+    "english_speaker": "Bessmert",
+    "english_text": "We should go, Yeni."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两人向着里正所指方向，从石砖铺就的寂寥门前，走向沙石翻飞，人语与噼啪声齐响的热闹街市。",
+    "english_speaker": "Narrator",
+    "english_text": "They walk into the direction indicated by Lǐzhèng, from the silent neighborhood, to the dusty and bustling market."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "摊贩与表演者岿然不动地占去部分空间，流动的行人都被逐渐收拢至干道中央。",
+    "english_speaker": "Narrator",
+    "english_text": "The peddlers and street performers lay a steady claim to their spaces, forming eddies in the stream of pedestrians that flows toward the center of the main boulevard."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "汇聚到交集路口的行人越多，便越拥挤。这显然滞缓了急于行路者的速度。",
+    "english_speaker": "Narrator",
+    "english_text": "The more people flow toward that intersection, the more crowded it becomes. Until it becomes a slow-moving throng, impeding anyone wishing to move through it."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "如果这样一直推挤着彼此前进，就太慢了……",
+    "english_speaker": "Yenisei",
+    "english_text": "This is going to take forever if we have to follow the crowd."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，我们能不能从房屋与房屋之间穿过去？当然，如果能问到更快的路径会更好——",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam, do you think we can take the gaps between the houses? Or find a shortcut. That's be even better ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "——啊！",
+    "english_speaker": "Citizen I",
+    "english_text": "Ahh!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "要在拥挤人群中强求面对面说话的礼貌，就会发生这样的事故。",
+    "english_speaker": "Narrator",
+    "english_text": "Insisting on politeness in a crowded space like this can often lead to such accidents."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "小心。怎么了？",
+    "english_speaker": "Bessmert",
+    "english_text": "Careful. What's wrong?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "抱歉……我们急着赶路——您还好吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "Sorry, we were in a hurry. Are you alright?"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "无妨，不过略微磕碰罢了。两位是胡人吧？还从没在城中见过你这头发色式的，真是漂亮。",
+    "english_speaker": "Citizen I",
+    "english_text": "No problem. Don't worry about the bumping. Oh, aren't you the foreigners? I've never seen any red hair in the city. It's pretty."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "现下各处都在过节，摩擦是常有的，不过你们这样着急，是要去哪里呢？",
+    "english_speaker": "Citizen I",
+    "english_text": "It's holiday time. It's fine to stumble into people. But what's with the rush? Where are you going?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "我们是要去职祠。",
+    "english_speaker": "Yenisei",
+    "english_text": "We are going to the Zhící."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "原来如此……可现在去职祠的路上游人却是太多了。或许，两位能从别的路过去——",
+    "english_speaker": "Citizen I",
+    "english_text": "Oh. But the way there is crowded with visitors. Maybe you can take the other road."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "衣着艳丽的女子皱起了眉，似乎思考着如何描述，却很快被喧哗声转移了注意力。",
+    "english_speaker": "Narrator",
+    "english_text": "The gaudily-dressed woman frowns, clearly pondering how to describe it, but is just as soon distracted by a commotion."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "只见一群黑色奇异生物，拖着长尾自不远处腾空而起。",
+    "english_speaker": "Narrator",
+    "english_text": "A group of strange black creatures appear from somewhere nearby, dragging their long tails before soaring into the air."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "——嗯？那是——天哪，烛夜怎么会白日里出现在大街上？！",
+    "english_speaker": "Citizen I",
+    "english_text": "Huh? They are ... Oh no, they are Zhúyès! What are they doing in the street during the daytime?!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "烛夜是什么？一种魔精吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "Zhúyè? What's that? Some kind of critter?"
+  },
+  {
+    "chinese_speaker": "烛夜？：",
+    "chinese_text": "吱……咕叽……吱吱！",
+    "english_speaker": "Zhuye the Monster?",
+    "english_text": "Squeak ... Coo ... Squeak!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它们自屋檐跃下，挥动潮湿的小翅膀卖力掀起一阵飞扬尘土，连带着洒落香味莫名的水点。",
+    "english_speaker": "Narrator",
+    "english_text": "They jump down from the eaves, flapping their sticky little wings and violently raising a wave of flying dust accompanied by strangely fragrant drops of water."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "唔，好香啊。我似乎闻到了一股酒香味儿。",
+    "english_speaker": "Bessmert",
+    "english_text": "Umm, an extraordinarily smell. Like liquor."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "街上的游人则连连奔逃，被那四处振翅的动物折腾得不轻。",
+    "english_speaker": "Narrator",
+    "english_text": "The travelers on the street run away, harangued by the creatures flapping their wing at them everywhere they turn."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "这儿哪儿来的烛夜！好大的一股酒味儿！",
+    "english_speaker": "Citizen II",
+    "english_text": "Why are they here? Oh! I smell liquor. A lot of liquor!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "谁家的酒坛子翻了招的烛夜！",
+    "english_speaker": "Citizen II",
+    "english_text": "Who broke the liquor jar and attracted them here?!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "——诸位！烛夜白日跃市，乃喜兆也，勿要惊慌！",
+    "english_speaker": "???",
+    "english_text": "People! A Zhúyè in the street during daytime is a sign of auspiciousness. Stay calm!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……它朝我们来了，别斯米尔女士，小心！",
+    "english_speaker": "Yenisei",
+    "english_text": "It's coming our way! Watch out, Madam!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "似乎是因为发觉了自己被轻视的现实，闹剧元凶扑腾的动作看上去愈发有分量。",
+    "english_speaker": "Narrator",
+    "english_text": "It seems as though the ringleader's movements are even more exaggerated than the others, perhaps realizing that it is being underestimated."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "它径直地朝人群中心飞扑而来，扬起了钩爪。",
+    "english_speaker": "Narrator",
+    "english_text": "It flies straight toward the center of the crowd, readying its talons."
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "咕——！！！",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Coo!"
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "咕咕咕！吱！！",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Coo! Squeak! Squeak!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "烛夜的称霸之路被一群突然闯入的牲畜所终结。",
+    "english_speaker": "Narrator",
+    "english_text": "The Zhúyè's ambition to dominate the street is ended by the sudden intrusion of rampaging livestock that burst into the scene."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "或许是这景象看起来太过混乱，以至于几乎所有人都没能反应过来究竟发生了什么。",
+    "english_speaker": "Narrator",
+    "english_text": "The milieu of beasts, pedestrians, and fliers soon becomes so entirely chaotic, that no one present seems to have any grasp of what is happening beyond the end of their nose."
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "呃——抱……抱歉！",
+    "english_speaker": "???",
+    "english_text": "Um ... S-sorry!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "你们……你们——给我——回来——！",
+    "english_speaker": "???",
+    "english_text": "You ... You guys! COME BACK!"
+  },
+  {
+    "chinese_speaker": "？？？：",
+    "chinese_text": "坏东西！",
+    "english_speaker": "???",
+    "english_text": "Bad boys and girls!"
+  },
+  {
+    "chinese_speaker": "烛夜：",
+    "chinese_text": "咕咕——咕——咕！",
+    "english_speaker": "Zhuye the Monster",
+    "english_text": "Coo coo! Coo! Coo!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "——怎么了？吵嚷声好像不仅没有减弱，反而越发纷扰了。",
+    "english_speaker": "Bessmert",
+    "english_text": "What's going on? All this shouting and running about ...?!"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "我闻到了酒，还有尘土扬起的呛人气。发生什么事了？",
+    "english_speaker": "Bessmert",
+    "english_text": "I smell liquor and dust. What happened?"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "路上突然出现了一种被称为“烛夜”的当地神秘学动物，我不知道——图鉴上没有那样的东西。它似乎身带酒香。",
+    "english_speaker": "Yenisei",
+    "english_text": "A kind of local animal named Zhúyè popped up in the street. Maybe they are arcane creatures? I don't know. I've never seen one in books. The liquor smell probably comes from them."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "还有……更远处似乎是冲进来了一群牲畜，但我没能看清。",
+    "english_speaker": "Yenisei",
+    "english_text": "And ... I think a herd of livestock rushed out of the fence over there, but I can't see it clearly."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "抱歉，女士，我们本来不该停在这里的。",
+    "english_speaker": "Yenisei",
+    "english_text": "Sorry, Madam. We are not supposed to stop here."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "顾不上眼前的闹剧，两人决定在人越聚越多之前离开。",
+    "english_speaker": "Narrator",
+    "english_text": "Ignoring the chaos around them, the two travelers decide to leave before even more commotion starts."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "围观鸡飞狗跳的混乱场面从不在她们的计划列表中。",
+    "english_speaker": "Narrator",
+    "english_text": "This bizarre scene of animals, critters and people leaping every which way and everywhere was never part of their plan."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "烛夜就算了，这会儿又是谁家的年节动物跑出来了——",
+    "english_speaker": "Citizen I",
+    "english_text": "We are already having enough trouble with the Zhúyè. Who let out these Festive Animals now?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "除非计划的确赶不上变化。",
+    "english_speaker": "Narrator",
+    "english_text": "It seems life has seen fit to frustrate their plans yet again."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "等等……",
+    "english_speaker": "Citizen I",
+    "english_text": "Wait ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "这不是曲娘吗？！",
+    "english_speaker": "Citizen I",
+    "english_text": "Jiŭ Niángzĭ?!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "——熟悉的名字在小叶尼塞脑中嗡的一声响起。",
+    "english_speaker": "Narrator",
+    "english_text": "—The familiar name hums in Yenisei's mind."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "曲娘，你、你不应该在职祠吗——你这是……？",
+    "english_speaker": "Citizen I",
+    "english_text": "Jiŭ Niángzĭ, aren't you supposed to be in the Zhící during work hours?! What are you ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……呃……我现在……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Um ... I ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "没法解释！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "No time for explaining!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "总之——它们——跑了……！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Anyway ... They're escaping!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "……而且我要……我要拽不住啦！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "And I'm ... I'm losing them!!"
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "“曲娘”？这不是里正让我们去找的那个人吗？",
+    "english_speaker": "Yenisei",
+    "english_text": "Jiŭ Niángzĭ? That's the one Lǐzhèng told us to talk to, isn't it?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "被称为“曲娘”的女孩努力使自己的话听起来轻松，但眼前的景象显然逐渐要脱离她的控制。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl named Jiŭ Niángzĭ tries to sound as relaxed as possible in reply, but the scene before her is one obviously and rapidly spiraling out of her control."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她额角沁下汗珠，越发地惊慌失措起来。",
+    "english_speaker": "Narrator",
+    "english_text": "A panicked sweat drips down her forehead."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "如果这时候放手，这些得到自由以至于癫狂的动物们，将会是市集道路上所有人的灾难。",
+    "english_speaker": "Narrator",
+    "english_text": "If she lets go now, these wild creatures will wreck havoc on the market street and everyone on it."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，我……",
+    "english_speaker": "Yenisei",
+    "english_text": "Madam, I ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞下意识想要上前去。她望了望远处还看不见的职祠，又回头看着别斯米尔。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei's instincts tell her to step forward, She looks toward the Zhící, still out-of-sight in the distance, then turns back to look at Bessmert."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "年长者能感受到她的视线，轻轻地点头。",
+    "english_speaker": "Narrator",
+    "english_text": "Bessmert can feel her gaze and nods gently."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "去吧，我会在这里等你。",
+    "english_speaker": "Bessmert",
+    "english_text": "Go. I will wait here."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "呃……",
+    "english_speaker": "Yenisei",
+    "english_text": "Er ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "其中两匹马突然狠狠地往前蹿去，似乎试探着身后人的力气。",
+    "english_speaker": "Narrator",
+    "english_text": "Two of the horses suddenly bolt forward, as if testing the strength of the people behind them."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "——呀！",
+    "english_speaker": "Yenisei",
+    "english_text": "Whoa!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "拜托、拜托大家……我这次真的要，拽不住啦！",
+    "english_speaker": "Yenisei",
+    "english_text": "Please, please, guys ... I can't hold on anymore!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "位于人群视线中心的女孩，继续试图牵住那一大群明显超过她力气大小的动物。",
+    "english_speaker": "Narrator",
+    "english_text": "The girl in the center of the crowd strains to keep her eyes fixed on the horde of animals more than outmatching her strength."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "力气不断流失，让牵制这件事变得越发困难。她只能把麻绳用力在掌心绞紧，一圈，又一圈，紧到虎口都渗出血来。",
+    "english_speaker": "Narrator",
+    "english_text": "Her obviously waning control does nothing to contain the chaos. All she can do is twist the hemp rope tightly in her hand, winding it one hoop after another, until it is so tight that rough-edged rope cuts into her hand."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅳ：",
+    "chinese_text": "……哦，我来帮你！",
+    "english_speaker": "Citizen IV",
+    "english_text": "Oh, let me help!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "呀！我来，我也来帮帮忙！",
+    "english_speaker": "Citizen II",
+    "english_text": "Yeah! I'll help, too!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "不过，这些家伙怎么跑出来的……",
+    "english_speaker": "Citizen II",
+    "english_text": "I wonder how these animals got out ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "到此刻终于——在第一个回过神来的居民的呼吁下，人们逐渐开始涌上前去。",
+    "english_speaker": "Narrator",
+    "english_text": "It is at this moment that finally—heeding the call to come to their senses, the crowd begins to rush forward to assist."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "——谢谢、谢谢……大家！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Thank you! Thanks ... everyone ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "劳烦……再帮我……牵紧一些……！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Please ... help me ... pull harder!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "拽住呀——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Hold on!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我会请你们喝酒的！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "You all get a drink on the house!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "片刻后，在围观者的帮助下，她终于将扎着彩带奔逃而出的节庆动物们控制住了。",
+    "english_speaker": "Narrator",
+    "english_text": "After a short while, with help from the other streetgoers, she manages to get the rampaging, if festively decorated, animals back under control."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "绿衣女孩手脚利索地把冷静下来的动物都拴在了彩旗柱子上，又将多出来的末端握在手中，才终于松出一口气。",
+    "english_speaker": "Narrator",
+    "english_text": "She deftly ties the quelled animals to the flagpole, then, breating a well-earned sigh of relief, lets the rope finally slack down from her hands."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "天呀，谢谢你们——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Oh dear, thank you so much ..."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "要不然，我可真不知道该怎么办……上任第一天就出这么大的岔子！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "I couldn't do this without you ... Making so much trouble on the first day of work ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她气喘吁吁的，如同经过一场浩大的战役——保卫家乡的战役。",
+    "english_speaker": "Narrator",
+    "english_text": "She pants heavily, still recovering from her battle—a battle to defend her hometown."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "曲娘打哪儿来呀，早些时候在酒坊没瞧见你。",
+    "english_speaker": "Citizen I",
+    "english_text": "Where we you, Jiŭ Niángzĭ? I didn't see you in the tavern."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "我？我就在那边，在职祠里。",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Me? I was in the Zhící."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅲ：",
+    "chinese_text": "曲娘在职祠做什么？",
+    "english_speaker": "Citizen III",
+    "english_text": "What were you doing there?"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "哎，柳郎，你又忘啦？原先的执礼回乡去了。现在呀，曲娘已是新的执礼了。",
+    "english_speaker": "Citizen I",
+    "english_text": "Oh, Mr. Liŭ, did you forget again? The former Zhílǐ went back to her hometown. Jiŭ Niángzĭ is the new  Zhílǐ now."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "不不，不是的，我只是，呃，代班！我刚才清点节庆动物的数量时，听到了外面的动静……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "No, no, that's not it. I'm just, um, covering for her! I was counting the Festive Animals, and then I heard the noise outside."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "哈哈哈，是听到了说书先生的声音吧？今日是他最后一讲，你定是不会错过。",
+    "english_speaker": "Citizen II",
+    "english_text": "Haha, you must have been distracted by the Storyteller, huh? He was telling the end of the story today, so you would never miss it."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "是啊，我想着，他可能会讲祥瑞的故事，才着急出来。兴许是没有关好围栏的门，唔……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Well, yeah. I thought he might tell the story of Xiángruì, so I hurried out and forgot to lock the fence. Hmm ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅰ：",
+    "chinese_text": "总是惦记着“祥瑞”、“祥瑞”的，不晓得的，还以为你是要写书呢。",
+    "english_speaker": "Citizen I",
+    "english_text": "You're talking about Xiángruì again. People would think you were another Storyteller if they didn't know you just really like these tales."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅲ：",
+    "chinese_text": "也看看手掌有无擦伤，若是有恙，一会儿可随我去医馆取药。",
+    "english_speaker": "Citizen III",
+    "english_text": "Are your palms bruised? Go to my clinic for medicine if it hurts."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "晚些时候还要请大伙喝酒～",
+    "english_speaker": "Citizen II",
+    "english_text": "Remember the drinks on the house!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "好的呀，那是一定的！真是谢谢你们啦！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Of course, I will! Thank you so so much!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她熟络地与居民叙话，却又不住地向茶馆的方向张望——似乎想确认之前那位说书先生是否还在原地。",
+    "english_speaker": "Narrator",
+    "english_text": "She speaks with warm familiarity to the other residents, but keeps an eye in the direction of the tea house—as though anxious to confirm whether the Storyteller from before is still there."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "当看到远处那摇头晃脑的身影后，她终于露出释然和欢欣的神色。",
+    "english_speaker": "Narrator",
+    "english_text": "After seeing his swaying figure in the distance, a look of joy lightens up her face."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……",
+    "english_speaker": "Yenisei",
+    "english_text": "..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞安静观察，慢慢退后，转身朝别斯米尔走去。刚才人们的对话流进她的耳朵，使她确定了一个事实。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei quietly observes the scene and retreats, turning around to walk toward Besmert. The conversations among the locals flow into her ears, allowing her to confirm a crucial fact."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "女士，请跟我来。那位应该就是……里正所说的“执礼”。",
+    "english_speaker": "Yenisei",
+    "english_text": "Please follow me, Madam. That lady must be the \"Zhílǐ\" that Lǐzhèng mentioned."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "请您留神脚下，现在地面上有些乱糟糟的。我们得继续跟上去看看，或许能与她搭上话。",
+    "english_speaker": "Yenisei",
+    "english_text": "Please mind your steps, as we are walking in a mess now. We need to follow the crowd and see if we will have a chance to talk to her."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "——先不论——烛夜如何——",
+    "english_speaker": "Storyteller",
+    "english_text": "Let's put aside the Zhúyè for now ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……？",
+    "english_speaker": "Yenisei",
+    "english_text": "...?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "两人一走到茶馆前，没等拾到一个好位置，便发现人潮都追着石台上的声音向前涌去。",
+    "english_speaker": "Narrator",
+    "english_text": "Little sooner than they reach the tea house, do they notice the crowd rushing toward a stone platform, filling up every nearby space before they have a chance to find a seat."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他们更紧地聚拢在茶店前的空地，以至于身在其中的两人也被裹挟到那人面前。",
+    "english_speaker": "Narrator",
+    "english_text": "The crowd fills the tea house tightly. The surge of people pushes Bessmert and Yenisei right in front of the Storyteller."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "且说那帝尧，亦是多见此类异兽——",
+    "english_speaker": "Storyteller",
+    "english_text": "... And talk about Emperor Yáo. He had seen strange beasts like this many times ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "他的声音娓娓道来，的确带着某种奇异的魔力，连并不为此而来的人都自然被吸引。",
+    "english_speaker": "Narrator",
+    "english_text": "He speaks with eloquence, as if possessing some strange magic that naturally attracts even those who didn't go there to hear him."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "其在位日久，及至七年。有使者前来献宝。此使乃结匈国人，样貌精奇，胸脯尖削，自称从玉门关外万万里处来。",
+    "english_speaker": "Storyteller",
+    "english_text": "It was the seventh year of his reign. Yáo granted an audience to an envoy offering a treasure from the Jiéxiōng Kingdom. The envoy had a strange face and a bulgy chest. He claimed to have come from somewhere millions of miles away from the Yúmén Pass."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "“有鸟生来即通人言，鸣若凤啸，吾人引以为祥瑞，特此献上人主！”",
+    "english_speaker": "Storyteller",
+    "english_text": "\"This bird is born with the talent for human languages and the phoenix's voice. Our people see it as a Xiángruì, and I am here to offer it to you, Your Majesty!\""
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "帝尧诸臣见证，结匈使者所献宝物果真为一巨鸟。其貌壮如山峦，有凤凰之姿，青身红尾，神貌不凡！",
+    "english_speaker": "Storyteller",
+    "english_text": "Then Yáo and his people saw a real giant bird. It was as huge as a mountain and as dazzling as a phoenix. It had an azure body and red tail feathers!"
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "难道真的是凤凰？",
+    "english_speaker": "Citizen II",
+    "english_text": "Was it really a phoenix?"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "哎，非也，非也。此鸟唤作灭蒙鸟，云是能勘骨相，改命貌，禳异灾！",
+    "english_speaker": "Storyteller",
+    "english_text": "Oh no, no. The bird was called Mièméng. It was said to be able to read one's bones, change their fate, and even remove misfortune."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "于是帝尧甚悦，故另辟山头饲之。今人所见灭蒙，盖度朔山始祖之后也。",
+    "english_speaker": "Storyteller",
+    "english_text": "Yáo was pleased with the gift and kept the bird in Dùshuò Mountain. Naturally, that very bird was the ancestor of all the Mièméngs nowadays."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "先前那位绿衣姑娘眼中盈满了艳羡的神色。",
+    "english_speaker": "Narrator",
+    "english_text": "The envy in the eyes of the girl clad in green matches her attire completely."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "您、您有亲眼见过灭蒙鸟吗？",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "H-have you seen a Mièméng with your own eyes?"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "莫急莫急。灭蒙鸟生性喜静好洁，古今之人常将门前扫净，盼望祥瑞禽鸟停留聚集。虽时不定，长此以往，或可见之。",
+    "english_speaker": "Storyteller",
+    "english_text": "Be patient and listen. Mièméngs tend to inhabit silent and clean environments, so since the ancient times, the people have always cleaned their yards carefully from time to time, hoping the Xiángruìs will gather and stay beside them. It may not work immediately, but it makes things possible in the long term."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅲ：",
+    "chinese_text": "我们朔日需得扫门，原是这么个道理？",
+    "english_speaker": "Citizen III",
+    "english_text": "So that's why we have the tradition of cleaning the yards on Shuòri?"
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "正是。亦有人将金玉珠宝刻成灭蒙模样，装点家宅以求平安。是以诸位仰头望去，今日屋头檐上所刻时夜，其非时夜也，其真灭蒙也，家户所裁门笺亦是。",
+    "english_speaker": "Storyteller",
+    "english_text": "Exactly. Some even make Mièméng statues with jewelry and use them to decorate their homes, hoping the Mièméngs will bless the family. Remember the \"chicken\" statues on your roof? Actually, they are not chickens but Mièméngs, so are those birds you see in the paper-cutouts on the doors."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "说罢，他举起一张红色的门笺，上面剪刻了某种鸟类的形状。",
+    "english_speaker": "Narrator",
+    "english_text": "After saying this, he lifts a piece of red paper, carved in the shape of a peculiarly familiar bird."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "此鸟即为——灭蒙鸟。",
+    "english_speaker": "Storyteller",
+    "english_text": "Look, everyone. This is the Mièméng."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "众人露出了失望的神色。",
+    "english_speaker": "Narrator",
+    "english_text": "The crowd expresses an underwhelmed disappointment."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "唔。可这个，看起来像普通的鸡……",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Hmm. But this looks like a normal chicken ..."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "这看起来像松鸡。",
+    "english_speaker": "Yenisei",
+    "english_text": "More like a capercaillie to me."
+  },
+  {
+    "chinese_speaker": "小叶尼塞：",
+    "chinese_text": "……也像我刚才画的巨鸟？",
+    "english_speaker": "Yenisei",
+    "english_text": "And like the bird I just drew, isn't it?"
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "他说话的方式和语调很有韵律感，像是在唱歌。只可惜没有伴奏，清唱似乎令这些歌词失去了一些味道。",
+    "english_speaker": "Bessmert",
+    "english_text": "The way he is speaking is interesting, rhythmic, like singing. It would be great if there was some music to accompany him. Something is missing in his story without music."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "如果他能——",
+    "english_speaker": "Bessmert",
+    "english_text": "If he could ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "别斯米尔话音未落，红色的纸张瞬间在灰衣男子手中自燃，又于触到手指之前尽数化为灰烬，簌簌落到石台之上。",
+    "english_speaker": "Narrator",
+    "english_text": "Before Bessmert can finish speaking, the red paper instantly ignites in the hands of the Storyteller, and before touching his fingers, it becomes ashes and falls onto the stone platform."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "一旁侍立的小童则登时踮起脚来，利落地接手，将那些灰烬扫进了下方的炭盆中。",
+    "english_speaker": "Narrator",
+    "english_text": "The little boy standing beside him stands on his tiptoes, quickly taking the initiative to sweep the ashes into the charcoal pot below."
+  },
+  {
+    "chinese_speaker": "说书先生：",
+    "chinese_text": "灭蒙属火，庭燎燃春，此即为喻。而话又说回——",
+    "english_speaker": "Storyteller",
+    "english_text": "Among the Five Elements, Mièméng belongs to the Fire. That's why people set fire in spring to drive away misfortunes. Speaking of ..."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "小叶尼塞的注意力被转移了。她目睹小童那一切动作，却不明白其中的含义，只是注视，直到噼啪的爆炸声在身后响起。",
+    "english_speaker": "Narrator",
+    "english_text": "Yenisei's attention is diverted. She witnesses the child's movements, but doesn't yet understand the meaning behind them, choosing to stare ahead until a crackling sound explodes behind her."
+  },
+  {
+    "chinese_speaker": "别斯米尔：",
+    "chinese_text": "这是——什么声音——？",
+    "english_speaker": "Bessmert",
+    "english_text": "What is this noise?"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "然而几乎身边所有人都对这动静见怪不怪，以至于此时与两人一同回过头去的，只有先前在闹市中力挽狂澜的曲娘。",
+    "english_speaker": "Narrator",
+    "english_text": "It seems no one cares about the noise of the cracker. Only Jiŭ Niángzĭ, who had previously worked so hard to restore order to the bustling city, turns around with the two of them."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她回头时，一种突然记起早前遗忘之事的懊恼神色，也逐渐浮现在她脸上。",
+    "english_speaker": "Narrator",
+    "english_text": "As she turns around, she seems to remember something and shows a remorseful look."
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "庭燎爆竿……糟了。天哪，我差点忘了正事！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "The cracker ... Shoot. I almost forgot!"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "抱歉、抱歉！请让开一下，我得出去——",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Sorry, excuse me! Please let me go out ..."
+  },
+  {
+    "chinese_speaker": "城中居民Ⅱ：",
+    "chinese_text": "这就不继续听啦？时辰还早着呢，急着回去酿酒吗？",
+    "english_speaker": "Citizen II",
+    "english_text": "You won't listen to the rest? It's still early. Oh, are you going back to the tavern to make our drinks?"
+  },
+  {
+    "chinese_speaker": "曲娘：",
+    "chinese_text": "不是酿酒，但也还有事呢……明天，明天一定请你们喝酒！",
+    "english_speaker": "Jiu Niangzi",
+    "english_text": "Not drinks, but other stuff! Oh, and \"drinks on the house\" tomorrow!"
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "人们低声调笑着，为曲娘让开一条小道来。小叶尼塞也牵住别斯米尔，以防跟过去时，她落在了身后。",
+    "english_speaker": "Narrator",
+    "english_text": "Everyone chuckles warmly, making way for Jiŭ Niángzĭ. Yenisei holds onto Bessmert to prevent her from falling behind."
+  },
+  {
+    "chinese_speaker": "旁白",
+    "chinese_text": "她们这回很轻易地跟上去了。无人对发色醒目的异乡人投以别样注视，所有人的注意力都集中在这位讲述传奇的“歌唱家”身上。",
+    "english_speaker": "Narrator",
+    "english_text": "This time, they follow her without incident. Despite the strangers' otherwise eye-catching hair, everyone's attention seems focused intently on the Storyteller telling the legend."
+  }
+]
